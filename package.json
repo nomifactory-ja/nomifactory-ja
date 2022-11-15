@@ -1,8 +1,7 @@
 {
 	"scripts": {
-		"build": "cd src && zip -r ../nomifactory-ja.zip ./*"
+		"build": "npx gulp build"
 	},
-	"main": "gulpfile.js",
 	"devDependencies": {
 		"@types/gulp": "^4.0.10",
 		"@types/gulp-zip": "^4.0.2",

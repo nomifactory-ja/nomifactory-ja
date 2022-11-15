@@ -11,7 +11,6 @@ const kebabCase = (string) =>
 
 async function zipFolder(path: string, zipName: string = upath.basename(path) + ".zip"): Promise<void> {
 	return new Promise((resolve) => {
-		console.log(zipName);
 		gulp
 			.src(upath.join(path, "**"), { nodir: true, base: path, dot: true })
 			.pipe(zip(zipName))
@@ -22,7 +21,7 @@ async function zipFolder(path: string, zipName: string = upath.basename(path) + 
 
 function makeZipper(src: string, artifactName: string) {
 	const zipFn = () => {
-		return zipFolder(upath.join(src), `${kebabCase(artifactName)}.zip`);
+		return zipFolder(upath.join(src), `${kebabCase(artifactName)}-for-${buildConfig.currentTarget}.zip`);
 	};
 
 	Object.defineProperty(zipFn, "name", {

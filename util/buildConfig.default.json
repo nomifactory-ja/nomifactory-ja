@@ -1,4 +1,6 @@
 {
+	"name": "nomifactory-ja",
 	"buildDestinationDirectory": "./build",
-	"destinationDirectory": "./dest"
+	"destinationDirectory": "./dest",
+	"currentTarget": "f378b4f"
 }

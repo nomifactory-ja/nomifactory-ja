@@ -13,7 +13,6 @@ export default async function buildResourcePack() {
 function replaceTagToSection() {
 	return through.obj((file, enc, cb) => {
 		if (path.extname(file.path) == ".lang") {
-			console.log(file.path);
 			file.contents = Buffer.from(file.contents.toString().replace(/<(.).>/g, "§$1"));
 		}
 		return cb(null, file);
@@ -23,7 +22,6 @@ function replaceTagToSection() {
 function replaceNLToNewLine() {
 	return through.obj((file, enc, cb) => {
 		if (path.extname(file.path) == ".lang") {
-			console.log(file.path);
 			file.contents = Buffer.from(file.contents.toString().replace(/<nl>/g, "%n"));
 		}
 		return cb(null, file);
