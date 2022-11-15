@@ -1,0 +1,5 @@
+{
+  "scripts": {
+    "build": "cd src && zip -r ../nomifactory-ja.zip ./*"
+  }
+}
