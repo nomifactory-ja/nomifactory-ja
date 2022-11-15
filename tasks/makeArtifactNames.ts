@@ -1,9 +1,15 @@
 import buildConfig from "../buildConfig";
+import { appendFileSync } from "fs";
 
 export default async function makeArtifactNames(): Promise<void> {
 	const body = makeArtifactNameBody(`${buildConfig.name}-for-${buildConfig.currentTarget}-lang`);
 
-	console.log(`::set-output name=lang::${body}`);
+	if (process.env.GITHUB_OUTPUT) {
+		appendFileSync(process.env.GITHUB_OUTPUT, `lang=${body}\n`);
+		console.log(`lang=${body}`);
+	} else {
+		console.log(`::set-output name=lang::${body}`);
+	}
 }
 
 function makeArtifactNameBody(baseName: string): string {

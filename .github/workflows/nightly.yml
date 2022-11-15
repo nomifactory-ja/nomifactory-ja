@@ -55,4 +55,4 @@ jobs:
         with:
           name: ${{ steps.artifactNames.outputs.lang }}
           path: |
-            build/**/*
+            build/*
