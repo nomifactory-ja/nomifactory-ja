@@ -1,0 +1,4 @@
+{
+	"buildDestinationDirectory": "./build",
+	"destinationDirectory": "./dest"
+}

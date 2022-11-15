@@ -1,5 +1,5 @@
 metaitem.circuit.energy_flow.name=Crystal Processor
-metaitem.circuit.quantum_processor.name=§5Quantum Circuit
+metaitem.circuit.quantum_processor.name=<55>Quantum Circuit
 metaitem.circuit.nano_processor_assembly.name=Nanoprocessor
 metaitem.circuit.nano_processor.name=Nanocircuit
 metaitem.circuit.processor_assembly.name=Microprocessor
@@ -11,4 +11,4 @@ metaitem.circuit.wetware_processor.name=Wetware Circuit
 metaitem.circuit.wetware_assembly.name=Wetware Processor
 metaitem.circuit.wetware_super_computer.name=Wetware Processor Array
 metaitem.circuit.wetware_mainframe.name=Wetware Processor Mainframe
-metaitem.quantumstar.name=§5Quantum Star
+metaitem.quantumstar.name=<55>Quantum Star
