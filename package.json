@@ -1,7 +1,4 @@
 {
-	"scripts": {
-		"build": "npx gulp build"
-	},
 	"devDependencies": {
 		"@types/gulp": "^4.0.10",
 		"@types/gulp-zip": "^4.0.2",

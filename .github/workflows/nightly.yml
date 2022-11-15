@@ -41,7 +41,7 @@ jobs:
         run: npm ci
 
       - name: "Build ResourcePack"
-        run: npm run build
+        run: npx gulp build
 
       ##
       ## Upload artifacts.
@@ -54,4 +54,4 @@ jobs:
         uses: actions/upload-artifact@v3
         with:
           name: ${{ steps.artifactNames.outputs.artifact-name }}
-          path: build/*
+          path: dest/*

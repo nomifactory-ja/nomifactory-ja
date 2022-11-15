@@ -2,6 +2,7 @@ import zip from "gulp-zip";
 import gulp from "gulp";
 import upath from "upath";
 import buildConfig from "../buildConfig";
+import through2 from "through2";
 
 const kebabCase = (string) =>
 	string
@@ -13,6 +14,11 @@ async function zipFolder(path: string, zipName: string = upath.basename(path) + 
 	return new Promise((resolve) => {
 		gulp
 			.src(upath.join(path, "**"), { nodir: true, base: path, dot: true })
+			.pipe(
+				through2.obj((file, enc, cb) => {
+					return cb(null, file);
+				}),
+			)
 			.pipe(zip(zipName))
 			.pipe(gulp.dest(buildConfig.buildDestinationDirectory))
 			.on("end", resolve);
