@@ -50,9 +50,8 @@ jobs:
         id: artifactNames
         run: npx gulp makeArtifactNames
 
-      - name: "Upload lang artifact"
-        uses: actions/upload-artifact@v2
+      - name: "Upload artifact"
+        uses: actions/upload-artifact@v3
         with:
           name: ${{ steps.artifactNames.outputs.artifact-name }}
-          path: |
-            build/*
+          path: build/*
