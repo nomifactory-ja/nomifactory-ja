@@ -14,7 +14,7 @@ multiblocktweaker.multiblock.large_microverse.description=An elite machine capab
 multiblocktweaker.multiblock.oildrillingrig.description=A structure that "drills" for oil, producing it seemingly from thin air.
 multiblocktweaker.multiblock.naquadahreactormk1.description=An advanced reactor that produces energy from the decay of Enriched Naquadah and Naquadria bolts.
 multiblocktweaker.multiblock.naquadahreactormk2.description=An elite reactor capable of capturing more energy from the decay of Enriched Naquadah and Naquadria bolts.
-multiblocktweaker.multiblock.lunarminingstation.description=A mining installation that §lonly forms on the moon§r. It deploys rovers to collect rare isotopes of helium and hydrogen.
+multiblocktweaker.multiblock.lunarminingstation.description=A mining installation that <ll>only forms on the moon<rr>. It deploys rovers to collect rare isotopes of helium and hydrogen.
 
 recipemap.cryogenicairdistillation.name=Cryogenic Air Distillation
 recipemap.small_microverse.name=Small Microverse Mission
