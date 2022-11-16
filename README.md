@@ -21,3 +21,7 @@ $ npx gulp build
 ```bash
 $ npx gulp zip
 ```
+
+## rules
+
+[translation rules (Japanese)](docs/rules.md)
