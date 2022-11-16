@@ -1,7 +1,10 @@
 {
-  "typescript.tsdk": "node_modules\\typescript\\lib",
-  "eslint.workingDirectories": ["./"],
-  "editor.codeActionsOnSave": {
-    "source.fixAll.eslint": true
-  }
+	"typescript.tsdk": "node_modules\\typescript\\lib",
+	"eslint.workingDirectories": ["./"],
+	"editor.codeActionsOnSave": {
+		"source.fixAll.eslint": true
+	},
+	"[minecraft-lang]": {
+		"editor.wordWrap": "bounded"
+	}
 }
