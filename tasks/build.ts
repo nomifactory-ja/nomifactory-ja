@@ -5,8 +5,8 @@ import path from "path";
 
 export default async function buildResourcePack() {
 	return src("src/**/*")
-		.pipe(replaceTagToSection())
 		.pipe(replaceNLToNewLine())
+		.pipe(replaceTagToSection())
 		.pipe(dest(buildConfig.destinationDirectory));
 }
 
