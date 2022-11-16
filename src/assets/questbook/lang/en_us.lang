@@ -1,10 +1,10 @@
 # line 0
 nomifactory.quest.line.0.title=はじまり
-nomifactory.quest.line.0.desc=GregTech Low Voltage Tier: 工場の建設を開始！<nl><nl><b>Deep Mob Learning<br>、初期の<bb>EnderIO<br>技術、<bb>Applied Energistics 2<rr> Digital Storageへのアクセスを解除。<nl><nl>先端材料と合金を精錬する<33>Electric Blast Furnace<br>を構築する。
+nomifactory.quest.line.0.desc=GregTech Low Voltage Tier: 工場建設を開始！<nl><nl><bb>Deep Mob Learning<rr>、初期の<bb>EnderIO<rr>の技術、<bb>Applied Energistics 2<rr> のDigital Storageへのアクセス。<nl><nl>先端材料と合金を精錬する<33>Electric Blast Furnace<rr>を造る。
 
 # line 1
 nomifactory.quest.line.1.title=ゲーム序盤
-nomifactory.quest.line.1.desc=GregTech Medium Voltage Tier: 新しい機械と初歩的な鉱石処理。<nl><nl>有機化学で<66>プラスチック<rr>、<33>蒸留塔<rr>を建設。<nl><nl>応用エネルギー学2<rr>自動化を実現する。<bb>Actually Additions<rr> を探求してください。
+nomifactory.quest.line.1.desc=GregTech Medium Voltage Tier: 新たな機械と初歩的な鉱石処理。<nl><nl>Organic Chemistryで<66>Plastics<rr>、<33>Distillation Tower<rr>を建設。<nl><nl>Applied Energistics 2<rr>の自動化を実現。<bb>Actually Additions<rr> の探求。
 
 # line 2
 nomifactory.quest.line.2.title=Mid Game
@@ -56,7 +56,7 @@ nomifactory.quest.db.2.desc=Note: this quest accepts both LV and MV Canning Mach
 
 # db 3
 nomifactory.quest.db.3.title=創世
-nomifactory.quest.db.3.desc=<55>Nomifactory<ff>へようこそ！<nl><nl>このパックは<bb>Lost Cities / Overworld dimension<ff>でのプレイを想定しています。<nl><nl>友達と一緒にプレイするなら、<ee>questbook party<ff>に招待するのを忘れないようにしましょう。 <nl><nl><ff>スカイブロックの世界に基地を作りたい場合は、<66>Void World Cake<ff>を地面に置き、一切れ食べるとVoidに飛ばされます。この場合、採掘のためにLost Cities / Overworld dimensionの次元に戻る必要がありますが、<ee>Void World<ff>では完全に安全な状態で自由に建築することができます。
+nomifactory.quest.db.3.desc=<55>Nomifactory<ff>へようこそ！<nl><nl>このパックは<bb>Lost Cities / Overworld ディメンション<ff>でのプレイを想定しています。<nl><nl>友達と一緒にプレイするなら、<ee>questbook party<ff>に招待するのを忘れないようにしましょう。 <nl><nl><ff>スカイブロックなワールドに基地を作りたい場合は、<66>Void World Cake<ff>を地面に置き、一切れ食べるとVoidに飛ばされます。この場合、採掘のためにLost Cities / Overworld ディメンションに戻る必要がありますが、<ee>Void World<ff>では完全に安全な状態で自由に建築することができます。
 
 # db 4
 nomifactory.quest.db.4.title=Ironの供給
