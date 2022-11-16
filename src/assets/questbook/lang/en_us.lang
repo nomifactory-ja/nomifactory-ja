@@ -1,10 +1,10 @@
 # line 0
-nomifactory.quest.line.0.title=The Beginning
-nomifactory.quest.line.0.desc=GregTech Low Voltage Tier: start building a factory!<nl><nl>Unlock access to <bb>Deep Mob Learning<rr>, early <bb>EnderIO<rr> tech, and <bb>Applied Energistics 2<rr> Digital Storage.<nl><nl>Build an <33>Electric Blast Furnace<rr> for smelting advanced materials and alloys.
+nomifactory.quest.line.0.title=はじまり
+nomifactory.quest.line.0.desc=GregTech Low Voltage Tier: 工場建設を開始！<nl><nl><bb>Deep Mob Learning<rr>、初期の<bb>EnderIO<rr>の技術、<bb>Applied Energistics 2<rr> のDigital Storageへのアクセス。<nl><nl>先端材料と合金を精錬する<33>Electric Blast Furnace<rr>を造る。
 
 # line 1
-nomifactory.quest.line.1.title=Early Game
-nomifactory.quest.line.1.desc=GregTech Medium Voltage Tier: new machines and rudimentary ore processing.<nl><nl>Organic Chemistry for <66>Plastics<rr>, and build a <33>Distillation Tower<rr>.<nl><nl><bb>Applied Energistics 2<rr> automation. Explore <bb>Actually Additions<rr>.
+nomifactory.quest.line.1.title=ゲーム序盤
+nomifactory.quest.line.1.desc=GregTech Medium Voltage Tier: 新たな機械と初歩的な鉱石処理。<nl><nl>Organic Chemistryで<66>Plastics<rr>、<33>Distillation Tower<rr>を建設。<nl><nl>Applied Energistics 2<rr>の自動化を実現。<bb>Actually Additions<rr> の探求。
 
 # line 2
 nomifactory.quest.line.2.title=Mid Game
@@ -56,7 +56,7 @@ nomifactory.quest.db.2.desc=Note: this quest accepts both LV and MV Canning Mach
 
 # db 3
 nomifactory.quest.db.3.title=創世
-nomifactory.quest.db.3.desc=Welcome to <55>Nomifactory<ff>!<nl><nl>This pack is intended to be played in a <bb>Lost Cities / Overworld dimension<ff>.<nl><nl>If you're playing with friends, don't forget to invite them to the <ee>questbook party<ff>.<nl><nl><ff>If you wish to build your base in a skyblock world, place the <66>Void World Cake<ff> down on the ground, and eat a slice to be sent to the void. Please note that you'll still need to return to the Lost Cities / Overworld dimension to mine, but you can freely build in complete safety in the <ee>Void World<ff>.
+nomifactory.quest.db.3.desc=<55>Nomifactory<ff>へようこそ！<nl><nl>このパックは<bb>Lost Cities / Overworld ディメンション<ff>でのプレイを想定しています。<nl><nl>友達と一緒にプレイするなら、<ee>questbook party<ff>に招待するのを忘れないようにしましょう。 <nl><nl><ff>スカイブロックなワールドに基地を作りたい場合は、<66>Void World Cake<ff>を地面に置き、一切れ食べるとVoidに飛ばされます。この場合、採掘のためにLost Cities / Overworld ディメンションに戻る必要がありますが、<ee>Void World<ff>では完全に安全な状態で自由に建築することができます。
 
 # db 4
 nomifactory.quest.db.4.title=Ironの供給
