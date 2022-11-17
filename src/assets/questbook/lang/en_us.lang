@@ -75,7 +75,7 @@ nomifactory.quest.db.7.title=ケーブル
 nomifactory.quest.db.7.desc=<66>Red Alloy Cable<ff>を始めとする最も基本的なケーブルは、<66>Rubber<ff>を消費し手でクラフトできます。<nl><nl>より高度なタイプのケーブルは<33>Assembling Machine<ff> と液体の<99>Rubber<ff>が必要ですが、今は簡単な方法で作成してみましょう。
 
 # db 8
-nomifactory.quest.db.8.title=The Third Tier Three Circuits
+nomifactory.quest.db.8.title=Tier 3: 3つの回路
 nomifactory.quest.db.8.desc=3つの<66>Microcircuit<rr>といくつかの標準的な部品があれば、Tier 3の最後の回路となる<66>Microprocessor<rr>にアップグレードすることができます。
 
 # db 9
