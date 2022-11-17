@@ -68,7 +68,7 @@ nomifactory.quest.db.5.desc=<aa>Mining Hammer<rr>は比較的安価な方法で�
 
 # db 6
 nomifactory.quest.db.6.title=もっと素材を
-nomifactory.quest.db.6.desc=続けていく前に、もう少し素材が必要です。<nl><nl><66>Redstone<ff>:<66>Cinnabar<ff>や<66>Ruby<ff>と一緒になった巨大な鉱脈で、ワールドの深部でのみ見られる。<nl><nl><66>Copper<ff>:主に2つの供給源があります。<66>Tetrahedrite<ff>鉱脈は高い場所、<66>Chalcopyrite<ff>鉱脈は低い場所にあり、少量の<66>Iron<ff>と一緒に見つかります。また、Iron鉱脈の中には<66>Malachite<ff>もあり、これもcopper鉱石の一種です。<nl><nl><66>Tin<ff>:基本的に地上にあるため、ほとんどの場合で地表からの<aa>Scanner<ff>探知が可能です。<66>Cassiterite<ff>はTin鉱石の一種で、常に一緒に発見できます。Tin鉱脈が見つからない場合は、<66>Aluminium<ff>や<66>Rock Salt<ff>の鉱脈の中に少量のTinがあるため、良いTin鉱脈を見つけるまでの代替案になるかもしれません。<nl><nl><66>Coal<ff>:比較的浅い場所で見つかります。<66>Lignite Coal<ff>は純度の低いCoalで、効果の弱いものです。<nl><nl><66>Gold<ff>:<66>Magnetite<ff>鉱脈の中にあり、地表に近いところにあります。
+nomifactory.quest.db.6.desc=続けていく前に、もう少し素材が必要です。<nl><nl><66>Redstone<ff>:<66>Cinnabar<ff>や<66>Ruby<ff>と一緒になった巨大な鉱脈で、地中の奥深くでのみ見られます。<nl><nl><66>Copper<ff>:主に2つの供給源があります。<66>Tetrahedrite<ff>鉱脈は高い場所、<66>Chalcopyrite<ff>鉱脈は低い場所にあり、少量の<66>Iron<ff>と一緒に見つかります。また、Iron鉱脈の中には<66>Malachite<ff>もあり、これもcopper鉱石の一種です。<nl><nl><66>Tin<ff>:基本的に地上にあるため、ほとんどの場合で地表からの<aa>Scanner<ff>探知が可能です。<66>Cassiterite<ff>はTin鉱石の一種で、常に一緒に発見できます。Tin鉱脈が見つからない場合は、<66>Aluminium<ff>や<66>Rock Salt<ff>の鉱脈の中に少量のTinがあるため、良いTin鉱脈を見つけるまでの代替案になるかもしれません。<nl><nl><66>Coal<ff>:比較的浅い場所で見つかります。<66>Lignite Coal<ff>は純度の低いCoalで、効果の弱いものです。<nl><nl><66>Gold<ff>:<66>Magnetite<ff>鉱脈の中にあり、地表に近いところにあります。
 
 # db 7
 nomifactory.quest.db.7.title=Cables
