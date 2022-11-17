@@ -48,7 +48,7 @@ nomifactory.quest.db.0.desc=このデバイスの主な目的は、<66>Certus Qu
 
 # db 1
 nomifactory.quest.db.1.title=結晶成長装置
-nomifactory.quest.db.1.desc=<33>Crystal Growth Chamber<rr>は、<bb>Applied Energistics<rr>の世界のクラフトレシピを機械の中で実行できるようにするものです。また、<66>Crystal Seeds<rr> を<66>Pure Crystal<rr> に成長させたり、<66>Fluix Crystal<rr> を作成する際にも使用します。<nl><nl>JEIでは、Chamberのレシピを直接表示していないので、ここで説明します。<nl><nl>3種類のクリスタルから任意のものを粉砕して、砂と混合してSeedを作成することができます。Seedはそれぞれ対応するPure Crystalに成長し、ほとんどのレシピで元のクリスタルの代用となります。Pure Crystalを使用すると、材料効率が2倍になるのがうれしいですね。なお、Pure Crystalを削ってさらに資源を増やすことはできません。ごめんね。<nl><nl>Fluix Crystalsは、今までに水のプールで作る必要がありましたが、ここでも同じ材料です。<66>Redstone Dust<rr>、<66>Charged Certus Quartz Crystal<rr>、<66>Nether Quartz<rr>を各1個ずつ入れると、Fluix Crystalsが2個生成されます。
+nomifactory.quest.db.1.desc=<33>Crystal Growth Chamber<rr>は、<bb>Applied Energistics<rr>の世界のクラフトレシピを機械の中で実行できるようにするものです。また、<66>Crystal Seeds<rr>を<66>Pure Crystal<rr>に成長させたり、<66>Fluix Crystal<rr>を作成する際にも使用します。<nl><nl>JEIでは、Chamberのレシピを直接表示していないので、ここで説明します。<nl><nl>3種類のクリスタルから任意のものを粉砕して、Sandと混合してSeedを作成することができます。Seedはそれぞれ対応するPure Crystalに成長し、ほとんどのレシピで元のクリスタルの代用となります。Pure Crystalを使用すると、材料効率が2倍になるのがうれしいですね。なお、Pure Crystalを削ってさらに資源を増やすことはできません。ごめんね。<nl><nl>Fluix Crystalsは、今までに水のプールで作る必要がありましたが、ここでも同じ材料です。<66>Redstone Dust<rr>、<66>Charged Certus Quartz Crystal<rr>、<66>Nether Quartz<rr>を各1個ずつ入れると、Fluix Crystalsが2個生成されます。
 
 # db 2
 nomifactory.quest.db.2.title=缶詰製造機と詰め合わせセット
