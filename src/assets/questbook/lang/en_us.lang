@@ -43,16 +43,16 @@ nomifactory.quest.line.10.title=Matter-Energy
 nomifactory.quest.line.10.desc=Convert between matter and energy with <bb>Applied Energistics<rr><rr>.<nl><nl>Automate ALL the things! o/
 
 # db 0
-nomifactory.quest.db.0.title=Charging Quartz
-nomifactory.quest.db.0.desc=The main purpose for this device is to turn <66>Certus Quartz Crystal<rr> into <66>Charged Certus Quartz Crystal<rr>.<nl><nl>This device can be powered with RF via energy conduits or use AE energy from a network via ME conduits or cables.<nl><nl>It accepts power from two sides. Which two sides? It's pretty easy to guess.<nl><nl><nl><nl><nl><nl><nl><nl><nl>Ok, ok. It's the top and bottom.<nl><nl>
+nomifactory.quest.db.0.title=チャージングクォーツ
+nomifactory.quest.db.0.desc=このデバイスの主な目的は、<66>Certus Quartz<rr> を <66>Charged Certus Quartz<rr> にすることです。<nl><nl>この装置は、エネルギー導管を介してRFで電力を供給したり、ME導管やケーブルを介してネットワークからAEエネルギーを使用することができます。<nl><nl>このデバイスは2つの側面から電力を受け取ります。さて、どちらの側でしょうか？簡単ですね。<nl><nl><nl><nl><nl><nl><nl><nl><nl>わかったわかった、答えは上と下です。<nl><nl>
 
 # db 1
-nomifactory.quest.db.1.title=Crystal Growth Chamber
-nomifactory.quest.db.1.desc=The <33>Crystal Growth Chamber<rr> allows you to perform <bb>Applied Energistics<rr>'s world crafting recipes inside of a machine. Hooray, you never have to drop more things in water again!<nl><nl>It is used for growing <66>Crystal Seeds<rr> into <66>Pure Crystals<rr>, and also for creating <66>Fluix Crystals<rr>.<nl><nl>JEI doesn't show the Chamber's recipes directly, so we'll explain it here:<nl><nl>Seeds are made by pulverizing any of the three crystal types and mixing the dust with sand. A seed grows into the corresponding Pure Crystal, which is substitutable for the original crystal in most recipes. Using Pure Crystals lets you effectively double your material efficiency, which is nice. And no, you can't grind down Pure Crystals to further multiply your resources. Sorry.<nl><nl>Fluix Crystals you've already had to make in a pool of water by now, and it's the same ingredients here: insert one each of a <66>Redstone Dust<rr>, <66>Charged Certus Quartz Crystal<rr>, and a <66>Nether Quartz<rr> to produce two Fluix Crystals.
+nomifactory.quest.db.1.title=結晶成長装置
+nomifactory.quest.db.1.desc=<33>Crystal Growth Chamber<rr>は、<bb>Applied Energistics<rr>の世界のクラフトレシピを機械の中で実行できるようにするものです。また、<66>Crystal Seeds<rr> を<66>Pure Crystal<rr> に成長させたり、<66>Fluix Crystal<rr> を作成する際にも使用します。<nl><nl>JEIでは、Chamberのレシピを直接表示していないので、ここで説明します。<nl><nl>3種類のクリスタルから任意のものを粉砕して、砂と混合してSeedを作成することができます。Seedはそれぞれ対応するPure Crystalに成長し、ほとんどのレシピで元のクリスタルの代用となります。Pure Crystalを使用すると、材料効率が2倍になるのがうれしいですね。なお、Pure Crystalを削ってさらに資源を増やすことはできません。ごめんね。<nl><nl>Fluix Crystalsは、今までに水のプールで作る必要がありましたが、ここでも同じ材料です。<66>Redstone Dust<rr>、<66>Charged Certus Quartz Crystal<rr>、<66>Nether Quartz<rr>を各1個ずつ入れると、Fluix Crystalsが2個生成されます。
 
 # db 2
-nomifactory.quest.db.2.title=Canning Machine and Assorted Stuff
-nomifactory.quest.db.2.desc=Note: this quest accepts both LV and MV Canning Machines.<nl><nl><aa>LV Batteries<rr> were very simple to make, but more effective forms of power storage will be more complex to build, so we'll need to lay the groundwork now.<nl><nl>Put your <33>Centrifuge<rr> to work for the <66>Antimony<rr> you'll need, which comes in tiny piles from processing <66>Tetrahedrite Ore<rr> and <66>Stibnite Ore<rr>.<nl><nl>
+nomifactory.quest.db.2.title=缶詰製造機と詰め合わせセット
+nomifactory.quest.db.2.desc=注：このクエストではLVとMVの両方のCanning Machineを使用できます。<nl><nl><aa>LV Batteries<rr>は非常に簡単に作れましたが、より効果的な電力貯蔵装置を作る手順はより複雑なので、今から基礎を固めておく必要があります。<nl><nl>Put your <33>Centrifuge<rr> to work for the <66>Antimony<rr> you'll need, which comes in tiny piles from processing <66>Tetrahedrite Ore<rr> and <66>Stibnite Ore<rr>.<nl><nl>
 
 # db 3
 nomifactory.quest.db.3.title=創世
@@ -71,24 +71,24 @@ nomifactory.quest.db.6.title=More Materials
 nomifactory.quest.db.6.desc=Before you continue, you'll need access to some more materials.<nl><nl><66>Redstone<ff>: Found only deep in the world, in massive veins paired with <66>Cinnabar<ff> and <66>Ruby<ff>.<nl><nl><66>Copper<ff>: Two primary sources. <66>Tetrahedrite<ff> veins are higher up, while <66>Chalcopyrite<ff> veins are lower, paired with some small amounts of <66>Iron<ff>. You'll also find <66>Malachite<ff> inside of Iron veins, this is another type of copper ore.<nl><nl><66>Tin<ff>: Found essentially at ground level, and almost always detectable by <aa>Scanner<ff> from the surface. <66>Cassiterite<ff> is another type of tin ore, and they're always found together. If you cannot find a vein of tin, there are small amounts of tin inside veins of <66>Aluminium<ff> and <66>Rock Salt<ff>, which might be enough to hold you over until you find a proper tin vein.<nl><nl><66>Coal<ff>: Found in relatively shallow depths. <66>Lignite Coal<ff> is just a less pure and less effective form of Coal.<nl><nl><66>Gold<ff>: Found inside of <66>Magnetite<ff> veins, close to the surface.
 
 # db 7
-nomifactory.quest.db.7.title=Cables
-nomifactory.quest.db.7.desc=The most basic cables, such as these <66>Red Alloy Cables<ff>, can be wrapped in their <66>Rubber<ff> insulation by hand.<nl><nl>More advanced types of cables will require an <33>Assembling Machine<ff> and liquid <99>Rubber<ff>, but you can do it the simple way for now.
+nomifactory.quest.db.7.title=ケーブル
+nomifactory.quest.db.7.desc=<66>Red Alloy Cable<ff>を始めとする最も基本的なケーブルは、<66>Rubber<ff>を消費し手でクラフトできます。<nl><nl>より高度なタイプのケーブルは<33>Assembling Machine<ff> と液体の<99>Rubber<ff>が必要ですが、今は簡単な方法で作成してみましょう。
 
 # db 8
 nomifactory.quest.db.8.title=The Third Tier Three Circuits
-nomifactory.quest.db.8.desc=With three <66>Microcircuits<rr> and some standard components, you can upgrade to the penultimate Tier Three circuit: a <66>Microprocessor<rr>.
+nomifactory.quest.db.8.desc=3つの<66>Microcircuit<rr>といくつかの標準的な部品があれば、Tier 3の最後の回路となる<66>Microprocessor<rr>にアップグレードすることができます。
 
 # db 9
-nomifactory.quest.db.9.title=Ore Doubling?
-nomifactory.quest.db.9.desc=In most expert packs, you want to try to process as little ore as possible before you get access to ore doubling. It's a habit most of us pick up.<nl><nl><ee>You shouldn't feel any pressure to do that in Nomifactory, though<ff>. Ore veins are massive, and mining is extremely fast with <aa>Mining Hammers<ff>. What's more, even once you get access to <33>Macerators<ff>, they initially process ore slowly and require power to operate.<nl><nl>Obvious exceptions would be rare materials or anything you buy with <dd>Nomicoins <ff>because you can't find it. Those are worth doubling, if possible.<nl><nl>But at least for now, you shouldn't feel any guilt about smelting the more common ores without doubling them! <ee>Ore doubling can be safely ignored until you have Medium Voltage machines or even later.<rr>
+nomifactory.quest.db.9.title=鉱石が倍に？
+nomifactory.quest.db.9.desc=ほとんどの工業化modpackの場合、鉱石は直接使わず、先に鉱石倍増処理をしたいものです。これは、ほとんどの人が身につけるべき習慣です。<nl><nl><ee>しかし、Nomifactoryではそのようなことは考えなくても良いはずです<ff>。このワールドでは鉱脈は巨大で、<aa>Mining Hammers<ff>を使えば非常に高速に採掘できます。たとえ早いうちに<33>Macerator<ff>を入手したとしても、最初は処理が遅く、稼働させるための電力確保も大変です。<nl><nl>レアな素材や<dd>Nomicoin<ff>で購入するようなものはできれば2倍にする価値がありますが、一般的な鉱石であれば2倍にせずに錬成してもそこまで問題にはなりません！（少なくとも今は）<ee>鉱石倍増はMedium Voltageが使えるようになるあたりまでであれば無視しても問題ないでしょう。<rr>
 
 # db 10
-nomifactory.quest.db.10.title=Tier Two Micro Miner
-nomifactory.quest.db.10.desc=The Second Micro Miner!<nl><nl>This uses an <bb>Extended Crafting<rr> table so it's not possible to automate the Miner itself with <bb>Applied Energistics 2<rr> just yet (this requires more advanced technology not easy to access until the Tier Four Micro Miner). You can make it semi-automatically by prestocking the components you need, and filling up the Extended Crafting Table with <bb>JEI<rr>!<nl><nl>This Micro Miner can get you:<66><nl>* Bauxite Ore<nl>* Niobium Ore<nl>* Copper Ore<nl>* Tungstate Ore<nl>* Scheelite Ore<nl>* Cassiterite Ore<nl>* Radium Salt<rr><nl><nl>As well as the <66>Stellar Creation Data<rr>, which will be useful much, much later.
+nomifactory.quest.db.10.title=Tier 2 マイクロマイナー
+nomifactory.quest.db.10.desc=Micro Miner第二弾です！<nl><nl>作成には<bb>Extended Crafting Table<rr>を使用するので、まだ<bb>Applied Energistics 2<rr>での作成自動化はできません（これはTier 4のMicro Minerが入手できる程度の高度な技術が必要です）。 必要な部品をあらかじめ仕込んでおき、<bb>JEI<rr>でExtended Crafting Tableを埋め尽くせば半自動的に作ることができます！<nl><nl>このMicro Minerは次の素材が手に入ります:<66><nl>* Bauxite Ore<nl>* Niobium Ore<nl>* Copper Ore<nl>* Tungstate Ore<nl>* Scheelite Ore<nl>* Cassiterite Ore<nl>* Radium Salt<rr><nl><nl>また、<66>Stellar Creation Data<rr>は遠い将来役に立つでしょう。
 
 # db 11
-nomifactory.quest.db.11.title=Electronics Subcomponents
-nomifactory.quest.db.11.desc=A "<ee>substrate<ff>" is the "board" part of a circuit board... the backing that the circuit components and wires are laid into. A good substrate needs to not conduct electricity, for obvious reasons. <66>Wood<rr> coated in <66>Sticky Resin<rr> is a primitive but effective material to use as your first substrate.<nl><nl>You'll also need to make <66>Vacuum Tubes<ff>, as well as some primitive <66>Resistors<rr>. <66>Paper<rr> will work as a material for these, for now.<nl><nl>Make sure to code these recipes into a <33>Crafting Station<rr>... you'll be making a LOT of these things.
+nomifactory.quest.db.11.title=エレクトロニクスサブコンポーネント
+nomifactory.quest.db.11.desc=「<ee>基盤<ff>」とは、回路基板の板の部分...回路部品や配線が敷き詰められる台紙のことです。良い基板とは、当然のことですが電気を通さないものでなければなりません。<66>Sticky Resin<br>を塗布した<66>Wood<rr>は、原始的ではありますが、最初の基材として有効な素材です。<nl><nl>また、<66>Vacuum Tube<ff>や原始的な<66>Resistor<rr>も作る必要があります。 <66>Paper<rr>は今のところこれらの材料として機能します。<nl><nl>これらのレシピを<33>Crafting Station<rr>にコード化しておいてください...これらはたくさん作ることになるでしょう。
 
 # db 12
 nomifactory.quest.db.12.title=Some Starter Tools
