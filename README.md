@@ -13,13 +13,8 @@ $ npm ci
 ### build
 
 ```bash
-$ npx gulp build
-```
-
-### make zip
-
-```bash
-$ npx gulp zip
+$ npx gulp build # now its make dest directory and zipped resource pack
+$ ls ./build
 ```
 
 ## rules
