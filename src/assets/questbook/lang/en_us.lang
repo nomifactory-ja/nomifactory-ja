@@ -116,7 +116,7 @@ nomifactory.quest.db.17.desc=<33>Gold Furnace<ff>はまたさらに高速化さ�
 
 # db 18
 nomifactory.quest.db.18.title=かまど v7.0
-nomifactory.quest.db.18.desc=<33>Obsidian Furnace<ff>は<33>Diamond Furnace<ff>と同じ速度ですが、<ee>2つのアイテムを同時に精錬できるので実質的な処理能力は2倍になります。<nl><nl>用途によってはObsidian FurnaceよりDiamond Furnaceの方が合うかもしれませんが、どちらもすぐに様々な機械のクラフト素材になるので、使わないとしてもクラフトしておくことは無駄にはなりません。
+nomifactory.quest.db.18.desc=<33>Obsidian Furnace<ff>は<33>Diamond Furnace<ff>と同じ速度ですが、<ee>2つのアイテムを同時に精錬できる<ff>ので実質的な処理能力は2倍になります。<nl><nl>用途によってはObsidian FurnaceよりDiamond Furnaceの方が合うかもしれませんが、どちらもすぐに様々な機械のクラフト素材になるので、使わないとしてもクラフトしておくことは無駄にはなりません。
 
 # db 19
 nomifactory.quest.db.19.title=LV Alloy Smelter
