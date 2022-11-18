@@ -3,6 +3,7 @@
 		"@types/gulp": "^4.0.10",
 		"@types/gulp-zip": "^4.0.2",
 		"@types/through2": "^2.0.38",
+		"danger": "^11.2.0",
 		"gulp": "^4.0.2",
 		"gulp-zip": "^5.1.0",
 		"through2": "^4.0.2",
