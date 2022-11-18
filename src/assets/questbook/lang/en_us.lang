@@ -24,11 +24,11 @@ nomifactory.quest.line.5.desc=You're in the endgame now...<nl><nl>Harvest entire
 
 # line 6
 nomifactory.quest.line.6.title=Genesis
-nomifactory.quest.line.6.desc=Welcome to <55>Nomifactory<rr>, I'll be your guide.
+nomifactory.quest.line.6.desc=Welcome to <55>明らかな間違い訳<rr>, I'll be your guide.
 
 # line 7
 nomifactory.quest.line.7.title=Into The Microverse
-nomifactory.quest.line.7.desc=Get your feet wet with <bb>Extra Utilities<rr> and <bb>Extended Crafting<rr>.<nl><nl>Conquer The End or invest in <bb>EnderIO <rr>for teleportation technologies.<nl><nl>Build a rocket and go to the Moon (or don't, but it's fun).<nl><nl>Either way, it's time to start mining <ee>microverses<rr>.
+nomifactory.quest.line.7.desc=Get your feet wet with <bb>タグを多くしちゃったりする例<rr> and <bb>Extended Crafting<rr>.<nl><nl>Conquer The End or invest in <bb>EnderIO <rr>for teleportation technologies.<nl><nl>Build a rocket and go to the Moon (or don't, but it's fun).<nl><nl>Either way, it's time to start mining <ee>microverses<rr>.
 
 # line 8
 nomifactory.quest.line.8.title=Fun With Fusion
@@ -56,7 +56,7 @@ nomifactory.quest.db.2.desc=注：このクエストではLVとMVの両方のCan
 
 # db 3
 nomifactory.quest.db.3.title=創世
-nomifactory.quest.db.3.desc=<55>Nomifactory<ff>へようこそ！<nl><nl>このパックは<bb>Lost Cities / Overworld ディメンション<ff>でのプレイを想定しています。<nl><nl>友達と一緒にプレイするなら、<ee>questbook party<ff>に招待するのを忘れないようにしましょう。 <nl><nl><ff>スカイブロックなワールドに基地を作りたい場合は、<66>Void World Cake<ff>を地面に置き、一切れ食べるとVoidに飛ばされます。この場合、採掘のためにLost Cities / Overworld ディメンションに戻る必要がありますが、<ee>Void World<ff>では完全に安全な状態で自由に建築することができます。
+nomifactory.quest.db.3.desc=<55>ffの例<ff>へようこそ！<nl><nl>このパックは<bb>Lost Cities / Overworld ディメンション<ff>でのプレイを想定しています。<nl><nl>友達と一緒にプレイするなら、<ee>questbook partyff多すぎバージョン<ff><ff>に招待するのを忘れないようにしましょう。 <nl><nl><ff>スカイブロックなワールドに基地を作りたい場合は、<66><66>66多すぎバージョン<ff>を地面に置き、一切れ食べるとVoidに飛ばされます。この場合、採掘のためにLost Cities / Overworld ディメンションに戻る必要がありますが、<ee>Void World<ff>では完全に安全な状態で自由に建築することができます。
 
 # db 4
 nomifactory.quest.db.4.title=鉄の供給
