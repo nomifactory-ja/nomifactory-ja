@@ -25,3 +25,7 @@ $ npx gulp zip
 ## rules
 
 [translation rules (Japanese)](docs/rules.md)
+
+## progression
+
+![progress](https://github.com/naari3/nomifactory-ja-tracking/blob/main/translated-result.png?raw=true)
