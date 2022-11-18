@@ -140,7 +140,7 @@ nomifactory.quest.db.23.desc=<66>Dark Steel<rr>を作るには<66>Obsidian<rr>�
 
 # db 24
 nomifactory.quest.db.24.title=スチームダイナモ
-nomifactory.quest.db.24.desc=初めての大工事です！<nl><nl>Steam Dynamoには少量の<66>Silver<ff>が必要です。 もし、まだ<66>Galena鉱脈<ff>（Silverのある場所）を見つけていないなら、<dd>Nomicoin<rr>を使って<66>Silver Ore<rr>を「買う」ことも検討してみてください。まだ大量のSilverやLeadは必要ないので、破産することはないでしょう。<nl><nl><ee>ダイナモは燃料を燃焼させたときのみ電力を出力し、コイルに直接取り付けられているブロックにのみ電力が供給されること<ff>を念頭に置いてください。
+nomifactory.quest.db.24.desc=初めての大工事です！<nl><nl>Steam Dynamoには少量の<66>Silver<ff>が必要です。 もし、まだ<66>Galena鉱脈<ff>（Silverのある場所）を見つけていないなら、<dd>Nomicoin<rr>を使って<66>Silver Ore<rr>を「買う」ことも検討してみてください。まだ大量のSilverやLeadは必要ないので、破産することはないでしょう。<nl><nl><ee>Dynamoは燃料を燃焼させたときのみ電力を出力し、コイルに直接取り付けられているブロックにのみ電力が供給されること<ff>を念頭に置いてください。
 
 # db 25
 nomifactory.quest.db.25.title=ケーキを使ったディメンション転移
