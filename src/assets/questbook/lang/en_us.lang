@@ -96,39 +96,39 @@ nomifactory.quest.db.12.desc=慣れないうちのパックの奇抜さのひと
 
 # db 13
 nomifactory.quest.db.13.title=Batch Crafting In Style
-nomifactory.quest.db.13.desc=If you try to craft each item only when you need it, you'll go insane. It is far more effective to <ee>batch-craft<ff> frequently used items so you don't have to do it as often. It is very satisfying to get all the ingredients together then craft <ee>a stack of items<ff> all at once.<nl><nl><33>Crafting Stations<ff> are an indispensable tool for batch-crafting. They can save recipes for all the steps in production chains for things like tools, circuits, machine casings, and more. You will want to <ee>make several of them<rr><rr> for the convenience they offer.<nl><nl>Each Crafting Station comes with some inventory space for general items, as well as a dedicated row specifically for holding <bb>GregTech<rr> tools. In addition, Crafting Stations can <ee>interact with adjacent inventories<rr>, so you can keep common materials in a container between them. This includes access points to large virtual inventories, like a <aa>Drawer Controller<rr><rr>, which you will be able to make later.<nl><nl>To use the Crafting Station, you must either manually set up a recipe in the pattern area, or click-in a table recipe from <bb>JEI<rr>. Place the ingredients inside the Crafting Station or an adjacent container, then you can click the resulting item to craft it. Once an item is crafted, the recipe will appear on the top-right in the history pane. As usual, Shift-clicking the output item will craft up to a stack of it.<nl><nl>Each Crafting Station will remember <ee>up to the last nine recipes<rr> you made in them, which can be recalled by clicking the item in the top-right recipe history pane. Old recipes will be cycled out, so if you want to ensure a recipe doesn't ever get replaced by a different one, <ee>Shift-click the recipe in the history pane to lock it<rr>.<nl><nl>The available ingredients from neighboring inventories are visible through the <ee>Storage<rr> tab on the Crafting Station, and you can also place items into this tab to send them to available neighboring inventories.
+nomifactory.quest.db.13.desc=必要なときにだけ各アイテムをクラフトしようとすると、気が狂いそうになります。頻繁に使うアイテムは<ee>batch-craft<ff>する方がはるかに効果的で、頻繁にクラフトする必要がなくなります。素材が揃い、一度に<ee>たくさんのアイテム<ff>を作ることができるのは、とてもやりがいがあります。<nl><nl><33>Crafting Station<ff>はbatch-craftに欠かせないツールです。工具、回路、機械のケーシングなど、生産チェーンの全工程のレシピを保存することができます。便利なので<ee>いくつも<rr><rr>作りたくなることでしょう。<nl><nl>各Crafting Stationには、一般的なアイテムを収納できるインベントリスペースと、<bb>GregTech<rr>ツール専用の列が用意されています。また、Crafting Stationは隣接するインベントリと<ee>相互作用させることができる<rr>ので、素材をコンテナに入れて間に挟んでおくこともできます。これには、後で作る<a>Drawer Controller<rr>のような、大規模な仮想インベントリへのアクセスポイントも含まれます。<nl><nl>Crafting Stationを使用するには、パターンエリアに手動でレシピを設定するか、<bb>JEI<rr>からテーブルレシピをクリックする必要があります。素材をCrafting Stationや隣のコンテナの中に入れて、出来上がったアイテムをクリックすることでクラフトできます。アイテムがクラフトされると、履歴ペインの右上にレシピが表示されます。通常通り、Shiftキーを押しながら出力項目をクリックすると、そのスタック一杯までクラフトすることができます。<nl><nl>各Crafting Stationは、その中で作ったレシピを<ee>9つまで記憶しており<rr>、右上のレシピ履歴ペインでアイテムをクリックすることで呼び出すことができます。古いレシピは押し出される形で削除されますが、<ee>履歴ペインのレシピをShift+クリックすることでロックできます<rr>。<nl><nl>近隣のインベントリから入手可能な素材はCrafting Stationの<ee>Storage<rr>タブで確認することができます。また、このタブにアイテムを置くと、利用可能な近隣のインベントリに送ることができます。
 
 # db 14
-nomifactory.quest.db.14.title=Furnace v2.0
-nomifactory.quest.db.14.desc=<33>Iron Furnaces<ff> can smelt an item in <aa>150 ticks<ff>, which is somewhat faster than a vanilla <66>Furnace<ff>, which takes <aa>200 ticks<ff>. The fuel efficiency remains the same for all furnaces.
+nomifactory.quest.db.14.title=かまど v2.0
+nomifactory.quest.db.14.desc=<33>Iron Furnace<ff>は<aa>150 ticks<ff>でアイテムを精錬できます。バニラの<66>Furnace<ff>は<aa>200 ticks<ff>かかるので、比べると多少早くなっています。燃費はどのかまどでも変わりません。
 
 # db 15
-nomifactory.quest.db.15.title=Furnace v3.0
-nomifactory.quest.db.15.desc=<33>Copper Furnaces<ff> are another step up in speed, taking <aa>100 ticks<ff> to smelt an item.
+nomifactory.quest.db.15.title=かまど v3.0
+nomifactory.quest.db.15.desc=<33>Copper Furnace<ff>はアイテムの精錬に<aa>100 ticks<ff>かかり、もう一段階スピードアップしています。
 
 # db 16
-nomifactory.quest.db.16.title=Furnace v4.0
-nomifactory.quest.db.16.desc=<33>Silver Furnaces<ff> are another step up in speed, taking a mere <aa>60 ticks<ff> to smelt an item.
+nomifactory.quest.db.16.title=かまど v4.0
+nomifactory.quest.db.16.desc=<33>Silver Furnace<ff>はさらに高速化され、<a>60 ticks<ff>でアイテムを精錬することができます。
 
 # db 17
-nomifactory.quest.db.17.title=Furnace v5.0
-nomifactory.quest.db.17.desc=<33>Gold Furnaces<ff> are yet another step up in speed, taking only <aa>40 ticks<ff> to smelt an item.
+nomifactory.quest.db.17.title=かまど v5.0
+nomifactory.quest.db.17.desc=<33>Gold Furnace<ff>はまたさらに高速化され、<aa>40 ticks<ff>でアイテムを精錬することができます。
 
 # db 18
-nomifactory.quest.db.18.title=Furnace v7.0
-nomifactory.quest.db.18.desc=While <33>Obsidian Furnaces<ff> are the same speed as <33>Diamond Furnaces<ff>, they have twice the throughput since they can <ee>smelt two items at once<ff>.<nl><nl>You may find that Diamond Furnaces suit your needs better than Obsidian, but they'll both be crafting ingredients in various machines soon enough, so crafting one is not a waste, even if you don't use it.
+nomifactory.quest.db.18.title=かまど v7.0
+nomifactory.quest.db.18.desc=<33>Obsidian Furnace<ff>は<33>Diamond Furnace<ff>と同じ速度ですが、<ee>2つのアイテムを同時に精錬できるので実質的な処理能力は2倍になります。<nl><nl>用途によってはObsidian FurnaceよりDiamond Furnaceの方が合うかもしれませんが、どちらもすぐに様々な機械のクラフト素材になるので、使わないとしてもクラフトしておくことは無駄にはなりません。
 
 # db 19
 nomifactory.quest.db.19.title=LV Alloy Smelter
-nomifactory.quest.db.19.desc=Alloy Smelters are used to create alloys by melting and reforming items together.<nl><nl>Now you won't need to grind up metals into dusts and mix them for alloy dusts! Plus, many of the more complex alloys you couldn't make that way are now possible.
+nomifactory.quest.db.19.desc=合金製錬所は、複数のアイテムを溶かして改質することで合金を作るための施設です。<nl><nl>これで、金属を粉砕して合金用ダストにしたり、混ぜたりする必要がなくなります！さらに、その方法では作れなかった複雑な合金も作成可能になりました！
 
 # db 20
-nomifactory.quest.db.20.title=Furnace v6.0
-nomifactory.quest.db.20.desc=<33>Diamond Furnaces<ff> are the fastest available, taking only <aa>25 ticks<ff> to smelt an item.
+nomifactory.quest.db.20.title=かまど v6.0
+nomifactory.quest.db.20.desc=<33>Diamond Furnace<ff>は他のかまどと比べて最も速く、<aa>25 ticks<ff>でアイテムを精錬することができます。
 
 # db 21
-nomifactory.quest.db.21.title=Steel
-nomifactory.quest.db.21.desc=<66>Steel<rr> is a basic component in all sorts of machines and alloys. It is made in the <33>Alloy Smelter<rr>.<nl><nl>You might want to save your <66>Coal Dust<rr> for circuits and use <66>Charcoal Dust<rr> instead. Later, you can also centrifuge either of these dusts or <66>Coal Coke Dust<rr> into <66>Carbon Dust<rr>, which can be used for Steel and other useful things.
+nomifactory.quest.db.21.title=鋼鉄
+nomifactory.quest.db.21.desc=<66>Steel<rr>はあらゆる機械や合金の基本構成要素です。<33>Alloy Smelter<rr>で作成できます。<nl><nl><66>Coal Dust<rr>は回路用に取っておいて、代わりに<66>Charcoal Dust<rr>を使った方がいいかもしれませんね。その後、これらのダストか<66>Coal Coke Dust<rr>を遠心分離して<66>Carbon Dust<rr>を作成できます。これはSteelやその他の有用なものに利用することもできます。
 
 # db 22
 nomifactory.quest.db.22.title=Pyrolyse Oven
