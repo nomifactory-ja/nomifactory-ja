@@ -131,28 +131,28 @@ nomifactory.quest.db.21.title=鋼鉄
 nomifactory.quest.db.21.desc=<66>Steel<rr>はあらゆる機械や合金の基本構成要素です。<33>Alloy Smelter<rr>で作成できます。<nl><nl><66>Coal Dust<rr>は回路用に取っておいて、代わりに<66>Charcoal Dust<rr>を使った方がいいかもしれませんね。その後、これらのダストか<66>Coal Coke Dust<rr>を遠心分離して<66>Carbon Dust<rr>を作成できます。これはSteelやその他の有用なものに利用することもできます。
 
 # db 22
-nomifactory.quest.db.22.title=Pyrolyse Oven
-nomifactory.quest.db.22.desc=The main function of this oven is to increase the fuel values of your wood and coal while also recovering some of the various potentially useful waste products.<nl><nl>Turning <66>Coal<rr> into <66>Coal Coke<rr> will not only make it more useful as fuel, but will also produce <99>Phenol<rr>, which you'll need for circuits.<nl><nl>The Pyrolyse Oven is also the source of several other fluids that can be distilled for useful ingredients.<nl><nl>You can <66>sneak-right click<rr> the controller to enable the in-world preview.<nl>
+nomifactory.quest.db.22.title=熱分解オーブン
+nomifactory.quest.db.22.desc=Pyrolyse Ovenの主な機能は、WoodやCoalの燃料価値を高めると同時に、潜在的に有用なさまざまな廃棄物の一部を回収することです。<nl><nl><66>Coal<rr>を<66>Coal Coke<rr>にすると、燃料として使いやすくなるだけでなく、Circuitの作成に必要な<99>Phenol<rr>も生成されます。<nl><nl>Pyrolyse Ovenからは、他にも蒸留することで有用な成分を得られる液体がいくつか出てきます。<nl><nl>また、コントローラーで<66>スニーク+右クリック<rr>すると、インワールドプレビューを有効にすることができます。<nl>
 
 # db 23
-nomifactory.quest.db.23.title=Obsidian
-nomifactory.quest.db.23.desc=You'll need <66>Obsidian<rr> to make <66>Dark Steel<rr>. Most of the tools you can make cannot mine Obsidian, but you do have a few potential options for ones that will work. The options you're most likely to have access to at this point are:<nl><nl>1) A <aa>Diamond Pickaxe<rr> or <aa>Diamond Mining Hammer<rr>.<nl><nl>2) A <aa>Platinum Mining Hammer<rr> (not pickaxe though).
+nomifactory.quest.db.23.title=黒曜石
+nomifactory.quest.db.23.desc=<66>Dark Steel<rr>を作るには<66>Obsidian<rr>が必要です。Obsidianを採掘できるツールは限られています。現時点で入手しやすいツールは次のとおりです:<nl><nl>1) <aa>Diamond Pickaxe<rr>または<aa>Diamond Mining Hammer<rr><nl><nl>2) <aa>Platinum Mining Hammer<rr>(ピッケルではなく)
 
 # db 24
-nomifactory.quest.db.24.title=Steam Dynamo
-nomifactory.quest.db.24.desc=Your first major crafting project!<nl><nl>You'll need a small bit of <66>Silver<ff> for this dynamo. If you haven't found a <66>Galena vein<ff> yet (which is where Silver is), then consider "buying" some <66>Silver Ore<rr> using <dd>Nomicoins<rr>. You won't need a ton of silver and lead just yet, so it won't bankrupt you.<nl><nl>Keep in mind that <ee>Dynamos only output power when burning through fuel, and only the block attached directly to the coil will get provided with power<ff>.
+nomifactory.quest.db.24.title=スチームダイナモ
+nomifactory.quest.db.24.desc=初めての大工事です！<nl><nl>Steam Dynamoには少量の<66>Silver<ff>が必要です。 もし、まだ<66>Galena鉱脈<ff>（Silverのある場所）を見つけていないなら、<dd>Nomicoin<rr>を使って<66>Silver Ore<rr>を「買う」ことも検討してみてください。まだ大量のSilverやLeadは必要ないので、破産することはないでしょう。<nl><nl><ee>Dynamoは燃料を燃焼させたときのみ電力を出力し、コイルに直接取り付けられているブロックにのみ電力が供給されること<ff>を念頭に置いてください。
 
 # db 25
-nomifactory.quest.db.25.title=Cake Based Dimensional Transit
-nomifactory.quest.db.25.desc=This quest is repeatable once per hour and gives you a free cake to the Void World or Overworld. You can also refill your cakes with the items indicated in their tooltips.
+nomifactory.quest.db.25.title=ケーキを使ったディメンション転移
+nomifactory.quest.db.25.desc=このクエストは1時間に1回繰り返し行うことができ、VoidまたはOverworldのケーキを無料で手に入れることができます。また、ツールチップに表示されているアイテムでケーキを補充することができます。
 
 # db 26
-nomifactory.quest.db.26.title=Dark Steel
-nomifactory.quest.db.26.desc=<66>Steel<rr> alloyed with <66>Obsidian<rr> makes <66>Dark Steel<rr>, which is needed for many of the machines in <bb>EnderIO<rr> and <bb>Applied Energistics<rr>.<nl><nl>Later, you can use <66>Void Crystal<rr> instead of Obsidian.
+nomifactory.quest.db.26.title=ダークスチール
+nomifactory.quest.db.26.desc=<66>Steel<rr>と<66>Obsidian<rr>を合金化した<66>Dark Steel<rr>は、<bb>EnderIO<rr>や<bb>Applied Energistics<rr>の多くの機械に必要です。<nl><nl>後に、黒曜石の代わりに<66>Void Crystal<rr>を使用することができるようになります。
 
 # db 27
-nomifactory.quest.db.27.title=LV Chemical Reactor
-nomifactory.quest.db.27.desc=The place for your very first chemical reactions, namely making some improved substrates.
+nomifactory.quest.db.27.title=LV化学反応器
+nomifactory.quest.db.27.desc=Chemical Reactorを使い化学反応を起こすことで、改良された基質を作ることができます。
 
 # db 28
 nomifactory.quest.db.28.title=Pulsating Dust
