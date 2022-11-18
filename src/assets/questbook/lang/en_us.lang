@@ -132,7 +132,7 @@ nomifactory.quest.db.21.desc=<66>Steel<rr>はあらゆる機械や合金の基�
 
 # db 22
 nomifactory.quest.db.22.title=熱分解オーブン
-nomifactory.quest.db.22.desc=Pyrolyse Ovenの主な機能は、WoodやCoalの燃料価値を高めると同時に、潜在的に有用なさまざまな廃棄物の一部を回収することです。<nl><nl><66>Coal<rr>を<66>Coal Coke<rr>にすると、燃料として使いやすくなるだけでなく、Circuitの作成に必要な<99>Phenol<rr>も生成されます。<nl><nl>Pyrolyse Ovenからは、他にも蒸留することで有用な成分を得られる液体がいくつか出てきます。<nl><nl>また、コントローラーを<66>Sneak+右クリック<rr>すると、インワールドプレビューを有効にすることができます。<nl>
+nomifactory.quest.db.22.desc=Pyrolyse Ovenの主な機能は、WoodやCoalの燃料価値を高めると同時に、潜在的に有用なさまざまな廃棄物の一部を回収することです。<nl><nl><66>Coal<rr>を<66>Coal Coke<rr>にすると、燃料として使いやすくなるだけでなく、Circuitの作成に必要な<99>Phenol<rr>も生成されます。<nl><nl>Pyrolyse Ovenからは、他にも蒸留することで有用な成分を得られる液体がいくつか出てきます。<nl><nl>また、コントローラーで<66>スニーク+右クリック<rr>すると、インワールドプレビューを有効にすることができます。<nl>
 
 # db 23
 nomifactory.quest.db.23.title=黒曜石
