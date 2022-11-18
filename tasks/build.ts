@@ -13,7 +13,7 @@ export default async function buildResourcePack() {
 function replaceTagToSection() {
 	return through.obj((file, enc, cb) => {
 		if (path.extname(file.path) == ".lang") {
-			file.contents = Buffer.from(file.contents.toString().replace(/<(.).>/g, "§$1"));
+			file.contents = Buffer.from(file.contents.toString().replace(/<(.)\1>/g, "§$1"));
 		}
 		return cb(null, file);
 	});
