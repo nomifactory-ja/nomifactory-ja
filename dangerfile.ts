@@ -22,7 +22,9 @@ danger.git.modified_files.forEach((file) => {
 		diff.chunks.forEach((chunk) => {
 			chunk.changes.forEach((change) => {
 				if (change.type === "add") {
-					message(render(change.content), file, change.ln);
+					if (change.content.includes(".desc=")) {
+						message(render(change.content), file, change.ln);
+					}
 				}
 			});
 		});
