@@ -2584,7 +2584,7 @@ nomifactory.quest.db.810.desc=<66>Sulfur<rr>はこれから起こるさまざま
 
 # db 811
 nomifactory.quest.db.811.title=硫黄鉱石
-nomifactory.quest.db.811.desc=<66>Sulfur Ore<rr>は現時点で入手できる唯一の<66>Sulfur Dust<rr>の供給源です。<nl><nl>または、<dd>Nomicoins<rr>を支払ってこの鉱石を購入し、もうpower storageを始めてしまっても良いかもしれません。<nl><nl>それ以外の鉱石は<aa>Nether<rr>にしかない上に、<aa>Nether<rr>に行くには<66>Nether Cake<rr>を使うしかありません。←そんなぁ！
+nomifactory.quest.db.811.desc=<66>Sulfur Ore<rr>は現時点で入手できる唯一の<66>Sulfur Dust<rr>の供給源です。<nl><nl>または、<dd>Nomicoin<rr>を支払ってこの鉱石を購入し、もうpower storageを始めてしまっても良いかもしれません。<nl><nl>それ以外の鉱石は<aa>Nether<rr>にしかない上に、<aa>Nether<rr>に行くには<66>Nether Cake<rr>を使うしかありません。←そんなぁ！
 
 # db 812
 nomifactory.quest.db.812.title="Distillation Tower" or "I Don't Need No Stinkin' Tower"
