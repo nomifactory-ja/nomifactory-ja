@@ -159,8 +159,8 @@ nomifactory.quest.db.28.title=Pulsating Dust
 nomifactory.quest.db.28.desc=<66>Pulsating Dust<rr> is a mysterious magical material that taps into the power of Ender. It has all sorts of strange and potentially dangerous applications, including the ability to make <66>Pulsating Ingots<rr> and <66>Ender Pearls<rr>.<nl><nl>Your first source of Pulsating Dust is <66>Uraninite<rr>, which you can get from <66>Uraninite Ore<rr>. Later on, you'll be able to produce Pulsating Dust by smelting <66>Resonant Clathrates<rr>.<nl><nl><cc>Please note that the Enderpearl Dust electrolysis recipe requires an EV Electrolyzer, and is most likely not worth it.<rr>
 
 # db 29
-nomifactory.quest.db.29.title=Pulsating Iron and Ender Pearls
-nomifactory.quest.db.29.desc=An <bb>Ender IO<rr> alloy.<nl><nl>Made from <66>Pulsating Dust<rr> and an <66>Iron Ingot<rr>.<nl><nl>If you can't find one otherwise, <66>Ender Pearls<rr> can be crafted using Pulsating Dust and a <66>Diamond<rr> in an <33>Alloy Smelter<rr>.
+nomifactory.quest.db.29.title=脈動する鉄とエンダーパール
+nomifactory.quest.db.29.desc=<66>Pulsating Iron<rr>は<bb>Ender IO<rr>の合金です。<nl><nl>これは<66>Pulsating Dust<rr>と<66>Iron Ingot<rr>から作られています。<nl><nl>もし<66>Enders Pearls<rr>を持っていない場合は、<33>Alloy Smelter<rr>でPulsating Dustと<66>Diamond<rr>を使って作ることもできます。
 
 # db 30
 nomifactory.quest.db.30.title=Electrical Steel
@@ -171,8 +171,8 @@ nomifactory.quest.db.31.title=Vibrant Capacitor Bank
 nomifactory.quest.db.31.desc=Two <aa>Advanced Capacitor Banks<rr> can be grafted together with a <66>Vibrant Crystal<rr> and <66>Vibrant Alloy Plates<rr> to create a <aa>Vibrant Capacitor Bank<rr>, which stores five times as much RF as the advanced bank, for a total of twenty-five times as much as the basic bank.
 
 # db 32
-nomifactory.quest.db.32.title=Advanced Capacitor Bank
-nomifactory.quest.db.32.desc=Two <aa>Capacitor Banks<rr> can be grafted together with a <66>Double-Layer Capacitor<rr> and <66>Electrical Steel<rr> to create an <aa>Advanced Capacitor Bank<rr>, which stores five times as much RF as the basic bank.
+nomifactory.quest.db.32.title=高度なコンデンサーバンク
+nomifactory.quest.db.32.desc=2つの<aa>Capacitor Banks<rr>を<66>Double-Layer Capacitor<rr>と<66>Electrical Steel<rr>でクラフトすると、<aa>Advanced Capacitor Bank<rr>ができます。<nl><nl>これはBasic Bankに比べて5倍のRFを蓄積することができます。
 
 # db 33
 nomifactory.quest.db.33.title=Basic Capacitor Bank
