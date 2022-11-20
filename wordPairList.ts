@@ -8,4 +8,5 @@ export const wordPairList: WordPairList = {
 	tool: "ツール",
 	world: "ワールド",
 	dimension: "ディメンション",
+	pulsating: "脈動する",
 };
