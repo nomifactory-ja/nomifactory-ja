@@ -23,4 +23,4 @@ $ ls ./build
 
 ## progression
 
-![progress](https://github.com/naari3/nomifactory-ja-tracking/blob/main/translated-result.png?raw=true)
+![progress](https://github.com/nomifactory-ja/nomifactory-ja-tracking/blob/main/translated-result.png?raw=true)
