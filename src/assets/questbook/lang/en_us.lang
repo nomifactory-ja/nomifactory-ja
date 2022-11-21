@@ -172,7 +172,7 @@ nomifactory.quest.db.31.desc=2つの<aa>Advanced Capacitor Bank<rr>を<66>Vibran
 
 # db 32
 nomifactory.quest.db.32.title=高度なコンデンサーバンク
-nomifactory.quest.db.32.desc=2つの<aa>Capacitor Banks<rr>を<66>Double-Layer Capacitor<rr>と<66>Electrical Steel<rr>でクラフトすると、<aa>Advanced Capacitor Bank<rr>ができます。<nl><nl>これはBasic Bankに比べて5倍のRFを蓄積することができます。
+nomifactory.quest.db.32.desc=2つの<aa>Capacitor Banks<rr>を<66>Double-Layer Capacitor<rr>と<66>Electrical Steel<rr>でクラフトすると、<aa>Advanced Capacitor Bank<rr>ができます。<nl><nl>これはBasic Bankに比べて5倍のRFを蓄えることができます。
 
 # db 33
 nomifactory.quest.db.33.title=Basic Capacitor Bank
