@@ -1,6 +1,6 @@
 # nomifactory-ja
 
-[[Download Nightly Build Here](https://nightly.link/naari3/nomifactory-ja/workflows/nightly/main)]
+[[Download Nightly Build Here](https://nightly.link/nomifactory-ja/nomifactory-ja/workflows/nightly/main)]
 
 ## dev
 
@@ -23,4 +23,4 @@ $ ls ./build
 
 ## progression
 
-![progress](https://github.com/naari3/nomifactory-ja-tracking/blob/main/translated-result.png?raw=true)
+![progress](https://github.com/nomifactory-ja/nomifactory-ja-tracking/blob/main/translated-result.png?raw=true)
