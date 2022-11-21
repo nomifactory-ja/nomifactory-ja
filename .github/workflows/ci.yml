@@ -1,11 +1,13 @@
 name: CI
 
 on:
-  - pull_request
+  pull_request_target:
+    types: [opened, synchronize, reopened, labeled]
 
 jobs:
   danger:
     runs-on: ubuntu-latest
+    if: contains(github.event.pull_request.labels.*.name, 'ok to danger')
 
     steps:
       - name: Generate token
