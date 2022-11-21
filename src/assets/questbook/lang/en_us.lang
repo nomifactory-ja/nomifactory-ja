@@ -159,8 +159,8 @@ nomifactory.quest.db.28.title=脈動するダスト
 nomifactory.quest.db.28.desc=<66>Pulsating Dust<rr>は、エンダーの力を利用した不思議な魔法素材です。<66>Pulsating Ingot<rr>や<66>Ender Pearl<rr>を作ることができるなど、奇妙で危険な用途が複数あります。<nl><nl>最初のうちは<66>Uraninite Ore<rr>から得られる<66>Uraninite<rr>から作ることができます。後に、<66>Resonant Clathrate<rr>を精錬することでPulsating Dustを生産できるようになります。<nl><nl><cc>Enderpearl Dustの電解レシピはEV Electrolyzerが必要なうえ、その価値はほとんどないことに注意してください。<rr>
 
 # db 29
-nomifactory.quest.db.29.title=Pulsating Iron and Ender Pearls
-nomifactory.quest.db.29.desc=An <bb>Ender IO<rr> alloy.<nl><nl>Made from <66>Pulsating Dust<rr> and an <66>Iron Ingot<rr>.<nl><nl>If you can't find one otherwise, <66>Ender Pearls<rr> can be crafted using Pulsating Dust and a <66>Diamond<rr> in an <33>Alloy Smelter<rr>.
+nomifactory.quest.db.29.title=脈動する鉄とエンダーパール
+nomifactory.quest.db.29.desc=<66>Pulsating Iron<rr>は<bb>Ender IO<rr>の合金です。<nl><nl>これは<66>Pulsating Dust<rr>と<66>Iron Ingot<rr>から作られています。<nl><nl>もし<66>Enders Pearls<rr>を持っていない場合は、<33>Alloy Smelter<rr>でPulsating Dustと<66>Diamond<rr>を使って作ることもできます。
 
 # db 30
 nomifactory.quest.db.30.title=電磁鋼
@@ -171,8 +171,8 @@ nomifactory.quest.db.31.title=鮮やかなコンデンサーバンク
 nomifactory.quest.db.31.desc=2つの<aa>Advanced Capacitor Bank<rr>を<66>Vibrant Crystal<rr>と<66>Vibrant Alloy Plates<rr>でクラフトすると、<aa>Vibrant Capacitor Bank<rr>ができます。これはAdvanced Bankの5倍、Basic Bankからは25倍のRFを蓄積することができます。
 
 # db 32
-nomifactory.quest.db.32.title=Advanced Capacitor Bank
-nomifactory.quest.db.32.desc=Two <aa>Capacitor Banks<rr> can be grafted together with a <66>Double-Layer Capacitor<rr> and <66>Electrical Steel<rr> to create an <aa>Advanced Capacitor Bank<rr>, which stores five times as much RF as the basic bank.
+nomifactory.quest.db.32.title=高度なコンデンサーバンク
+nomifactory.quest.db.32.desc=2つの<aa>Capacitor Banks<rr>を<66>Double-Layer Capacitor<rr>と<66>Electrical Steel<rr>でクラフトすると、<aa>Advanced Capacitor Bank<rr>ができます。<nl><nl>これはBasic Bankに比べて5倍のRFを蓄積することができます。
 
 # db 33
 nomifactory.quest.db.33.title=Basic Capacitor Bank
