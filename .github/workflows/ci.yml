@@ -3,24 +3,17 @@ name: CI
 on:
   - pull_request
 
-permissions:
-  actions: write
-  checks: write
-  contents: write
-  # deployments: read
-  issues: write
-  pull-requests: write
-  statuses: write
-
 jobs:
   danger:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Cancel previous runs
-        uses: styfle/cancel-workflow-action@0.9.1
+      - name: Generate token
+        id: generate_token
+        uses: tibdex/github-app-token@v1
         with:
-          access_token: ${{ secrets.GITHUB_TOKEN }}
+          app_id: ${{ secrets.APP_ID_DANGERBOT }}
+          private_key: ${{ secrets.APP_PEM_DANGERBOT }}
 
       - uses: actions/checkout@v3
 
@@ -35,4 +28,4 @@ jobs:
       - name: "Danger"
         run: npx danger ci
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ steps.generate_token.outputs.token }}
