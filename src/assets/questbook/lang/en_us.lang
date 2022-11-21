@@ -168,7 +168,7 @@ nomifactory.quest.db.30.desc=Electrical Steelは<66>Silicon Dust<rr>と<66>Steel
 
 # db 31
 nomifactory.quest.db.31.title=鮮やかなコンデンサーバンク
-nomifactory.quest.db.31.desc=2つの<aa>Advanced Capacitor Bank<rr>を<66>Vibrant Crystal<rr>と<66>Vibrant Alloy Plates<rr>でクラフトすると、<aa>Vibrant Capacitor Bank<rr>ができます。これはAdvanced Bankの5倍、Basic Bankからは25倍のRFを蓄積することができます。
+nomifactory.quest.db.31.desc=2つの<aa>Advanced Capacitor Bank<rr>を<66>Vibrant Crystal<rr>と<66>Vibrant Alloy Plates<rr>でクラフトすると、<aa>Vibrant Capacitor Bank<rr>ができます。これはAdvanced Bankの5倍、Basic Bankからは25倍のRFを蓄えることができます。
 
 # db 32
 nomifactory.quest.db.32.title=高度なコンデンサーバンク
