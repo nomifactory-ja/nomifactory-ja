@@ -3,15 +3,6 @@ name: CI
 on:
   - pull_request
 
-permissions:
-  actions: write
-  checks: write
-  contents: write
-  # deployments: read
-  issues: write
-  pull-requests: write
-  statuses: write
-
 jobs:
   danger:
     runs-on: ubuntu-latest
