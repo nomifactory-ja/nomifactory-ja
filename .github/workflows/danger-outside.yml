@@ -1,13 +1,13 @@
 name: CI
 
 on:
-  pull_request:
-    types: [opened, synchronize, reopened]
+  pull_request_target:
+    types: [labeled]
 
 jobs:
-  danger:
+  danger-outside:
     runs-on: ubuntu-latest
-    if: github.repository == 'nomifactory-ja/nomifactory-ja'
+    if: contains(github.event.pull_request.labels.*.name, 'ok to danger')
 
     steps:
       - name: Generate token
