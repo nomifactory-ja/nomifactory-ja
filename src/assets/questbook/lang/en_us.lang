@@ -184,11 +184,11 @@ nomifactory.quest.db.34.desc=<66>Energetic Blend<rr>と<66>Gold Ingot<rr>を<33>
 
 # db 35
 nomifactory.quest.db.35.title=鮮やかな合金
-nomifactory.quest.db.35.desc=EnderIOの合金です。
+nomifactory.quest.db.35.desc=<66>Vibrant Alloy<rr>はEnderIOの合金です。
 
 # db 37
 nomifactory.quest.db.37.title=ゴムシート
-nomifactory.quest.db.37.desc=<66>Rubber Tree<ff>を探しに行くというのは確かに有効な手段です。しかし、それが嫌ならLeavesを刈り取って<66>Plantball<ff>を作るという手もあります。Plantballは<66>Slime<ff>に精錬でき、Slimeは<66>Rubber<ff>に精錬できます。<nl><nl>Leaves対Rubberのレートはかなり悪いので、いずれはRubber Treeに移行したいところです。<nl><nl>金属がプレートになるように、ゴムもハンマーによってプレートにできます。このやり方はかなり非効率ですが、これがゲーム序盤の<bb>GregTech<ff>の進め方です。少なくとも、Rubberは特に難しいものではありません。
+nomifactory.quest.db.37.desc=<66>Rubber Tree<ff>を探しに行くというのは確かに有効な手段です。しかし、それが嫌ならLeavesを刈り取って<66>Plantball<ff>を作るという手もあります。Plantballは<66>Slime<ff>に精錬でき、Slimeは<66>Rubber<ff>に精錬できます。<nl><nl><ee>Leaves対Rubberのレートはかなり悪い<ff>ので、いずれはRubber Treeに移行したいところです。<nl><nl>金属がプレートになるように、ゴムもハンマーによってプレートにできます。このやり方はかなり非効率ですが、これがゲーム序盤の<bb>GregTech<ff>の進め方です。少なくとも、Rubberは特に難しいものではありません。
 
 # db 38
 nomifactory.quest.db.38.title=LV CEF
