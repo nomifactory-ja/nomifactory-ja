@@ -179,7 +179,7 @@ nomifactory.quest.db.33.title=基本的なコンデンサーバンク
 nomifactory.quest.db.33.desc=RF電源用の拡張可能なマルチストレージです。<nl><nl>最初のTierは大したことはありませんが、時間をかけてアップグレードすることで相当量のパワーを保持できるようになります。
 
 # db 34
-nomifactory.quest.db.34.title=エナジェティック合金
+nomifactory.quest.db.34.title=エネルギッシュ合金
 nomifactory.quest.db.34.desc=<66>Energetic Blend<rr>と<66>Gold Ingot<rr>を<33>Electric Blast Furnace<rr>で精錬した<bb>EnderIO<rr>の合金です。<nl><nl>両方の材料を入力バスに投入し、20秒後待つことで出力バスに<66>Energetic Alloy Ingot<rr>が出力されます。
 
 # db 35

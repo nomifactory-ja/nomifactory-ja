@@ -12,5 +12,5 @@ export const wordPairList: WordPairList = {
 	capacitor: "コンデンサー",
 	alloy: "合金",
 	plate: "板",
-	energetic: "エナジェティック",
+	energetic: "エネルギッシュ",
 };
