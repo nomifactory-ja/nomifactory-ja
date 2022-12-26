@@ -252,7 +252,7 @@ nomifactory.quest.db.54.desc=<66>Ender Eye<rr>ではキモさが足りない人�
 
 # db 55
 nomifactory.quest.db.55.title=遠心分離機
-nomifactory.quest.db.55.desc=注意: このクエストはLV、MV、HV Centrifugeのいずれかを使用します。<nl><nl><33>Centrifuge<br>で鉱石の粉を処理すると、tiny pileが3個追加されます(<ee>tiny pile 9個 ＝ 粉 1個<rr>)。それらはただの小さくした粉であることもありますが、他では手に入らない別の有用な素材であることも多いです。<nl><nl>鉱石を浸漬したり、ハンマーで叩いて作った<66>Impure dust<rr>を釜で洗う方法と比べて、Centrifugeにかけた場合はそれぞれの粉をより多く得ることができます。今後<33>Washer<rr> or <33>Chemical Bath<rr>を作る時にも同じことが<66>pure dust<rr>にも言えます。ただし、純粉と不純粉では副生成物が異なるので注意が必要です(必ず<bb>JEI<rr>で確認してください)。<nl><nl>また、Centrifugeは化合物の粉や液体を混ぜたり、<66>Sulfur<rr>と化学反応させて<99>Liquid Rubber<rr>を効率的に作る<66>Rubber Pulp<rr>を得られるなどの副作用もあります。<nl><nl>
+nomifactory.quest.db.55.desc=注意: このクエストはLV、MV、HV Centrifugeのいずれかを使用します。<nl><nl><33>Centrifuge<rr>で鉱石の粉を処理すると、tiny pileが3個追加されます(<ee>tiny pile 9個 ＝ 粉 1個<rr>)。それらはただの小さくした粉であることもありますが、他では手に入らない別の有用な素材であることも多いです。<nl><nl>鉱石を浸漬したり、ハンマーで叩いて作った<66>Impure dust<rr>を釜で洗う方法と比べて、Centrifugeにかけた場合はそれぞれの粉をより多く得ることができます。今後<33>Washer<rr> or <33>Chemical Bath<rr>を作る時にも同じことが<66>pure dust<rr>にも言えます。ただし、純粉と不純粉では副生成物が異なるので注意が必要です(必ず<bb>JEI<rr>で確認してください)。<nl><nl>また、Centrifugeは化合物の粉や液体を混ぜたり、<66>Sulfur<rr>と化学反応させて<99>Liquid Rubber<rr>を効率的に作る<66>Rubber Pulp<rr>を得られるなどの副作用もあります。<nl><nl>
 
 # db 56
 nomifactory.quest.db.56.title=Putting It All Together
