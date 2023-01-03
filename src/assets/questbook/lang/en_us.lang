@@ -192,59 +192,59 @@ nomifactory.quest.db.37.desc=<66>Rubber Tree<ff>を探しに行くというの�
 
 # db 38
 nomifactory.quest.db.38.title=LV CEF
-nomifactory.quest.db.38.desc=<oo>Note: this quest accepts the 4x or 16x CEF (LV).<rr><nl><nl>Until now you have been generating <aa>RF power<rr> with your <33>Steam Dynamos<rr>, but <bb>GregTech<rr> machines require <aa>EU power<rr>. With your first <66>circuit<rr> in hand, you are ready to build a <ee>Low Voltage (LV) <33>CEF<rr>.<nl><nl>The <33>CEF<rr> is a special device that <ee>converts <aa>RF power<rr> into <aa>EU power<rr>. CEFs come in two sizes: <ee>4 Amps<rr> and <ee>16 Amps<rr>, which have 4 and 16 inventory slots, respectively. Each slot in a CEF can hold a single <66>Battery<rr>.<nl><nl>You don't <oo>need<rr> to put <bb>GregTech<rr> batteries inside the CEF<rr>, but keep in mind that <ee>the CEF will be restricted to at most outputting one amp per battery inside<rr> if you do. With no batteries, they will output up to their rated number of amps as needed.<nl><nl><aa>RF<rr> converts into <aa>EU<rr> at a <ee>4 to 1 ratio<rr>. <aa>100 RF<rr> becomes <aa>25 EU<rr>, and vice-versa. If you ever switch over to being primarily powered by <aa>EU<rr>, a device called the <33>CEU<rr> can switch power from <aa>EU<rr> into <aa>RF<rr>.
+nomifactory.quest.db.38.desc=<oo>注意: このクエストでは、4倍または16倍のCEF(LV)を受け付けます。<rr><nl><nl>今までは<33>Steam Dynamo<rr>で<aa>RF power<rr>を生成していましたが、<bb>GregTech<rr>のマシンを動かすためには<aa>EU power<rr>が必要です。 最初の<66>Circuit<rr>を手にしたあなたは、<ee>Low Volutage (LV) <33>CEF<rr>を構築する準備が整ったことになります。<nl><nl><33>CEF<rr>は、<a>RFパワー<rr>を<a>EUパワー<rr>に変換する特殊なデバイスです。CEFには2つのサイズがあります。<ee>4 Amp<rr>と<ee>16 Amp<rr>があり、それぞれ4個と16個のインベントリースロットを備えています。CEFの各スロットには、<66>Battery<rr>を1個搭載することができます。<nl><nl>CEFの中に<bb>GregTech<rr>バッテリーを入れる<oo>必要はありません<rr>が、入れた場合、<ee>CEFはバッテリー1個につき最大1Aまでしか出力できないので注意が必要です<rr>。Batteryがない状態でも、必要に応じて定格アンペア数まで出力します。<nl><nl><aa>RF<rr>は<a>EU<rr>に<ee>4:1<rr>の割合で変換されます。<aa>100 RF<rr>は<a>25 EU<rr>になり、その逆も同様です。もし<aa>EU<rr>を主電源とすることになった場合、<33>CEU<rr>というデバイスが<aa>EU<rr>から<aa>RF<rr>に電源を切り替えられるようになります。
 
 # db 39
-nomifactory.quest.db.39.title=Item Conduits
-nomifactory.quest.db.39.desc=Item conduits are useful for moving items between inventories over moderate distances.<nl><nl>Crafting them in an Assembling Machine instead of by hand gives twice as many conduits.
+nomifactory.quest.db.39.title=アイテム導管
+nomifactory.quest.db.39.desc=Item Conduitは、ストレージ間のアイテムを適度な距離で移動させるのに有効です。<nl><nl>手作業ではなく、Assembling Machineで作成すると、Conduitの数が2倍になります。
 
 # db 40
-nomifactory.quest.db.40.title=Conductive Iron Energy Conduits
-nomifactory.quest.db.40.desc=The most basic tier of <aa>RF<rr> energy conduits from <bb>EnderIO<rr>.<nl><nl>These can be used to transport energy from your <33>Steam Dynamos<rr> to various destinations.
+nomifactory.quest.db.40.title=導電性鉄鋼エネルギー導管
+nomifactory.quest.db.40.desc=Conductive Iron Energy Conduitsは<bb>EnderIO<rr>の<aa>RF<rr>エネルギー導管で最も基本的なTierの導管です。<nl><nl><33>Steam Dynamo<rr>のエネルギーを様々な場所に運搬するために使用します。
 
 # db 41
-nomifactory.quest.db.41.title=Energetic Alloy Energy Conduits
-nomifactory.quest.db.41.desc=Now that you have <66>Energetic Alloy<rr>, it's time to make some better conduits!<nl><nl>Each time you upgrade your conduits, you'll also get more of them. Neat!<nl><nl>If you don't have an <33>Assembling Machine<rr>, you'll have to make them by hand. This method isn't as efficient as the machine, but you'll make one soon enough.
+nomifactory.quest.db.41.title=エネルギッシュな合金のエネルギー導管
+nomifactory.quest.db.41.desc=<66>Energy Alloy<rr>を手に入れたからには、もっといい導管を作りましょう！<nl><nl>導管をアップグレードするたびに、導管の数も増えていきます。素晴らしい！<nl><nl><33>Assembling Machine<rr>がない場合は、手作業で作るしかありません。この方法は機械ほど効率的ではありませんが、すぐに作成できるようになります。
 
 # db 42
-nomifactory.quest.db.42.title=Vibrant Alloy Energy Conduits
-nomifactory.quest.db.42.desc=Conduits to carry even MORE RF power.<nl><nl>You're making these in the <33>Assembling Machine<rr>, right?
+nomifactory.quest.db.42.title=鮮やかな合金のエネルギー導管
+nomifactory.quest.db.42.desc=さらに多くのRFパワーを運ぶための導管。<nl><nl>もう<33>Assembling Machine<rr>で作りますよね？
 
 # db 44
-nomifactory.quest.db.44.title=Double Capacitor
-nomifactory.quest.db.44.desc=Combining <66>Basic RF Capacitors<rr> with some <66>Coal Dust<rr> and <66>Energetic Alloy<rr> produces a <66>Double-Layer RF Capacitor<rr>.<nl><nl>This is a tier two capacitor. Higher tier RF Capacitors will make <bb>EnderIO<rr> machines process faster and depending on the machine will expand their capabilities further (like area of effect).
+nomifactory.quest.db.44.title=ダブルコンデンサー
+nomifactory.quest.db.44.desc=<66>Basic RF Capacitors<rr>と<66>Coal Dust<rr> および<66>Energetic Alloy<rr>を組み合わせると、<66>Double-Layer RF Capacitor<rr> が出来上がります。<nl><nl>これはTier 2のコンデンサーです。より高いレベルのRFコンデンサーは<bb>EnderIO<rr>マシンの処理をより速くし、マシンによってはその能力をさらに拡張します(例えば効果範囲など)。
 
 # db 45
-nomifactory.quest.db.45.title=Ironman
-nomifactory.quest.db.45.desc=Being able to fly is nice. This is the first jetpack that uses <bb>EnderIO<rr> materials.<nl><nl>There's also a quest chain for <bb>Thermal Expansion<rr> material Jetpacks (starting with the <66>Leadstone Jetpack<rr>). Eventually you'll need to make both, but not for a long time, so feel free to ignore at least one of these quest chains unless you really really like flying.<nl><nl>If the <66>Jetpack<rr> overview and information from <bb>The One Probe<rr> conflict, they can be adjusted through the <bb>Simply Jetpacks 2<rr> <ee>Configuration file<rr> or the command <66>/topcfg<rr> respectively.
+nomifactory.quest.db.45.title=アイアンマン
+nomifactory.quest.db.45.desc=空を飛べると良いですよね。これは<bb>EnderIO<rr>の素材を使用した初めてのジェットパックです。<nl><nl>また、<bb>Thermal Expansion<rr>素材のジェットパック（<66>Leadstone Jetpack<rr>から始まる）のクエストチェーンも存在します。最終的には両方作る必要がありますが、そう長くは続かないので、本当に飛行機が好きな人以外は、これらのクエストチェーンのうち少なくとも1つを無視してもかまいません。<nl><nl><66>Jetpack<rr>の概要と<bb>The One Probe<rr>の情報が矛盾する場合、それぞれ<bb>Simply Jetpacks 2<rr> <ee>Configuration file<rr>またはコマンド<66>/topcfg<rr>で調整することが可能です。
 
 # db 47
-nomifactory.quest.db.47.title=Ironman 3
-nomifactory.quest.db.47.desc=Flying faster, even nicer.
+nomifactory.quest.db.47.title=アイアンマン3
+nomifactory.quest.db.47.desc=もっと速いともっと良いですよね。
 
 # db 48
-nomifactory.quest.db.48.title=Ironman 2
-nomifactory.quest.db.48.desc=Flying faster is nice.
+nomifactory.quest.db.48.title=アイアンマン2
+nomifactory.quest.db.48.desc=速く空を飛べると良いですよね。
 
 # db 49
-nomifactory.quest.db.49.title=Air Centrifuging
-nomifactory.quest.db.49.desc=Note: this quest accepts LV/MV/HV Centrifuge.<nl><nl>Centrifuging air is a reliable way to get <99>Nitrogen<rr> before you have access to <33>Cryogenic Distillation<rr>.<nl><nl>
+nomifactory.quest.db.49.title=空気遠心分離機
+nomifactory.quest.db.49.desc=注意: LV/MV/HV Centrifugeが対象です。<nl><nl>空気を遠心分離することで、<33>Cryogenic Distillation<rr>を利用する前の段階で確実に<99>Nitrogen<rr>を得ることができます。<nl><nl>
 
 # db 50
-nomifactory.quest.db.50.title=Pressurized Fluid Conduits
-nomifactory.quest.db.50.desc=<bb>EnderIO<ff> conduits are the preferred way to move fluids around, rather than GregTech pipes. Incredibly flexible and powerful, they'll make fluid crafting almost bearable.
+nomifactory.quest.db.50.title=加圧流体導管
+nomifactory.quest.db.50.desc=<bb>EnderIO<ff>導管は、GregTechのパイプよりも流体を移動させるのに適した方法です。非常に柔軟でパワフルなため、流動的な工作もほとんど負担になりません。
 
 # db 51
-nomifactory.quest.db.51.title=Inscriber
-nomifactory.quest.db.51.desc=<33>Inscribers<rr> are machines used to make <66>inscribed circuits<rr> for <bb>Applied Energistics<rr>.
+nomifactory.quest.db.51.title=インスクライバー
+nomifactory.quest.db.51.desc=<33>Inscriber<rr>は、<bb>Applied energistics<rr>用の<66>内接回路<rr>を作るための機械です。
 
 # db 52
-nomifactory.quest.db.52.title=LV Cluster Mill
-nomifactory.quest.db.52.desc=Before you get access to easier circuits, you will need to be able to make <66>Foils<rr>.<nl><nl>That's the purpose of the <33>Cluster Mill<rr>.
+nomifactory.quest.db.52.title=LV クラスター・ミル
+nomifactory.quest.db.52.desc=より簡単なCircuitにアクセスする前に、<66>Foil<rr>を作ることができるようになる必要があります。<nl><nl>それが<33>Cluster Mill<rr>の目的です。
 
 # db 53
-nomifactory.quest.db.53.title=LV Wiremill
-nomifactory.quest.db.53.desc=The <33>Wiremill<rr> is a major efficiency boost, giving you a much greater yield of <66>wires<rr> for your ingots. But first, you'll need to make some <66>Motors<rr>.<nl><nl><bb>GregTech<rr> machines are built from a number of components, many of which are shared between the machines. Motors<rr> are used in a great number of recipes, even including other components.<nl><nl>Make sure to encode the recipes needed for motors into a <33>Crafting Station<rr>. You'll need quite a lot of them.<nl><nl>After you make the Wiremill, <ee>consider making a few stacks<rr> of LV motors. This might sound extreme, but <ee>batch crafting<rr> in this manner is an important habit to pick up. This way you won't have to craft more for a while, and you <oo>will <rr>use all those motors eventually, so you're not wasting materials.<nl><nl>As you get access to more machinery you will no longer need to craft things manually. Instead, you will engineer factories to automate the production for you. It is useful to keep a stockpile of frequently used things like circuits and components crafted so you don't have to wait for them when you need them.<nl><nl>
+nomifactory.quest.db.53.title=LV ワイヤーミル
+nomifactory.quest.db.53.desc=<33>Wiremill<rr>は効率を大幅に向上させ、インゴット用の<66>ワイヤー<rr>の歩留まりを大幅に向上させます。でも、その前に<66>モーター<rr>をいくつか作っておく必要があります。<nl><nl><bb>GregTech<rr>のマシンは、多くの部品から構成されており、その多くはマシン間で共有されています。<66>Motors<rr>は、他の部品を含めても、非常に多くのレシピに使われています。<nl><nl>モーターに必要なレシピは必ず<33>Crafting Station<rr>にエンコードしてください。かなりの数が必要になります。<nl><nl>Wiremillを作ったら、LV Motorを何段か作ることを検討してみてください。極端な話ですが、このようなバッチクラフトは大切な習慣なのです。そうすれば、しばらくはクラフトをする必要がありませんし、<oo>モーターはいずれ全部使う<rr>ので、素材の無駄がありません。<nl><nl>より多くの機械にアクセスできるようになれば、手作業でクラフトする必要はなくなります。手作業の代わりに、工場で生産を自動化するようエンジニアリングするのです。回路や部品など使用頻度の高いものを作成して備蓄しておくと、必要なときに待たなくて済むので便利です。<nl><nl>
 
 # db 54
 nomifactory.quest.db.54.title=クアンタムアイ

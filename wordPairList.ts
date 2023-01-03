@@ -13,4 +13,5 @@ export const wordPairList: WordPairList = {
 	alloy: "合金",
 	plate: "板",
 	energetic: "エネルギッシュ",
+	conduit: "導管",
 };
