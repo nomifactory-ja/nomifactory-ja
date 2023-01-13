@@ -2243,8 +2243,8 @@ nomifactory.quest.db.686.title=Overworldian Mobs
 nomifactory.quest.db.686.desc=There's no rush to get these all done and leveled up, but they do provide a good source of some of the basic resources in exchange for RF.<nl><nl>Look at what the <66>Pristine Matter<rr> for each mob provides, and set up simulators for all the ones you're interested in. If your power can handle it, it can even be advantageous to run several of the same model.
 
 # db 687
-nomifactory.quest.db.687.title=Infinite Water
-nomifactory.quest.db.687.desc=Feeding a <33>Steam Dynamo<ff> with water by hand is a pretty silly idea.<nl><nl>An <66>Infinite Water Source<ff> will take care of that for you, albeit slowly.
+nomifactory.quest.db.687.title=無限の水
+nomifactory.quest.db.687.desc=<33>Steam Dynamo<ff>に手動で水を供給するのはかなり馬鹿げています。<nl><nl><66>Infinite Water Source<ff>がゆっくりとではありますが、それを行ってくれるのです。
 
 # db 688
 nomifactory.quest.db.688.title=Hellish Matter
