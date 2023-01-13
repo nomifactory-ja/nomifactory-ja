@@ -1423,11 +1423,11 @@ nomifactory.quest.db.367.title=Creative Tank
 nomifactory.quest.db.367.desc=<oo>Now this is not the end. It is not even the beginning of the end. But it is, perhaps, the end of the beginning.<rr><nl><nl>The <dd><dd>Creative Portable Tank<rr> is a major milestone. Great work!<nl><nl>This tank is your first proper creative item, which can be set to a fluid and then provides an infinite quantity of that fluid. The first fluid you should do this with is <dd>Molten Creative Portable Tank<rr>, so you can make as many more tanks as you want! You get exactly enough from a <66>Heart of a Universe<rr> to do this.<nl><nl>From there you can set up tanks with infinite quantities of every fluid you can think of.  <33>Fluid Solidifiers<rr> can be used to make infinite of every element you can melt and solidify.<nl><nl>This is quite a game-changer as far as infrastructure goes. You'll find that many machines won't need to be used for their original purpose anymore. Some major base redesign is in order. Have you considered moving to space?<nl><nl>All that said, <ee>the pack will still be challenging to complete<rr>. Infinite resources and power is nice, but it's not everything. There are plenty of materials you can't melt, and creative items will push your factory automation engineering skills to their limits.<nl><nl>Onward to the final challenge: the <dd>Creative Vending Upgrade<rr>!<nl><nl>
 
 # db 368
-nomifactory.quest.db.368.title=Grappling Hook
-nomifactory.quest.db.368.desc=A <aa>Grappling Hook<ff> is very useful in an urban environment.<nl><nl>There are lots of ways to upgrade and improve your Grappling Hook, so play around with it.<nl><nl>Open your inventory and look for the Baubles button, click it to reveal the additional bauble slots and put the Hook there.<nl><nl>The default key is <66>C<rr>, however since quite a lot of mods occupy this hotkey you'll need to visit the controls menu to resolve the button conflicts.
+nomifactory.quest.db.368.title=グラップリングフック
+nomifactory.quest.db.368.desc=<aa>Grappling Hook<ff>は市街地では非常に有効です。<nl><nl>Grappling Hookには、さまざまなアップグレード方法があるので、いろいろと遊んでみてください。<nl><nl>インベントリを開き、バブル(Bauble)ボタンをクリックすると、バブルの追加スロットが表示されますので、そこにHookを置いてください。<nl><nl>デフォルトのキーは<66>C<rr>ですが、非常に多くのMODがこのホットキーを使用しているため、コントロールメニューでボタンの競合を解決する必要があります。
 
 # db 370
-nomifactory.quest.db.370.title=Charcoal
+nomifactory.quest.db.370.title=木炭
 nomifactory.quest.db.370.desc=ここで面倒なことは一切ありません。<66>Wood Log<ff>を錬成して<66>Charcoal<ff>を手に入れます。<66>Coal<ff>の鉱脈を見つけるまで燃料として役立ちます。<nl><nl>燃料を節約するために、Charcoalを<66>Tiny Charcoal<ff>に加工するとよいでしょう。1個で1つのアイテムを錬成することができます。クラフトグリッドにCharcoalを入れるだけで作ることができます。
 
 # db 371
