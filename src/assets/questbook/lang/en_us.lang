@@ -1471,8 +1471,8 @@ nomifactory.quest.db.392.title=UHV Circuit...s?
 nomifactory.quest.db.392.desc=Congratulations! You've reached the end of the circuit progression.<nl><nl>The only UHV circuit is the <66>Wetware Mainframe<rr>, which is used for crafting high-tier micro miners among some endgame stuff.
 
 # db 393
-nomifactory.quest.db.393.title=Claim Your Chunks and Invite Teammates!
-nomifactory.quest.db.393.desc=You might be wondering what chunkloading options there are in the pack.<nl><nl>Open your inventory and look at the top-left corner of the screen. Click the map-looking icon called <ee>Claimed Chunks<rr>.<nl><nl><66>Click a chunk<rr> to claim it as yours. This will prevent unwanted creeper explosions and other players from interacting with your base.<nl><nl><66>Shift-left click a claimed chunk<rr> to load it. This will ensure that the chunk is loaded at all times, even when you're not there. Alternatively, there are <aa>chunk-loading wards<ff> from <bb>Extra Utilities<ff>.<nl><nl><ee>If you're playing on a server with custom settings, ask the server owner what methods are available<ff>.<nl><nl>To invite players to your <bb>FTB Utils<ff> party, look for a corresponding button in the same corner. Parties share claimed chunks with each other. You can configure permissions for your party's claimed chunks in the party settings menu.
+nomifactory.quest.db.393.title=自分のチャンクを主張し、チームメイトを招待しよう
+nomifactory.quest.db.393.desc=このmod packにどんなchunkloading optionがあるか気になりますよね。<nl><nl>インベントリを開き、画面左上を見てみてください。<ee>Claimed Chunks<rr>というマップのようなアイコンをクリックします。<nl><nl><66>Chunkをクリック<rr>すると、それを自分のものとして主張することができます。これにより、不要なクリーパーの爆発や、他のプレイヤーがあなたの拠点と交流することを防ぎます。<nl><nl><66>Shift+左クリックで、Claimed Chunks<rr>をロードします。これにより、あなたがそこにいないときでも、常にチャンクがロードされます。また、<bb>Extra Utilities<ff>の<aa>chunk-loading ward<ff>もあります。<nl><nl><ee>カスタム設定のサーバーでプレイしている場合、サーバーオーナーにどんな方法があるか聞いてみましょう<ff>。<nl><nl>自分の<bb>FTB Utils<ff>パーティーにプレイヤーを招待するには、同じ場所でボタンを探してみて下さい。パーティは主張されたチャンクを互いに共有します。パーティーのClaimed Chunksに対する権限は、パーティー設定メニューで設定することができます。
 
 # db 394
 nomifactory.quest.db.394.title=Flux Capacitors
