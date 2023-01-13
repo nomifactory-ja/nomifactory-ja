@@ -1499,8 +1499,8 @@ nomifactory.quest.db.400.title=I Don't Like Space
 nomifactory.quest.db.400.desc=Space exploration isn't mandatory in this pack, so if you don't feel like exploring space with <bb>Advanced Rocketry<rr>, then you can centrifuge <99>Hydrogen<rr> for <ee>Deuterium<rr> instead.<nl><nl>Just keep in mind that it's much less rewarding to skip this and you'll need lots of Hydrogen to compensate, although you won't need too much for the first <33>Microverse Projector<rr>.
 
 # db 401
-nomifactory.quest.db.401.title=Proper Tool Care
-nomifactory.quest.db.401.desc=<33>Anvils<ff> can be used to repair almost all <bb>GregTech tools<ff>!<nl><nl>You might want to get yourself an anvil instead of breaking and crafting new tools every time. Anvils<ff> spawn abundantly in <bb>Lost Cities<ff> buildings, so go and snatch one!<nl><nl>Put a damaged tool inside and put some material it's made of. For example, you'll need to put <66>Wrought Iron Ingots<ff> to repair tools made of <66>Wrought Iron<ff>. The only tools unable to be repaired are the mortar and the plunger.
+nomifactory.quest.db.401.title=適切な道具の手入れ
+nomifactory.quest.db.401.desc=<33>Anvil<ff>は、ほとんどの<bb>GregTechのツール<ff>を修理することができます！<nl><nl>毎回壊して新しい道具を作る代わりに、金床を手に入れることをお勧めします。Anvil<ff>は<bb>Lost Cities<ff>の建物でたくさん産出されますので、ぜひ手に入れてください！<nl><nl>破損した道具を手に入れた際は、その素材にあったものを入れてください。例えば、<66>Wrought Iron<ff>でできた道具を修理するためには、<66>Wrought Iron Ingot<ff>を入れる必要があります。修理できない道具は、MortarとPlungerだけです。
 
 # db 402
 nomifactory.quest.db.402.title=Machine Covers
@@ -2551,8 +2551,8 @@ nomifactory.quest.db.802.title=Fusion Coils
 nomifactory.quest.db.802.desc=<66>Fusion Coils<rr> are the ninth and final coil material available, increasing your EBF's operating temperature to 9700K so it can process the most extreme materials.<nl><nl>These are also used as the core ring of the <33>Mk2<rr> and <33>Mk3 Fusion Reactor<rr>.
 
 # db 803
-nomifactory.quest.db.803.title=Lost Cities and Registering Homes
-nomifactory.quest.db.803.desc=Whether or not you (or your server admin) picked the default <bb>Lost Cities<rr> overworld type, you have the option of teleporting yourself to the <ee>Lost Cities Dimension<rr>. This is useful if you like other world types but want to still be able to explore cities for things like <ee>loot and spawners<rr><rr>.<nl><nl>To create a portal, you must place a <aa>Bed<rr><rr> down on two <66>Blocks of Diamond<rr>. Then, you surround the bed with any kind of <ee>Monster Skulls<rr>. Sleep in this bed and you will be teleported there.<nl><nl><cc>Don't forget to have a way to get back!<rr><rr> You can use the <ee>/sethome<rr><rr> command to register where your house is, and <ee>/home<rr><rr> to return to it. If you supply a name (default "home") then you can register and go to multiple locations. There are some <ee>restrictions<rr> on this though: <ee>it takes a few seconds of standing still to activate<rr> and there is a <ee>cooldown<rr> between uses.<nl><nl>Later on you'll have other means of teleportation.<nl><nl>Monster Skulls might take a little while to get if you're playing in <ee>Peaceful<rr><rr>. <66>Skeleton Skulls<rr> would be the way to go in that case.
+nomifactory.quest.db.803.title=失われた都市と住まいの登録
+nomifactory.quest.db.803.desc=サーバー管理者がoverworld typeとしてデフォルトの<bb>Lost Cities<rr>を選んだ場合でも、<ee>Lost Cities Dimension<rr>にテレポートするオプションが用意されています。<nl><nl>ポータルを作成するには、2つの<66>Block of Diamond<rr>の上に<aa>Bed<rr><rr>を配置する必要があります。そして、<ee>Monster Skulls<rr>でベッドを囲む。このベッドで眠ると、そこにテレポートされます。<nl><nl><cc>戻る方法も忘れずに！<rr><rr><ee>/sethome<rr><rr>コマンドで自分の家の場所を登録し、<ee>/home<rr><rr>でそこに戻ることができます。名前(デフォルトは"home")を指定すれば、複数の場所を登録し、移動することができます。ただし、これにはいくつかの<ee>制限事項</ee>があります。<ee>発動には数秒の静止が必要<rr>で、使用と使用の間には<ee>クールダウン<rr>があります。<nl><nl>あとから他のテレポートの手段も使えるようになります。<ee>Peaceful<rr>で遊んでいると、モンスターの頭蓋骨を入手するのに少し時間がかかるかもしれません。その場合は<66>スケルトンスカル<rr>がお勧めです
 
 # db 804
 nomifactory.quest.db.804.title=Assembly Line Automation
