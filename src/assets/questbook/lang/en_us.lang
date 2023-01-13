@@ -1428,7 +1428,7 @@ nomifactory.quest.db.368.desc=A <aa>Grappling Hook<ff> is very useful in an urba
 
 # db 370
 nomifactory.quest.db.370.title=Charcoal
-nomifactory.quest.db.370.desc=No hoops to jump through here. Smelt <66>Wood Logs<ff> to get <66>Charcoal<ff>. It will serve you well as a fuel source until you locate a vein of <66>Coal<ff>.<nl><nl>You might want to craft Charcoal into <66>Tiny Charcoal<ff> pieces to save some fuel. One tiny piece is enough to smelt exactly one item. Just put charcoal into the crafting grid to make some!
+nomifactory.quest.db.370.desc=ここで面倒なことは一切ありません。<66>Wood Log<ff>を錬成して<66>Charcoal<ff>を手に入れます。<66>Coal<ff>の鉱脈を見つけるまで燃料として役立ちます。<nl><nl>燃料を節約するために、Charcoalを<66>Tiny Charcoal<ff>に加工するとよいでしょう。1個で1つのアイテムを錬成することができます。クラフトグリッドにCharcoalを入れるだけで作ることができます。
 
 # db 371
 nomifactory.quest.db.371.title=Rubber Soft Hammer
@@ -1572,7 +1572,7 @@ nomifactory.quest.db.490.desc=An <33>Autoclave<rr> is a machine that uses liquid
 
 # db 491
 nomifactory.quest.db.491.title=Veinmining Trees?
-nomifactory.quest.db.491.desc=<aa>Lumberaxes<ff> are tools that cut all connected blocks of the same kind (usually referred to as "<ee>veinmining<ff>") that require an axe. These are primarily intended to <ee>chop down entire trees<ff>, but you can use them to veinmine other wooden blocks too.<nl><nl><ll><cc><ll>Keep in mind that the veinmining feature doesn't get disabled when sneaking!<rr><nl><nl>Please be careful to not veinmine your entire Storage Drawers network; this WILL end in tears.
+nomifactory.quest.db.491.desc=<aa>Lumberaxe<ff>は、斧を必要とする同じ種類のブロックをすべて連結して切断する（通常「<ee>一括破壊<ff>」と呼ばれる）ツールです。主に<ee>木を切り倒すため<ff>のものですが、他の木のブロックも採掘することができます。<nl><nl><ll><cc><ll>スニーキング時に一括破壊機能が無効にならないことに注意しましょう!<rr><nl><nl>Storage Drawers networkが壊れないように注意してください。さもなくば泣きを見ることになります。
 
 # db 492
 nomifactory.quest.db.492.title=Drill Baby Drill
