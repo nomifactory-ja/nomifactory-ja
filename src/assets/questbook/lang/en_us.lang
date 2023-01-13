@@ -1571,7 +1571,7 @@ nomifactory.quest.db.490.title=LV Autoclave
 nomifactory.quest.db.490.desc=An <33>Autoclave<rr> is a machine that uses liquids (usually water) to polish stones, carve gems into lenses, infuse gems with special liquids, and crystallize various dusts.<nl><nl>You'll need an Autoclave for many recipes, but right now you want it to make <66>Certus Quartz Crystals<rr> for <bb>Applied Energistics<rr> out of the <bb>GregTech<rr> <66>Certus Quartz<rr> and its dust you get from mining and ore processing.
 
 # db 491
-nomifactory.quest.db.491.title=Veinmining Trees?
+nomifactory.quest.db.491.title=樹木を採掘する？
 nomifactory.quest.db.491.desc=<aa>Lumberaxe<ff>は、斧を必要とする同じ種類のブロックをすべて連結して切断する（通常「<ee>一括破壊<ff>」と呼ばれる）ツールです。主に<ee>木を切り倒すため<ff>のものですが、他の木のブロックも採掘することができます。<nl><nl><ll><cc><ll>スニーキング時に一括破壊機能が無効にならないことに注意しましょう!<rr><nl><nl>Storage Drawers networkが壊れないように注意してください。さもなくば泣きを見ることになります。
 
 # db 492
@@ -2175,8 +2175,8 @@ nomifactory.quest.db.669.title=Uranium Fission
 nomifactory.quest.db.669.desc=When you have enough materials, you can craft Uranium isotope clumps into Low-Enriched Uranium 235 Fuel (or <66>LEU-235<rr>, for short). This fuel uses an 8:1 ratio of U238 to U235.<nl><nl>This fuel is processed in your <33>Fission Reactor<rr> by placing it in the controller. When a redstone signal is applied it will burn the fuel, generating some power from the reactor and after a while you'll get a <66>Depleted LEU-235 Fuel<rr><rr>.<nl><nl>The depleted fuel is separated in a regular <33>Centrifuge<rr>, resulting in many tiny clumps of fissile materials: Uranium 238, <66>Neptunium 237<rr>, <66><66>Plutonium 239<rr>, and <66>Plutonium 241<rr>.
 
 # db 670
-nomifactory.quest.db.670.title=End Game Tab
-nomifactory.quest.db.670.desc=Take a peek at The <ee>End Game quest book tab<ff>. This might seem a bit premature to suggest, but it has a reason.<nl><nl>These are quests for a full stack of many of the materials in the game. Those are the materials you'll need to synthesize <55>Omnium<rr>, the basic end game resource. It's the pack's way of letting you know what materials you should be prepared to mass produce as you approach the end.<nl><nl>Of course, it's not necessary or even advisable to try to finish up all of these quests the moment they become available. Some will be incredibly easy (like <66>Iron<ff> and <66>Copper<ff>), others will be brutally grindy at early tech levels. The rewards are all the same: <dd>25 Nomicoins each<ff>, so use your best judgement on which ones to complete and which to ignore for later.
+nomifactory.quest.db.670.title=エンドゲームタブ
+nomifactory.quest.db.670.desc=クエストブックの<ee>エンドゲームタブ<ff>を覗いてみてください。ちょっと早とちりかもしれませんが、これには理由があります。<nl><nl>ゲーム内に登場する多くの素材を満遍なく入手するためのクエストです。これらは、最終的な基本資源である<55>Omnium<rr>を合成するために必要な材料です。終わりに近づくにつれ、どんな素材を量産するべきか、modpackが知らせてくれるのです。<nl><nl>もちろん、これらのクエストをすべてクリアする必要はありませんし、得策ではありません。あるものは信じられないほど簡単で（<66>Iron<ff>や<66>Copper<ff>のように）、他のものは初期の技術レベルでは残酷なほど難しいでしょう。報酬はすべて同じで、<dd>25 Nomicooinずつ<ff>です。どの報酬を取るか、どの報酬を無視するかは、あなたの判断で決めてください。
 
 # db 671
 nomifactory.quest.db.671.title=Thorium Fission
