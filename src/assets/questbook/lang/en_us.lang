@@ -92,7 +92,7 @@ nomifactory.quest.db.11.desc=「<ee>基盤<ff>」とは、回路基板の板の�
 
 # db 12
 nomifactory.quest.db.12.title=いくつかのスターターツール
-nomifactory.quest.db.12.desc=慣れないうちのパックの奇抜さのひとつに、ツールの表示方法があります。ほとんどの道具はほぼすべての金属で作ることができ、<bb>JEI<ff>は膨大な数のオプションを表示します...あらゆる道具とあらゆる素材の組み合わせが可能なのです。ですが、道具を作るためのパターンは常に同じです。ですから、<ee>どんな素材が書いてあっても無視して、好きな素材で例と同じようにプレートとインゴットを並べればよいのです<ff>。ロッドはロッドに、プレートはプレートに、など。ただし、ツールは<ee>すべて同じ素材で作らなければならない<ff>という制約があります...。1つのアイテムに異なる金属を混ぜて使うことはできません。<nl><nl>工具が必要なレシピの場合、「<66>Darmstadtium<ff>」ツール (または「<66>Aluminium<ff>」ツール) が表示されるようになっていますが、正しいタイプのツールであればどんな金属から作られたものでも動作します。レシピの中のツールの素材は無視してください。<nl><nl>とりあえず、<aa>Hammer<ff>を作ってみてください（<aa>Mining Hammer<ff>ではありません。念のために、インゴットは5個ではなく6個です）。Hammerで<e>2つのインゴットを1つのPlate<ff>にすることができます。<66>Plate<ff>は<aa>File<ff>を、Fileは<66>Rods<ff>を作ることができます。JEIを使用して、ツールのリストを下っていきます。<nl><nl><66>Wrought Iron<ff>は、今のところツールの素材としておそらく最良の選択ですが、進行に応じてより良い素材が利用できるようになります。
+nomifactory.quest.db.12.desc=慣れないうちのパックの奇抜さのひとつに、ツールの表示方法があります。ほとんどの道具はほぼすべての金属で作ることができ、<bb>JEI<ff>は膨大な数のオプションを表示します...あらゆる道具とあらゆる素材の組み合わせが可能なのです。ですが、道具を作るためのパターンは常に同じです。ですから、<ee>どんな素材が書いてあっても無視して、好きな素材で例と同じようにプレートとインゴットを並べればよいのです<ff>。ロッドはロッドに、プレートはプレートに、など。ただし、ツールは<ee>すべて同じ素材で作らなければならない<ff>という制約があります...。1つのアイテムに異なる金属を混ぜて使うことはできません。<nl><nl>工具が必要なレシピの場合、「<66>Darmstadtium<ff>」ツール (または「<66>Aluminium<ff>」ツール) が表示されるようになっていますが、正しいタイプのツールであればどんな金属から作られたものでも動作します。レシピの中のツールの素材は無視してください。<nl><nl>とりあえず、<aa>Hammer<ff>を作ってみてください（<aa>Mining Hammer<ff>ではありません。念のために、インゴットは5個ではなく6個です）。Hammerで<ee>2つのインゴットを1つのPlate<ff>にすることができます。<66>Plate<ff>は<aa>File<ff>を、Fileは<66>Rods<ff>を作ることができます。JEIを使用して、ツールのリストを下っていきます。<nl><nl><66>Wrought Iron<ff>は、今のところツールの素材としておそらく最良の選択ですが、進行に応じてより良い素材が利用できるようになります。
 
 # db 13
 nomifactory.quest.db.13.title=すばらしいバッチクラフティング
@@ -1363,8 +1363,8 @@ nomifactory.quest.db.352.title=LV Fluid Solidifier
 nomifactory.quest.db.352.desc=If you don't want to mine Obsidian by hand, consider using a Fluid Solidifier to turn <cc>Lava<rr> into <66>Obsidian Blocks<rr> for you. The process is slow and energy intensive, though.<nl><nl><33>Fluid Solidifiers<rr> are useful for lots of other things too, of course. Look through the various molds to see what you can make with one.
 
 # db 353
-nomifactory.quest.db.353.title=Glider
-nomifactory.quest.db.353.desc=The <aa>Hang Glider<ff> is a great way to cross long distances, if you're so inclined.<nl><nl>If you don't want to go exploring for Cows, just buy a pair of "<66>Spawn Cow<ff>" eggs and breed them. Seriously, spend your <dd>coins<ff>!
+nomifactory.quest.db.353.title=グライダー
+nomifactory.quest.db.353.desc=<aa>Hang Glider<ff>を使えば、その気になれば長距離を横断することも可能です。<nl><nl>牛を探すのが面倒なら、「<66>Spawn Cow<ff>」の卵を買って繁殖させることもできます。ほんとに、<dd>コイン<ff>を使え！
 
 # db 354
 nomifactory.quest.db.354.title=Empowered Enori Gear
@@ -2263,8 +2263,8 @@ nomifactory.quest.db.691.title=Extraterrestrial Mobs
 nomifactory.quest.db.691.desc=Some of these simulations will start to consume tremendous amounts of power at this point, so if you're finding it a struggle, don't be afraid to hold off on progressing through these data models until a later time.
 
 # db 692
-nomifactory.quest.db.692.title=Wrenches Galore
-nomifactory.quest.db.692.desc=Confused about all the Wrenches yet?<nl><nl>The <aa>Crescent Hammer<rr> is for use on machines from <bb>Thermal Expansion<ff>, but can be used for basic wrench interactions with blocks from almost every mod.<nl><nl>The <aa>Yeta Wrench<rr> is used with machines and conduits from <bb>EnderIO<ff>, and has several special display modes (<66>sneak-mouse wheel<ff> to switch between them).<nl><nl>The <aa>GregTech Wrench<rr> is used to rotate GregTech machines and redefine their output sides.<nl><nl>You can see which mod a machine is from with the <99>blue text<ff> at the bottom of its tooltip.
+nomifactory.quest.db.692.title=たくさんのレンチ
+nomifactory.quest.db.692.desc=たくさんのレンチに戸惑いましたか？<nl><nl><aa>Crescent Hammer<rr>は<bb>Thermal Expansion<ff>のマシン用ですが、ほとんどすべてのMODのブロックとの基本的なレンチインタラクションに使用することができます。<nl><nl><aa>Yeta Wrench<rr>は<bb>EnderIO<ff>のマシンや導管で使用され、いくつかの特殊な表示モードを持っています（<66>スニーク+マウスホイール<ff>で切り替えられます）。<nl><nl><aa>GregTech Wrench<rr>は、GregTechのマシンを回転させ、その出力側を再定義するために使用します。<nl><nl>マシンのツールチップの下にある<99>青い文字<ff>で、どのMODのマシンか確認できます。
 
 # db 693
 nomifactory.quest.db.693.title=Infinity War
