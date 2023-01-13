@@ -579,8 +579,8 @@ nomifactory.quest.db.140.title=Advanced Inscriber
 nomifactory.quest.db.140.desc=<33>Advanced Inscribers<rr> are much easier to work with for automation purposes, since you can insert more than a single item at a time and you can lock <aa>Presses<rr> in place.<nl><nl>You can automate these nicely with processing patterns in an <aa>ME Interface<rr>. They don't auto-eject items though, so you will need to pull the finished items out.
 
 # db 141
-nomifactory.quest.db.141.title=Spend Your Coins!
-nomifactory.quest.db.141.desc=While there are no types of veins that are extremely rare, you're likely to struggle with finding at least one of the less common vein types. This isn't really avoidable.<nl><nl>You will accumulate a lot of <dd>Nomicoins<ff> from quest turn-ins while playing Nomifactory. Do not be hesitant to spend them on things you need! <nl><nl>Search for various ores (generally the first one listed in <bb>JEI<ff>) to find the coin recipes for them. Alternatively, hover your cursor over a coin and press <66>U<ff> to see what you can buy with it.<nl><nl><aa>Don't be a hoarder!
+nomifactory.quest.db.141.title=コインを使おう!
+nomifactory.quest.db.141.desc=極端に珍しいタイプの鉱脈はありませんが、一般的でない鉱脈の一つでも見つけるのに苦労することが多いようです。<nl><nl>Nomifactoryをプレイしていると、クエストの報酬として<dd>Nomicoin<ff>が大量に貯まるようになります。必要なものに使うことをためらわないようにしましょう <nl><nl>様々な鉱石（たいていは<bb>JEI<ff>で最初に表示されるもの）を探すと、その鉱石のコインレシピを見つけることができます。また、コインの上にカーソルを置いて<66>U<ff>を押すと、そのコインで何が買えるかを見ることができます。<nl><nl><aa>溜め込まないこと!
 
 # db 144
 nomifactory.quest.db.144.title=Yttrium
