@@ -1516,7 +1516,7 @@ nomifactory.quest.db.404.desc=You can easily automate most <bb>GregTech<rr> mach
 
 # db 405
 nomifactory.quest.db.405.title=クラフト計算機
-nomifactory.quest.db.405.desc=このMODパックには<a>Crafting Calculators<rr>があります。<nl><nl>自分でも作ってみて、左上の本のボタンを押すと、それがどのように機能するかの簡単な概要が表示されます。
+nomifactory.quest.db.405.desc=このMODパックには<aa>Crafting Calculators<rr>があります。<nl><nl>自分でも作ってみて、左上の本のボタンを押すと、それがどのように機能するかの簡単な概要が表示されます。
 
 # db 406
 nomifactory.quest.db.406.title=Automating Extended Crafting
