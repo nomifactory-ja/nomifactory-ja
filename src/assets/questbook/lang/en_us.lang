@@ -1431,8 +1431,8 @@ nomifactory.quest.db.370.title=木炭
 nomifactory.quest.db.370.desc=ここで面倒なことは一切ありません。<66>Wood Log<ff>を錬成して<66>Charcoal<ff>を手に入れます。<66>Coal<ff>の鉱脈を見つけるまで燃料として役立ちます。<nl><nl>燃料を節約するために、Charcoalを<66>Tiny Charcoal<ff>に加工するとよいでしょう。1個で1つのアイテムを錬成することができます。クラフトグリッドにCharcoalを入れるだけで作ることができます。
 
 # db 371
-nomifactory.quest.db.371.title=Rubber Soft Hammer
-nomifactory.quest.db.371.desc=A <aa>Rubber Soft Hammer<ff> can be used to temporarily stop a machine from functioning. This is useful when you have two machines running and both are unable to keep going because of a lack of power... let one finish then turn the other one back on with a second hit from the hammer.
+nomifactory.quest.db.371.title=ゴム製ソフトハンマー
+nomifactory.quest.db.371.desc=<aa>Rubber Soft Hammer<ff>は、機械の機能を一時的に停止させることができます。2台の機械を動かしていて、両方とも電力不足で動かせない...というときに、片方を終了させてから、ハンマーでもう片方を叩くと、電源が再び入るので便利です。
 
 # db 384
 nomifactory.quest.db.384.title=Elite Component
@@ -1559,8 +1559,8 @@ nomifactory.quest.db.417.title=Combination Package Crafter
 nomifactory.quest.db.417.desc=A much more efficient version of the <33>Empowerer<rr>.<nl><nl>This is a digital upgrade to the <33>Crafting Core<rr>, allowing you to craft Empowerer recipes directly through <bb>PackagedAuto<rr>.<nl><nl>The <aa>Marked Pedestals<rr> can be placed freely within three blocks distance of the Crafting block, as long as they are on the same Y-level.<nl><nl>As usual with PackagedAuto crafters, you need to encode the recipe in the correct mode and place a copy in two places: a <33>Packager<rr> somewhere on your network, and an <33>Unpackager<rr> adjacent to the <33>Combination Package Crafter<rr>.<nl><nl>These recipes require large amounts of RF and it <ee>will not use power from your <aa>ME Network<rr>, so you must also connect the package crafter directly to energy conduits.
 
 # db 488
-nomifactory.quest.db.488.title=Basic Satchel
-nomifactory.quest.db.488.desc=Useful to carry more stuff.<nl><nl>What more explanation are you expecting?
+nomifactory.quest.db.488.title=ふつうのかばん
+nomifactory.quest.db.488.desc=より多くの荷物を運ぶのに便利です。<nl><nl>これ以上どんな説明を期待しているのですか？
 
 # db 489
 nomifactory.quest.db.489.title=LV Compressor
@@ -1707,8 +1707,9 @@ nomifactory.quest.db.529.title=IV Assembling Machine
 nomifactory.quest.db.529.desc=With your <66>Tungstensteel<rr>-based machine hulls and <66>Nanoprocessor Mainframes<rr> squared away, you can finally get on the path to making an Insane Voltage <33>Assembling Machine<rr>.<nl><nl>This tier of Assembling Machine unlocks <66>Quantum Circuits<rr>, as well as handling crafting recipes up to 8192 EU/t. It can also optionally overclock recipes that consume up to 2048 EU/t for improved speed at the cost of relatively more power.
 
 # db 530
-nomifactory.quest.db.530.title=Your First Circuit
-nomifactory.quest.db.530.desc=With all of the components made, it's time to craft a <66>Primitive Circuit<rr>.<nl><nl>This is where your <33>Crafting Station<ff> setups will really shine! With the patterns encoded into a Crafting Stations (well, really over <oo>many<rr> Crafting Stations), you'll be able to <ee>batch craft circuits quickly<ff>.<nl><nl>You'll be making a LOT<rr> of circuits, so take advantage of the improved crafting efficiency.
+nomifactory.quest.db.530.title=最初の回路
+nomifactory.quest.db.530.desc=すべてのコンポーネントを作成したら、<66>Primitive Circuit<rr>を作成します。<nl><nl>ここで<33>Crafting Station<ff>を使用すると、非常に効果的です！<66>Primitive Circuit<rr>を作成するには、<33>Crafting Station<ff>にパターンを設定します。パターン化されたCrafting Station（実際には<oo>何台もの<rr>Crafting Station）があれば、<ee>たくさんのCircuitを素早く製作することができます<ff>。<nl><nl>回路を大量に作ることになるので、<rr>クラフトの効率アップを活用しましょう。
+
 
 # db 531
 nomifactory.quest.db.531.title=The First Tier Seven Circuits
@@ -1771,8 +1772,8 @@ nomifactory.quest.db.546.title=I Don't Need No Stinkin' Tower
 nomifactory.quest.db.546.desc=Note: this quest accepts both LV and MV Distillery.<nl><nl>If you don't feel up to making a <33>Distillation Tower<rr> just yet, you can get <99>Ethanol<rr> via a single block <33>Distillery<rr>, a machine that gets one fluid output per <66>Integrated Circuit<rr> configuration, while the <33>Distillation Tower<rr> gives all possible outputs for the input fluid. This defers the tower for a little while longer.<nl><nl>However, the Distillation Tower is mandatory for advanced chemistry, as most things have more than one important output: <99>Fermented Biomass<rr>, <99>Charcoal Byproducts<rr> from your <33>Pyrolyse Oven<rr>, and the entire line of petrochemicals from <99>Oil<rr>, to name a few.<nl><nl>Can't avoid it forever!<nl><nl>
 
 # db 547
-nomifactory.quest.db.547.title=Scanner Module: Block
-nomifactory.quest.db.547.desc=A good way to find a specific ore you're missing is the <66>Scanner Module: Block<rr> for your Scanner. <66>Sneak-right click<ff> a piece of ore you want to search for with a Module in your hand, then <66>sneak-right click<ff> the <aa>Scanner<ff>, put the module inside, and go wander around scanning. <nl><nl>The range is significantly longer than it is when using the modules which detect all ores, and you even have room for a second <66>Range Module<ff> if you've got an <66>Ender Pearl<ff> to craft one.<nl><nl>You can combo this with ores bought from <dd>Nomicoins<ff> to act as a "sample" to easily find a full vein with the Block Module.
+nomifactory.quest.db.547.title=スキャナーモジュール: ブロック
+nomifactory.quest.db.547.desc=不足している特定の鉱石を見つけるには、モジュールを手に持って探したい鉱石を<66>スニーク+右クリック<ff>し、<aa>Scanner<ff>を<66>スニーク+右クリック<ff>してModuleを中に入れ、スキャンしながら歩き回ります。<nl><nl>すべての鉱石を検出するモジュールを使用した場合よりも範囲がかなり長く、<66>エンダーパール<ff>があれば2つ目の<66>範囲モジュール<ff>を作る余裕さえあります。<nl><nl>これを<dd>Nomicoin<ff>で買った鉱石と組み合わせると、「サンプル」として機能し、Block Moduleで簡単に素晴らしい鉱脈を見つけることができます。
 
 # db 548
 nomifactory.quest.db.548.title=Molds
@@ -2399,8 +2400,8 @@ nomifactory.quest.db.764.title=LV Circuits
 nomifactory.quest.db.764.desc=Circuits along this line are LV, and can all be substituted in recipes.<nl><nl><77>Primitive Circuits<rr> are the worst in terms of cost and effort required to produce, but you have to start with something.<nl><nl><22>Electronic Circuits<rr> are the middle layer between Primitive Circuits and Refined Circuits.<nl><nl>And finally, <aa>Refined Circuits<rr>, which take the lowest effort and come in batches of four, but require polyethylene.<nl>
 
 # db 765
-nomifactory.quest.db.765.title=What is This?
-nomifactory.quest.db.765.desc=The Progression tab was added so you can keep track of the important bits of the pack.<nl><nl>Circuits are the baseline of the entire Nomifactory progression, so keep climbing!
+nomifactory.quest.db.765.title=これは何ですか？
+nomifactory.quest.db.765.desc=進行度タブが追加され、このmodpackの重要な進捗を把握できるようになりました。<nl><nl>Circuit（回路）はNomifactory全体の進行の基本なので、どんどん登っていきましょう!
 
 # db 766
 nomifactory.quest.db.766.title=MV Circuits
@@ -2552,7 +2553,7 @@ nomifactory.quest.db.802.desc=<66>Fusion Coils<rr> are the ninth and final coil 
 
 # db 803
 nomifactory.quest.db.803.title=失われた都市と住まいの登録
-nomifactory.quest.db.803.desc=サーバー管理者がoverworld typeとしてデフォルトの<bb>Lost Cities<rr>を選んだ場合でも、<ee>Lost Cities Dimension<rr>にテレポートするオプションが用意されています。<nl><nl>ポータルを作成するには、2つの<66>Block of Diamond<rr>の上に<aa>Bed<rr><rr>を配置する必要があります。そして、<ee>Monster Skulls<rr>でベッドを囲む。このベッドで眠ると、そこにテレポートされます。<nl><nl><cc>戻る方法も忘れずに！<rr><rr><ee>/sethome<rr><rr>コマンドで自分の家の場所を登録し、<ee>/home<rr><rr>でそこに戻ることができます。名前(デフォルトは"home")を指定すれば、複数の場所を登録し、移動することができます。ただし、これにはいくつかの<ee>制限事項</ee>があります。<ee>発動には数秒の静止が必要<rr>で、使用と使用の間には<ee>クールダウン<rr>があります。<nl><nl>あとから他のテレポートの手段も使えるようになります。<ee>Peaceful<rr>で遊んでいると、モンスターの頭蓋骨を入手するのに少し時間がかかるかもしれません。その場合は<66>スケルトンスカル<rr>がお勧めです
+nomifactory.quest.db.803.desc=サーバー管理者がoverworld typeとしてデフォルトの<bb>Lost Cities<rr>を選んだ場合でも、<ee>Lost Cities Dimension<rr>にテレポートするオプションが用意されています。<nl><nl>ポータルを作成するには、2つの<66>Block of Diamond<rr>の上に<aa>Bed<rr><rr>を配置する必要があります。そして、<ee>Monster Skulls<rr>でベッドを囲む。このベッドで眠ると、そこにテレポートされます。<nl><nl><cc>戻る方法も忘れずに！<rr><rr><ee>/sethome<rr><rr>コマンドで自分の家の場所を登録し、<ee>/home<rr><rr>でそこに戻ることができます。名前(デフォルトは"home")を指定すれば、複数の場所を登録し、移動することができます。ただし、これにはいくつかの<ee>制限事項</ee>があります。<ee>発動には数秒の静止が必要<rr>で、使用と使用の間には<ee>クールダウン<rr>があります。<nl><nl>あとから他のテレポートの手段も使えるようになります。<ee>Peaceful<rr>で遊んでいると、モンスターの頭蓋骨を入手するのに少し時間がかかるかもしれません。その場合は<66>Skeleton Skull<rr>がお勧めです
 
 # db 804
 nomifactory.quest.db.804.title=Assembly Line Automation
