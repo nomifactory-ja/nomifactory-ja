@@ -108,7 +108,7 @@ nomifactory.quest.db.15.desc=<33>Copper Furnace<ff>はアイテムの精錬に<a
 
 # db 16
 nomifactory.quest.db.16.title=かまど v4.0
-nomifactory.quest.db.16.desc=<33>Silver Furnace<ff>はさらに高速化され、<a>60 ticks<ff>でアイテムを精錬することができます。
+nomifactory.quest.db.16.desc=<33>Silver Furnace<ff>はさらに高速化され、<aa>60 ticks<ff>でアイテムを精錬することができます。
 
 # db 17
 nomifactory.quest.db.17.title=かまど v5.0
