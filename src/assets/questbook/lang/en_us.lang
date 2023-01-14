@@ -1476,7 +1476,7 @@ nomifactory.quest.db.393.desc=このmod packにどんなchunkloading optionが�
 
 # db 394
 nomifactory.quest.db.394.title=フラックスコンデンサー
-nomifactory.quest.db.394.desc=基本的な<aa>Flux Capacitor<rr>は、<aa>1000万RF<rr>というとんでもない量のエネルギーを保持し、<aa>RFパワー<rr>の機器や工具の充電を維持するために有用です。<nl><nl>新しく作った<33>CEF<rr>に1枚入れて充電してください。そして、インベントリに入れて<aa>RF<rr>でアイテムを充電したり、CEFに置いて<a>250万EU<rr>相当のバッテリーとして機能させたりすることができるのです！<nl><nl>Flux Capacitorは<bb>Bauble<rr>です。インベントリを開いてBaublesボタンを探し、クリックするとBaubleスロット追加メニューが表示されます。好きなスロットに装着してください。<nl><nl>これによって、消耗した<66>Dark Boots<rr>や<66>The Ender<rr>をチャージすることができるようになります。
+nomifactory.quest.db.394.desc=基本的な<aa>Flux Capacitor<rr>は、<aa>1000万RF<rr>というとんでもない量のエネルギーを保持し、<aa>RFパワー<rr>の機器や工具の充電を維持するために有用です。<nl><nl>新しく作った<33>CEF<rr>に1枚入れて充電してください。そして、インベントリに入れて<aa>RF<rr>でアイテムを充電したり、CEFに置いて<aa>250万EU<rr>相当のバッテリーとして機能させたりすることができるのです！<nl><nl>Flux Capacitorは<bb>Bauble<rr>です。インベントリを開いてBaublesボタンを探し、クリックするとBaubleスロット追加メニューが表示されます。好きなスロットに装着してください。<nl><nl>これによって、消耗した<66>Dark Boots<rr>や<66>The Ender<rr>をチャージすることができるようになります。
 
 # db 395
 nomifactory.quest.db.395.title=Quantum Flux
