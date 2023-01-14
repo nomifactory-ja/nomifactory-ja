@@ -1532,7 +1532,7 @@ nomifactory.quest.db.408.desc=<bb>PackagedAuto<rr> is an addon for <bb>Applied E
 
 # db 409
 nomifactory.quest.db.409.title=パワー入門
-nomifactory.quest.db.409.desc=<aa>RF power<rr>は<66>電線管<rr>で輸送しても安全ですが、<aa>EU power<rr>は注意が必要です。重要なのは、使用するケーブルや機器と電源の「電圧」と「電流」を常に一致させるか、それ以上にすることです。<nl><nl>CEFやBattery Bufferが発生する<ee>電流<rr>よりも少ない電流のケーブルには、<oo><44><cc>絶対<rr>にCEFを接続しないでください！例えば、4x CEF<rr>の場合は<66>4x cable<rr>、充填された16スロットBattery Buffer<rr>の場合は<66>16x cable<rr>を使用する必要があります。定格電流が不足しているケーブルは、<cc>燃えて破壊されます<rr>。同様に、ケーブルはマシンの<ee>電圧<rr>と同じかそれ以上でなければ、これも<cc>燃えて破壊されます<rr>。<nl><nl><cc>絶対に<ee>過電圧<rr>には接続しないでください、さもないと<cc>蒸発<rr>してしまいます。EU powerが接続された<66>wire<rr>に触れると、<cc>怪我をしたり死亡したりする<rr>ので、安全のために<ee>代わりに<66>cable<ee>を使いましょう<rr>!
+nomifactory.quest.db.409.desc=<aa>RF power<rr>は<66>電線管<rr>で輸送しても安全ですが、<aa>EU power<rr>は<ee>注意が必要です<rr>。重要なのは、使用する<66>ケーブル<rr>や機器と電源の<ee>「電圧」<rr>と<ee>「電流」<rr>を<aa>常に一致させるか、それ以上にする<rr>ことです。<nl><nl>CEFやBattery Bufferが発生する<ee>電流<rr>よりも少ない電流のケーブルには、<oo><44><cc>絶対<rr>にCEFを接続しないでください！例えば、4x CEF<rr>の場合は<66>4x cable<rr>、充填された16スロットBattery Buffer<rr>の場合は<66>16x cable<rr>を使用する必要があります。定格電流が不足しているケーブルは、<cc>燃えて破壊されます<rr>。同様に、ケーブルはマシンの<ee>電圧<rr>と同じかそれ以上でなければ、これも<cc>燃えて破壊されます<rr>。<nl><nl><cc>絶対に<ee>過電圧<rr>には接続しないでください、さもないと<cc>蒸発<rr>してしまいます。EU powerが接続された<66>wire<rr>に触れると、<cc>怪我をしたり死亡したりする<rr>ので、安全のために<ee>代わりに<66>cable<ee>を使いましょう<rr>!
 
 # db 411
 nomifactory.quest.db.411.title=Large Microverse Projector
