@@ -295,8 +295,8 @@ nomifactory.quest.db.65.title=Tier Three Micro Miner
 nomifactory.quest.db.65.desc=The Third Micro Miner.<nl><nl>This one can get you:<nl><66>* Tetrahedrite Ore<nl>* Cassiterite Ore<nl>* Tungstate Ore<nl>* Scheelite Ore<nl>* Redstone Ore<nl>* Quartz Ore<nl>* Vanadium Magnetite Ore<nl>* Rutile Ore<nl>* Tin Ore<nl>* Sapphire Ore<rr><nl><nl>When equipped with Gemstone Sensor:<nl><66>* Exquisite Emeralds<nl>* Exquisite Diamonds<nl>* Exquisite Rubies<nl>* Silver Ore<nl>* Gold Ore<nl>* Almandine Ore<rr>
 
 # db 66
-nomifactory.quest.db.66.title=From Dusts To Wires
-nomifactory.quest.db.66.desc=Although most <ee>alloys<ff> require an <33>Alloy Smelter<ff>, some alloys can be made simply by mixing the correct metal dusts together. <nl><nl>Copper Dust mixed with Redstone Dust makes <66>Red Alloy Dust<ff>.<nl><nl>Iron Dust mixed with Redstone Dust makes <66>Conductive Iron Dust<ff>.<nl><nl><33>Smelt<ff> it into ingots, <aa>hammer<ff> it into <66>Plates<ff>, and <aa>cut<ff> them into <66>Wires<ff>.
+nomifactory.quest.db.66.title=粉末からワイヤーへ
+nomifactory.quest.db.66.desc=ほとんどの<ee>合金は<33>Alloy Smelter<ff>を必要としますが、いくつかの合金は正しい金属の粉を一緒に混ぜるだけで作ることができます。<nl><nl>Copper DustとRedstone Dustを混ぜると<66>Red Alloy Dust<ff>になります。<nl><nl>Iron DustとRedstone Dustを混ぜると<66>Conductive Iron Dust<ff>になります。<nl><nl><33>精錬<ff>してインゴットに、<aa>ハンマーで叩いて<66>プレートに、<aa>カットして<66>ワイヤーにします。
 
 # db 67
 nomifactory.quest.db.67.title=Octadic Capacitor
@@ -1583,8 +1583,8 @@ nomifactory.quest.db.494.title=Fluid Terminal
 nomifactory.quest.db.494.desc=This terminal allows you to interact with fluid storage on your ME Network, like <aa>Fluid Storage Disks<rr>.<nl><nl>Put fluids in or remove fluids via this terminal with any GUI-compatible container, by clicking on a fluid to fill it, or an empty space to drain into the network.<nl><nl>It's a micropart, so you need to place it on <66>ME Cable<rr> (not a conduit).
 
 # db 495
-nomifactory.quest.db.495.title=Storage Drawer Controller
-nomifactory.quest.db.495.desc=<aa>Storage Drawer Controllers<rr> are the central hub of any good storage system. They can pull from any drawers they are connected to (via other drawers, or drawer trims) within a 12 block cubic radius. This leads to a potential 25x25x25 area to connect drawers, centered on the controller.<nl><nl>The appearance can be customized by crafting the controller into <aa>Framed Controller<rr> and putting it into a <aa>Framing Table<rr>.<nl><nl><aa>Controller Slaves<rr> do not extend the range, but rather act as another access point to that controller - allowing you to push/pull from any of the drawers within range of the local Drawer Controller.<nl><nl>Connecting an <66>ME Storage Bus<ff> to a controller exposes all of the drawers to <bb>Applied Energistics<ff>. Particularly large networks can be laggy though, so keep your drawer networks a manageable size.<nl>
+nomifactory.quest.db.495.title=ストレージドロワーコントローラ
+nomifactory.quest.db.495.desc=<aa>Storage Drawer Controller<rr>は、優れたストレージシステムの中心的なハブです。このコントローラは、12ブロック立方体の範囲内で、(他の引き出しや引き出しの縁を経由して)接続されているすべての引き出しから引き出すことができます。つまり、コントローラを中心に、25x25x25の引き出しを接続することができます。<nl><nl>コントローラを<aa>Framed Controller<rr>にクラフトし、<aa>Framing Table<rr>に入れることで、外観をカスタマイズすることができます。<nl><nl><aa>Controller Slave<rr>は範囲を拡張するのではなく、そのコントローラへの別のアクセスポイントとして機能します - Local Drawer Controllerの範囲内の任意の引き出しからプッシュ/プルを可能にします。<nl><nl>コントローラへ<66>ME Storage Bus<ff>を接続すると、すべての引き出しが<bb>Applied Energistics<ff> でアクセスできるようになります。<nl><nl><aa>Controller Slaves<rr>は範囲を拡張するのではなく、そのコントローラへの別のアクセスポイントとして機能します - ローカルドロワーコントローラの範囲内の任意の引き出しからプッシュ/プルを可能にします。<nl><nl>コントローラへ<66>ME Storage Bus<ff>を接続すると、すべての引き出しが<bb>Applied Energistics<ff>でアクセスできるようになります。
 
 # db 496
 nomifactory.quest.db.496.title=ドロワー
