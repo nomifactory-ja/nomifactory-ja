@@ -276,7 +276,7 @@ nomifactory.quest.db.60.desc=<33>Electric Blast Furnace<rr>は、あなたの<bb
 
 # db 61
 nomifactory.quest.db.61.title=宝石センサー
-nomifactory.quest.db.61.desc=一部のMicro Minerミッションでは、<66>Gemstone Sensor<rr>を使用して鉱石の代わりに宝石を探します。<nl><nl>このようなミッションでのみ<66>Exquisite Gems<rr>などのいくつかの材料を入手することができます。
+nomifactory.quest.db.61.desc=一部のMicro Minerミッションでは、<66>Gemstone Sensor<rr>を使用して鉱石の代わりに宝石を探します。<nl><nl>このようなミッションでのみ<66>Exquisite系の宝石<rr>などのいくつかの材料を入手することができます。
 
 # db 62
 nomifactory.quest.db.62.title=ターミナル
