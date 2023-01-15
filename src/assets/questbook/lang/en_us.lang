@@ -1567,8 +1567,8 @@ nomifactory.quest.db.489.title=LVコンプレッサー
 nomifactory.quest.db.489.desc=様々な物事のために<33>Compressor<rr>は必要ですが、その中でも最も重要なのはおそらく、1つのインゴットから多くの種類のプレートを作ることができることでしょう。
 
 # db 490
-nomifactory.quest.db.490.title=LV Autoclave
-nomifactory.quest.db.490.desc=An <33>Autoclave<rr> is a machine that uses liquids (usually water) to polish stones, carve gems into lenses, infuse gems with special liquids, and crystallize various dusts.<nl><nl>You'll need an Autoclave for many recipes, but right now you want it to make <66>Certus Quartz Crystals<rr> for <bb>Applied Energistics<rr> out of the <bb>GregTech<rr> <66>Certus Quartz<rr> and its dust you get from mining and ore processing.
+nomifactory.quest.db.490.title=LVオートクレーブ
+nomifactory.quest.db.490.desc=Autoclaveとは、液体（通常は水）を使って、宝石を研磨したり、宝石をレンズに彫り込んだり、宝石に特殊な液体を注入したり、さまざまな粉体を結晶化させる機械です。<nl><nl>この機械は多くのレシピのために必要ですが、この次のクエストでは採掘や鉱石処理で得られる<bb>Certus Quartz<rr>とその粉から<bb>Applied Energistics<rr>用の<66>Certus Quartz Crystal<rr>を作ってもらいます。
 
 # db 491
 nomifactory.quest.db.491.title=樹木を採掘する？
