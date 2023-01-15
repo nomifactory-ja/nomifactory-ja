@@ -591,8 +591,8 @@ nomifactory.quest.db.145.title=LVピストン
 nomifactory.quest.db.145.desc=Pistonは、ある機械を作るために必要な特別なmotorのことです。<nl><nl>これ自体がMotorを使用しているため、より複雑な部品の一つです。
 
 # db 146
-nomifactory.quest.db.146.title=LV Pumps
-nomifactory.quest.db.146.desc=Another common component of any machine that uses fluids. Also usable as a cover for moving fluids between <bb>GregTech<rr> machines and adjacent tanks or machines.<nl><nl>You can use <66>Paper Rings<rr> or <66>Rubber Rings<rr>, but both will require a <aa>Knife<rr> to craft. A stick and a piece of flint will make a Knife with low durability, or check the recipe for metal ones.
+nomifactory.quest.db.146.title=LVポンプ
+nomifactory.quest.db.146.desc=流体を使用する機械には必ずと言っていいほど使用される部品です。また、<bb>GregTech<rr>マシンと隣接するタンクやマシンとの間で液体を移動させるためのカバーとしても使用可能です。<nl><nl>クラフトのための素材として<66>Paper Ring<rr>と<66>Rubber Ring<rr>が使用できますが、どちらのクラフトにも<aa>Knife<rr>が必要となります。StickとFlintで耐久性の低いKnifeが作れます。金属製のKnifeはレシピを確認してください。
 
 # db 147
 nomifactory.quest.db.147.title=Polarizer
