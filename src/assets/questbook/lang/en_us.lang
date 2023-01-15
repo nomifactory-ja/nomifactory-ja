@@ -267,8 +267,8 @@ nomifactory.quest.db.58.title=LV Power Storage
 nomifactory.quest.db.58.desc=<66>Battery<rr>は<bb>GregTech<rr>の<aa>EU<rr>エネルギー用蓄電池です。<nl><nl>充電式電池にはいくつかの種類がありますが、<66>Cadmium Batteries<rr>が最も蓄電能力が高いので、最も良いものだと言えます。<66>Lithium<rr>は2番目に良く、<66>Sodium<rr>は3番目に良いです。<nl><nl><66>Lithium<rr>は<66>Tungsten<rr>鉱脈の中で見つけることができますが、かなりレアなものです。Lithiumを<dd>Nomicoins<rr>で「購入」することを検討してください。<nl><nl><66>Cadmium<rr> は、現時点では入手が厳しいので、検討する価値もないでしょう。 ただし、<66>Sodium<rr>は豊富にあります。Sodiumは<66>Salt<rr>を精錬することで手に入りますが、それ以外の選択肢も後々出てきます。
 
 # db 59
-nomifactory.quest.db.59.title=Copper... Nickel... Cupronickel?
-nomifactory.quest.db.59.desc=Nickel comes from several different ores, including Pentlandite and Garnierite, but they're all found in the same vein.<nl><nl>Nickel is used mostly for several very important alloys, including Invar and Cupronickel.
+nomifactory.quest.db.59.title=銅... ニッケル... キュプロニッケル？
+nomifactory.quest.db.59.desc=Nickelは、PentlanditeやGarnieriteなど、いくつかの異なる鉱石から産出されます。<nl><nl>Nickelは、InvarやCupronickelなど、いくつかの非常に重要な合金に主に使用されています。
 
 # db 60
 nomifactory.quest.db.60.title=Blast Furnace Fun
@@ -1155,8 +1155,8 @@ nomifactory.quest.db.295.title=Basic Fusion Injectors
 nomifactory.quest.db.295.desc=<bb>Draconic Evolution<rr> features <ee>Fusion Crafting<rr>, which requires a <66>Fusion Crafting Core<rr> and up to ten injectors of the appropriate tier.<nl><nl>You'll need eight <66>Basic Fusion Crafting Injectors<rr> to upgrade any additional injectors you make to Wyvern Tier.<nl><nl>Yes, that means you should plan to make more than eight. If you really want to plan ahead, make thirty-four of these.
 
 # db 296
-nomifactory.quest.db.296.title=Grains Of Infinity
-nomifactory.quest.db.296.desc=Obtaining <66>Grains of Infinity<rr> will require you to mine all the way down to Bedrock level.<nl><nl>Use Flint and Steel to light a fire (or many fires) and then wait for it to go out. There's a 50%% chance of Grains Of Infinity to appear for every fire that burns out on its own.<nl><nl>But who wants to do that forever? There will be better ways before too long, don't worry.
+nomifactory.quest.db.296.title=グレインズ・オブ・インフィニティ
+nomifactory.quest.db.296.desc=<66>Grains of Infinity<rr>を手に入れるには、岩盤まで採掘する必要があります。<nl><nl>Flint and Steelを使用して岩盤に火をつけ、消えるのを待ちます。最後まで燃え、燃え尽きた火に対して、50%の確率で「Grains Of Infinity」が出現します。<nl><nl>でも、この先ずっと岩盤に火をつけていたい人はいないでしょう。そう遠くないうちに、もっといい方法を教えます、心配しないでください。
 
 # db 297
 nomifactory.quest.db.297.title=Mana Infused Ingot
@@ -1760,8 +1760,8 @@ nomifactory.quest.db.543.title=Blue Steel Ingots
 nomifactory.quest.db.543.desc= 
 
 # db 544
-nomifactory.quest.db.544.title=Hardened Satchel
-nomifactory.quest.db.544.desc=Carry even more stuff.
+nomifactory.quest.db.544.title=ハードタイプのサッチェル
+nomifactory.quest.db.544.desc=さらに多くの荷物を運びます。
 
 # db 545
 nomifactory.quest.db.545.title=Reinforced Satchel
