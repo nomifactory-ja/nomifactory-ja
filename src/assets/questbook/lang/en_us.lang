@@ -1155,8 +1155,8 @@ nomifactory.quest.db.295.title=Basic Fusion Injectors
 nomifactory.quest.db.295.desc=<bb>Draconic Evolution<rr> features <ee>Fusion Crafting<rr>, which requires a <66>Fusion Crafting Core<rr> and up to ten injectors of the appropriate tier.<nl><nl>You'll need eight <66>Basic Fusion Crafting Injectors<rr> to upgrade any additional injectors you make to Wyvern Tier.<nl><nl>Yes, that means you should plan to make more than eight. If you really want to plan ahead, make thirty-four of these.
 
 # db 296
-nomifactory.quest.db.296.title=Grains Of Infinity
-nomifactory.quest.db.296.desc=Obtaining <66>Grains of Infinity<rr> will require you to mine all the way down to Bedrock level.<nl><nl>Use Flint and Steel to light a fire (or many fires) and then wait for it to go out. There's a 50%% chance of Grains Of Infinity to appear for every fire that burns out on its own.<nl><nl>But who wants to do that forever? There will be better ways before too long, don't worry.
+nomifactory.quest.db.296.title=グレインズ・オブ・インフィニティ
+nomifactory.quest.db.296.desc=<66>Grains of Infinity<rr>を手に入れるには、岩盤まで採掘する必要があります。<nl><nl>Flint and Steelを使用して岩盤に火をつけ、消えるのを待ちます。最後まで燃え、燃え尽きた火に対して、50%の確率で「Grains Of Infinity」が出現します。<nl><nl>でも、この先ずっと岩盤に火をつけていたい人はいないでしょう。そう遠くないうちに、もっといい方法を教えます、心配しないでください。
 
 # db 297
 nomifactory.quest.db.297.title=Mana Infused Ingot
@@ -1760,8 +1760,8 @@ nomifactory.quest.db.543.title=Blue Steel Ingots
 nomifactory.quest.db.543.desc= 
 
 # db 544
-nomifactory.quest.db.544.title=Hardened Satchel
-nomifactory.quest.db.544.desc=Carry even more stuff.
+nomifactory.quest.db.544.title=ハードタイプのサッチェル
+nomifactory.quest.db.544.desc=さらに多くの荷物を運びます。
 
 # db 545
 nomifactory.quest.db.545.title=Reinforced Satchel
