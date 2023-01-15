@@ -267,24 +267,24 @@ nomifactory.quest.db.58.title=LV Power Storage
 nomifactory.quest.db.58.desc=<66>Battery<rr>は<bb>GregTech<rr>の<aa>EU<rr>エネルギー用蓄電池です。<nl><nl>充電式電池にはいくつかの種類がありますが、<66>Cadmium Batteries<rr>が最も蓄電能力が高いので、最も良いものだと言えます。<66>Lithium<rr>は2番目に良く、<66>Sodium<rr>は3番目に良いです。<nl><nl><66>Lithium<rr>は<66>Tungsten<rr>鉱脈の中で見つけることができますが、かなりレアなものです。Lithiumを<dd>Nomicoins<rr>で「購入」することを検討してください。<nl><nl><66>Cadmium<rr> は、現時点では入手が厳しいので、検討する価値もないでしょう。 ただし、<66>Sodium<rr>は豊富にあります。Sodiumは<66>Salt<rr>を精錬することで手に入りますが、それ以外の選択肢も後々出てきます。
 
 # db 59
-nomifactory.quest.db.59.title=銅とニッケルで… 白銅？
-nomifactory.quest.db.59.desc=Nickelは、PentlanditeやGarnieriteなど、いくつかの異なる鉱石から採れますが、すべて同じ鉱脈で見つかります。<nl><nl>Nickelは主にInvarやCupronickelなど、いくつかの非常に重要な合金に使用されます。
+nomifactory.quest.db.59.title=Copper... Nickel... Cupronickel?
+nomifactory.quest.db.59.desc=Nickel comes from several different ores, including Pentlandite and Garnierite, but they're all found in the same vein.<nl><nl>Nickel is used mostly for several very important alloys, including Invar and Cupronickel.
 
 # db 60
-nomifactory.quest.db.60.title=高炉の楽しみ方
-nomifactory.quest.db.60.desc=<33>Electric Blast Furnace<rr>は、あなたの<bb>GregTech<rr>キャリアの中でも、とても重要で画期的な節目と言えるでしょう。これによりもっと高度な材料を精錬することができるようになります。その第一は、<66>アルミニウム<rr>で、これは当面の間重宝するでしょう。<nl><nl><bb>JEI<rr>にEBFの組み立て方があります。 2段目と3段目は、Coil Block（<66>Cupronickel<rr>は今のところ入手可能な唯一の種類のCoil Block）を3×3の正方形の形に並べて、中央を空ける必要があります。また<66>スニーク&右クリック<rr>で、インワールドプレビューを有効にすることができます。<nl><nl>しかし、下層と上層は非常に柔軟性があります。<66>EBF Controller<rr>は、構造体の<ee>最下層<rr>と<ee>外縁の中央<rr>に配置する必要があります。その他、ハッチやバスを好きな場所に配置し、各層の隙間を<66>Heatproof Machine Casings<rr>で埋めることができます。特筆すべきは、<ee>Heatproof Machine Casingsを10個以上使用しないと、構造が形成されない<rr>ということです。<nl><nl>このクエストでは、エネルギーハッチ2つ、流体の入出力、アイテムの入出力、合計6つのポジションを要求されます。アクセスできれば、その順番や配置は問いません。7個目はEBFコントローラーで、11個の隙間はHeatproof Machine Casingsで埋めることになります。うまくいくと、ハッチとケーシングの色が統一され、コントローラに「Idling.」と表示されます。<nl><nl>電源はEBFの近くに置くとよいでしょう。EBFは非常に電力を必要とし、十分なエネルギーを得ることができない場合、現在のアイテム錬成の進行が後退し始めます。EBFの電源の確保に注意し、Soft Hammerなどを近くに置いて、電源が切れたときにコントローラを叩いて一時停止できるようにしてください。
+nomifactory.quest.db.60.title=Blast Furnace Fun
+nomifactory.quest.db.60.desc=The <33>Electric Blast Furnace<rr> is a major, major milestone in your <bb>GregTech<rr> career. It has the power to smelt more advanced materials. The first of which, <66>Aluminium<rr>, is going to be important in the immediate future.<nl><nl>There is a diagram of how to build the EBF in <bb>JEI<rr>. The second and third levels must be a 3x3 square shape of Coil Blocks (<66>Cupronickel<rr> is the only type of coil block you have access to for now) with an empty center. You can also <66>sneak-right click<rr> the controller to enable the in-world preview.<nl><nl>However, the bottom and top layers are very flexible. The <66>EBF Controller<rr> must be on the <ee>bottom layer<rr> of the structure, and on the <ee>middle of an outer edge<rr>. Otherwise, you can put the hatches and buses wherever you want, filling in all gaps in each layer with <66>Heatproof Machine Casings<rr>. It's worth noting that you must <ee>use at least 10 Heatproof Machine Casings in your layout or the structure will not form<rr>.<nl><nl>This quest calls for two energy hatches, a fluid input and output, and an item input and output, which is a total of six positions. Their specific order and placement don't matter, as long as you can access them. The seventh position is your EBF controller, leaving eleven gaps to be filled by Heatproof Machine Casings. If you did everything right, the structure will form: the colors on its hatches and casings will unify, and the controller will say "Idling."<nl><nl>You'll most likely want to locate your power quite near to the EBF. It is very power hungry, and if it cannot get enough energy, progress on the current item smelting will start to regress. Be careful to ensure the EBF has enough power, and keep a Soft Hammer nearby to pause it by tapping the controller if you run out of power.
 
 # db 61
-nomifactory.quest.db.61.title=宝石センサー
-nomifactory.quest.db.61.desc=一部のMicro Minerミッションでは、<66>Gemstone Sensor<rr>を使用して鉱石の代わりに宝石を探します。<nl><nl>このようなミッションでのみ<66>Exquisite Gems<rr>などのいくつかの材料を入手することができます。
+nomifactory.quest.db.61.title=Gemstone Sensor
+nomifactory.quest.db.61.desc=Some Micro Miner missions use a <66>Gemstone Sensor<rr> to scout out gems instead of ores.<nl><nl>Several materials like <66>Exquisite Gems<rr> can only be obtained from such missions.
 
 # db 62
-nomifactory.quest.db.62.title=ターミナル
-nomifactory.quest.db.62.desc=<66>Terminal<rr>では、1つの画面ですべてのアイテムにアクセスできます。とにかく、すぐに。<nl><nl>なお、5種類の<66>ME Terminal<rr>はすべて<ee>マイクロパーツ<rr>であり、<66>ME Cable<rr>（コンジットではない）に接続しないと機能しないことに注意してください。
+nomifactory.quest.db.62.title=Terminal
+nomifactory.quest.db.62.desc=Access all of your items on a single screen. Soon, anyway.<nl><nl>Please note that all five variants of <66>ME Terminals<rr> are <ee>microparts<rr>, which means they need to be attached to an <66>ME Cable<rr> (not conduit) to function.
 
 # db 63
-nomifactory.quest.db.63.title=MEチェスト
-nomifactory.quest.db.63.desc=<aa>ME Chest<rr>はそれ単体ではあまり実用性がありませんが、より便利な<66>ME Drive<rr>の材料として使うことができます。<nl><nl>それは初歩的なデジタルアイテム収納装置です。中に<66>Storage Cell<rr>を入れることで、チェストを覗くように中身にアクセスできるようになります。必要であれば、ディスクを別の場所に運び、別のME Chestに置くことでアイテムも一緒に運ばれます。<nl><nl><cc>SatchelやStorage Cellの内容が破損してしまう恐れがあるため、Satchelのような他のポータブルMODインベントリの中にStorage Cellを入れないでください（その逆も然り）。<rr>この現象には技術的な理由（NBTオーバーフロー）があり、これらのアイテム固有の問題ではありませんが、それに関する詳細な説明は省きます。<nl><nl>
+nomifactory.quest.db.63.title=ME Chest
+nomifactory.quest.db.63.desc=The <aa>ME Chest<rr> is somewhat impractical to use on its own, but it's a necessary ingredient for the much more useful <66>ME Drive<rr>.<nl><nl>This is a rudimentary digital item storage device. By placing a <66>Storage Cell<rr> inside it, you can access the contents as though you were looking through a chest. You can carry the disk to another location and place it down in a different ME Chest if you want, and the items will come with it.<nl><nl><cc>Don't put Storage Cells inside other portable mod inventories like a Satchel, (or vice-versa) as you risk corrupting the contents of the Satchel and the Storage Cell.<rr> There's technical reasons why this happens (NBT overflow), and it's not unique to these items, but that's not really worth going into.<nl><nl>
 
 # db 64
 nomifactory.quest.db.64.title=Digital Storage At Last
