@@ -2,7 +2,11 @@ import buildConfig from "../buildConfig";
 import { appendFileSync } from "fs";
 
 export default async function makeArtifactNames(): Promise<void> {
-	const body = makeArtifactNameBody(`${buildConfig.name}-for-${buildConfig.currentTarget}`);
+	const datetime = new Date();
+	const datetimeStr = `${datetime.getFullYear()}${
+		datetime.getMonth() + 1
+	}${datetime.getDate()}${datetime.getHours()}${datetime.getMinutes()}${datetime.getSeconds()}`;
+	const body = makeArtifactNameBody(`${buildConfig.name}-${datetimeStr}-for-${buildConfig.currentTarget}`);
 
 	if (process.env.GITHUB_OUTPUT) {
 		appendFileSync(process.env.GITHUB_OUTPUT, `artifact-name=${body}\n`);
