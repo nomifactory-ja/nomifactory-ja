@@ -192,7 +192,7 @@ nomifactory.quest.db.37.desc=<66>Rubber Tree<ff>を探しに行くというの�
 
 # db 38
 nomifactory.quest.db.38.title=LV CEF
-nomifactory.quest.db.38.desc=<oo>注意: このクエストでは、4倍または16倍のCEF(LV)を受け付けます。<rr><nl><nl>今までは<33>Steam Dynamo<rr>で<aa>RF power<rr>を生成していましたが、<bb>GregTech<rr>のマシンを動かすためには<aa>EU power<rr>が必要です。 最初の<66>Circuit<rr>を手にしたあなたは、<ee>Low Volutage (LV) <33>CEF<rr>を構築する準備が整ったことになります。<nl><nl><33>CEF<rr>は、<a>RFパワー<rr>を<a>EUパワー<rr>に変換する特殊なデバイスです。CEFには2つのサイズがあります。<ee>4 Amp<rr>と<ee>16 Amp<rr>があり、それぞれ4個と16個のインベントリースロットを備えています。CEFの各スロットには、<66>Battery<rr>を1個搭載することができます。<nl><nl>CEFの中に<bb>GregTech<rr>バッテリーを入れる<oo>必要はありません<rr>が、入れた場合、<ee>CEFはバッテリー1個につき最大1Aまでしか出力できないので注意が必要です<rr>。Batteryがない状態でも、必要に応じて定格アンペア数まで出力します。<nl><nl><aa>RF<rr>は<aa>EU<rr>に<ee>4:1<rr>の割合で変換されます。<aa>100 RF<rr>は<a>25 EU<rr>になり、その逆も同様です。もし<aa>EU<rr>を主電源とすることになった場合、<33>CEU<rr>というデバイスが<aa>EU<rr>から<aa>RF<rr>に電源を切り替えられるようになります。
+nomifactory.quest.db.38.desc=<oo>注意: このクエストでは、4倍または16倍のCEF(LV)を受け付けます。<rr><nl><nl>今までは<33>Steam Dynamo<rr>で<aa>RF power<rr>を生成していましたが、<bb>GregTech<rr>のマシンを動かすためには<aa>EU power<rr>が必要です。 最初の<66>Circuit<rr>を手にしたあなたは、<ee>Low Volutage (LV) <33>CEF<rr>を構築する準備が整ったことになります。<nl><nl><33>CEF<rr>は、<aa>RFパワー<rr>を<aa>EUパワー<rr>に変換する特殊なデバイスです。CEFには2つのサイズがあります。<ee>4 Amp<rr>と<ee>16 Amp<rr>があり、それぞれ4個と16個のインベントリースロットを備えています。CEFの各スロットには、<66>Battery<rr>を1個搭載することができます。<nl><nl>CEFの中に<bb>GregTech<rr>バッテリーを入れる<oo>必要はありません<rr>が、入れた場合、<ee>CEFはバッテリー1個につき最大1Aまでしか出力できないので注意が必要です<rr>。Batteryがない状態でも、必要に応じて定格アンペア数まで出力します。<nl><nl><aa>RF<rr>は<aa>EU<rr>に<ee>4:1<rr>の割合で変換されます。<aa>100 RF<rr>は<aa>25 EU<rr>になり、その逆も同様です。もし<aa>EU<rr>を主電源とすることになった場合、<33>CEU<rr>というデバイスが<aa>EU<rr>から<aa>RF<rr>に電源を切り替えられるようになります。
 
 # db 39
 nomifactory.quest.db.39.title=アイテム導管
@@ -271,8 +271,8 @@ nomifactory.quest.db.59.title=銅とニッケルで… 白銅？
 nomifactory.quest.db.59.desc=Nickelは、PentlanditeやGarnieriteなど、いくつかの異なる鉱石から採れますが、すべて同じ鉱脈で見つかります。<nl><nl>Nickelは主にInvarやCupronickelなど、いくつかの非常に重要な合金に使用されます。
 
 # db 60
-nomifactory.quest.db.60.title=高炉の楽しみ方
-nomifactory.quest.db.60.desc=<33>Electric Blast Furnace<rr>は、あなたの<bb>GregTech<rr>キャリアの中でも、とても重要で画期的な節目と言えるでしょう。これによりもっと高度な材料を精錬することができるようになります。その第一は、<66>Aluminium<rr>で、これは当面の間重宝するでしょう。<nl><nl><bb>JEI<rr>にEBFの組み立て方があります。 2段目と3段目は、Coil Block（<66>Cupronickel<rr>は今のところ入手可能な唯一の種類のCoil Block）を3×3の正方形の形に並べて、中央を空ける必要があります。また<66>スニーク&右クリック<rr>で、インワールドプレビューを有効にすることができます。<nl><nl>しかし、下層と上層は非常に柔軟性があります。<66>EBF Controller<rr>は、構造体の<ee>最下層<rr>と<ee>外縁の中央<rr>に配置する必要があります。その他、ハッチやバスを好きな場所に配置し、各層の隙間を<66>Heatproof Machine Casing<rr>で埋めることができます。特筆すべきは、<ee>Heatproof Machine Casingを10個以上使用しないと、構造が形成されない<rr>ということです。<nl><nl>このクエストでは、エネルギーハッチ2つ、流体の入出力、アイテムの入出力、合計6つのポジションを要求されます。アクセスできれば、その順番や配置は問いません。7個目はEBFコントローラーで、11個の隙間はHeatproof Machine Casingで埋めることになります。うまくいくと、ハッチとケーシングの色が統一され、コントローラに「Idling.」と表示されます。<nl><nl>電源はEBFの近くに置くとよいでしょう。EBFは非常に電力を必要とし、十分なエネルギーを得ることができない場合、現在のアイテム錬成の進行が後退し始めます。EBFの電源の確保に注意し、Soft Hammerなどを近くに置いて、電源が切れたときにコントローラを叩いて一時停止できるようにしてください。
+nomifactory.quest.db.60.title=高炉を楽しむ
+nomifactory.quest.db.60.desc=<33>Electric Blast Furnace<rr>は、<bb>GregTech<rr>ライフの中でも、特に重要で画期的な節目と言えるでしょう。これによりもっと高度な材料を精錬することができるようになります。その筆頭は<66>Aluminium<rr>で、これは当面の間重宝するでしょう。<nl><nl><bb>JEI<rr>にEBFの組み立て方があります。 2段目と3段目は、Coil Block（<66>Cupronickel<rr>は今のところ入手可能な唯一の種類のCoil Block）を3×3の正方形の形に並べて、中央を空ける必要があります。また<66>スニーク&右クリック<rr>で、インワールドプレビューを有効にすることもできます。<nl><nl>Coil Blockと比べ、その上下層は非常に柔軟なレイアウトが可能です。<66>EBF Controller<rr>は、<ee>最下層<rr>かつ<ee>外縁の中央<rr>に配置する必要があります。それ以外のHachやBusは好みの場所に配置し、隙間は<66>Heat Proof Machine Casing<rr>で埋めましょう。特筆すべきは、<ee>Heat Proof Machine Casingを10個以上使用しないと、正常にEBFとして認識されない<rr>ということです。<nl><nl>このクエストではEnergy Hatcheが2個、流体のInput/Outputが1個ずつ、アイテムのInput/Outputが1個ずつで合計6個要求されます。これらはアクセスさえできれば、その順番や配置は問いません。7個目はEBFコントローラーで、残り11個の隙間はHeat Proof Machine Casingで埋めることになります。うまく配置できればHatcheとCasingの色が統一され、コントローラーに「Idling.」と表示されます。<nl><nl>電源はEBFの近くに置くとよいでしょう。EBFは非常に電力を必要とし、十分なエネルギーを得ることができない場合、精錬中のアイテムの進行度が後退し始めます。EBFの電源確保に注意し、Soft Hammerなどを近くに置いておき、電源が切れたときにはコントローラを叩いて一時停止できるようにしておきましょう。
 
 # db 61
 nomifactory.quest.db.61.title=宝石センサー
@@ -2553,7 +2553,7 @@ nomifactory.quest.db.802.desc=<66>Fusion Coils<rr> are the ninth and final coil 
 
 # db 803
 nomifactory.quest.db.803.title=失われた都市と住まいの登録
-nomifactory.quest.db.803.desc=サーバー管理者がoverworld typeとしてデフォルトの<bb>Lost Cities<rr>を選んだ場合でも、<ee>Lost Cities Dimension<rr>にテレポートするオプションが用意されています。<nl><nl>ポータルを作成するには、2つの<66>Block of Diamond<rr>の上に<aa>Bed<rr><rr>を配置する必要があります。そして、<ee>Monster Skulls<rr>でベッドを囲む。このベッドで眠ると、そこにテレポートされます。<nl><nl><cc>戻る方法も忘れずに！<rr><rr><ee>/sethome<rr><rr>コマンドで自分の家の場所を登録し、<ee>/home<rr><rr>でそこに戻ることができます。名前(デフォルトは"home")を指定すれば、複数の場所を登録し、移動することができます。ただし、これにはいくつかの<ee>制限事項</ee>があります。<ee>発動には数秒の静止が必要<rr>で、使用と使用の間には<ee>クールダウン<rr>があります。<nl><nl>あとから他のテレポートの手段も使えるようになります。<ee>Peaceful<rr>で遊んでいると、モンスターの頭蓋骨を入手するのに少し時間がかかるかもしれません。その場合は<66>Skeleton Skull<rr>がお勧めです
+nomifactory.quest.db.803.desc=サーバー管理者がoverworld typeとしてデフォルトの<bb>Lost Cities<rr>を選んだ場合でも、<ee>Lost Cities Dimension<rr>にテレポートするオプションが用意されています。<nl><nl>ポータルを作成するには、2つの<66>Block of Diamond<rr>の上に<aa>Bed<rr><rr>を配置する必要があります。そして、<ee>Monster Skulls<rr>でベッドを囲む。このベッドで眠ると、そこにテレポートされます。<nl><nl><cc>戻る方法も忘れずに！<rr><rr><ee>/sethome<rr><rr>コマンドで自分の家の場所を登録し、<ee>/home<rr><rr>でそこに戻ることができます。名前(デフォルトは"home")を指定すれば、複数の場所を登録し、移動することができます。ただし、これにはいくつかの<ee>制限事項<rr>があります。<ee>発動には数秒の静止が必要<rr>で、使用と使用の間には<ee>クールダウン<rr>があります。<nl><nl>あとから他のテレポートの手段も使えるようになります。<ee>Peaceful<rr>で遊んでいると、モンスターの頭蓋骨を入手するのに少し時間がかかるかもしれません。その場合は<66>Skeleton Skull<rr>がお勧めです
 
 # db 804
 nomifactory.quest.db.804.title=Assembly Line Automation
