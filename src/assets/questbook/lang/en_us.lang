@@ -256,7 +256,7 @@ nomifactory.quest.db.55.desc=注意: このクエストはLV、MV、HV Centrifug
 
 # db 56
 nomifactory.quest.db.56.title=すべてをまとめよう
-nomifactory.quest.db.56.desc=さて、マシンの電源に必要なものはすべて揃ったので、いよいよ組み立てていきます。<nl><nl>Steam Dynamoは、燃焼可能な燃料（<66>Coal<rr>など）と<99>Water<rr>が必要です。Excitation Coil（上部の赤いビット）を通してRF powerを出力します。Steam Dynamoの向きは、必要に応じて<aa>Crescent Hammer<rr>で調整することができます。<nl><nl><66>Energy Conduit<rr>はそのRF powerを伝達するために使われますが、DynamoはExcitation CoilをCEFに接触させることで、CEFに直接RFを出力することもできます。<nl><nl>CEFはRF powerをEU powerに変換し、得られたEU powerを赤い点のある側から出力すします。<aa>Wrench<rr>で向きを調整することができます。CEFの出力側に<66>Conductive Iron Cable<rr>を装着してください。<nl><nl>あとは、ケーブルに接続する<bb>GregTech<rr>マシンを用意します！好きなものを作ることができますが、まずこの2つを手に入れることをお勧めします:<nl><nl><66>Wiremill<rr>を使うと、ワイヤーの工作がとても簡単になります。<nl><nl><66>コンプレッサー<rr>は2つのインゴットからではなく、1つのインゴットからプレートを作るようになります。
+nomifactory.quest.db.56.desc=さて、マシンの電源に必要なものはすべて揃ったので、いよいよ組み立てていきます。<nl><nl>Steam Dynamoは、燃焼可能な燃料（<66>Coal<rr>など）と<99>Water<rr>が必要です。Excitation Coil（上部の赤いビット）を通してRF powerを出力します。Steam Dynamoの向きは、必要に応じて<aa>Crescent Hammer<rr>で調整することができます。<nl><nl><66>Energy Conduit<rr>はそのRF powerを伝達するために使われますが、DynamoはExcitation CoilをCEFに接触させることで、CEFに直接RFを出力することもできます。<nl><nl>CEFはRF powerをEU powerに変換し、得られたEU powerを赤い点のある側から出力すします。<aa>Wrench<rr>で向きを調整することができます。CEFの出力側に<66>Conductive Iron Cable<rr>を装着してください。<nl><nl>あとは、ケーブルに接続する<bb>GregTech<rr>マシンを用意します！好きなものを作ることができますが、まずこの2つを手に入れることをお勧めします:<nl><nl><66>Wiremill<rr>を使うと、ワイヤーの工作がとても簡単になります。<nl><nl><66>Compressor<rr>は2つのインゴットからではなく、1つのインゴットからプレートを作るようになります。
 
 # db 57
 nomifactory.quest.db.57.title=Ender Fluid Conduits
