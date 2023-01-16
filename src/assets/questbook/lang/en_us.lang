@@ -1591,8 +1591,8 @@ nomifactory.quest.db.496.title=ドロワー
 nomifactory.quest.db.496.desc=<bb>Storage Drawer<ff>は、1種類のアイテムを大量に収納できます。StoneやDirt、任意の鉱石など、大量に入手できるアイテムに使うと効果的です。<nl><nl>外観をデフォルトから変えたい場合、<33>Framing Table<ff>と<66>Framed Drawer<ff>を使って最大3つの追加アイテムからカスタムできます。<nl><nl>また、<aa>Hand Framing Tool<rr>を使うことで、リフレームしたり、デフォルトのDrawerをFramed Drawerに変換したり<rr>できます。詳しくは、Hand Framing Toolの<ee>JEI Information Page<rr>をご覧ください。
 
 # db 497
-nomifactory.quest.db.497.title=Compacting Drawers
-nomifactory.quest.db.497.desc=Great for automatically converting between Nuggets, Ingots, and Blocks of metals, or simply storing massive amounts of things. Also works with <dd>Nomicoins<rr>.<nl><nl>The appearance can be customized by crafting the drawer into <aa>Framed Compacting Drawer<rr> and putting it into a <aa>Framing Table<rr>.
+nomifactory.quest.db.497.title=コンパクトな引出し
+nomifactory.quest.db.497.desc=Compacting Drawersはナゲット、インゴット、ブロックなどの金属を自動変換したり、大量に収納するのに適しています。また、<dd>Nomicoins<rr>でも使用可能です。<nl><nl>引き出しを<aa>Framed Compacting Drawer<rr>に加工し、<aa>Framing Table<rr>に入れることで、外観をカスタマイズすることが可能です。
 
 # db 498
 nomifactory.quest.db.498.title=Soldering Alloy
@@ -1659,8 +1659,8 @@ nomifactory.quest.db.516.title=LV Conveyor
 nomifactory.quest.db.516.desc=Not as common a component, but used in a number of critical machines.<nl><nl>Also useful as a machine cover for continuously moving items.
 
 # db 517
-nomifactory.quest.db.517.title=LV Robot Arm
-nomifactory.quest.db.517.desc=<66>Robot Arms<rr> are components of several powerful machines, and are also useful as a machine cover for precise item movement.<nl><nl>One of the most expensive components, as it requires motors, pistons, and a circuit.
+nomifactory.quest.db.516.title=LV コンベア
+nomifactory.quest.db.516.desc=<66>Robot Arms<rr>はあまり一般的なパーツでありませんが、多くの重要なマシンで使用されています。<nl><nl>また、連続的に動くアイテムのマシンカバーとしても有用です。
 
 # db 519
 nomifactory.quest.db.519.title=Naquadah Reactor Mk1
