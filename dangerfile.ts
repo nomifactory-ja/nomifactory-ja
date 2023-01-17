@@ -1,4 +1,4 @@
-import { message, danger } from "danger";
+import { message, danger, fail } from "danger";
 
 function render(content: string) {
 	const i = content.indexOf("=");
@@ -24,6 +24,15 @@ danger.git.modified_files.forEach((file) => {
 				if (change.type === "add") {
 					if (change.content.includes(".desc=")) {
 						message(render(change.content), file, change.ln);
+					}
+					if (change.content.includes("</")) {
+						fail("記載ミスがあります。`</`", file, change.ln);
+					}
+					if (change.content.includes("<br>")) {
+						fail("記載ミスがあります。`<br>`", file, change.ln);
+					}
+					if (change.content.includes("<a>")) {
+						fail("記載ミスがあります。`<a>`", file, change.ln);
 					}
 				}
 			});
