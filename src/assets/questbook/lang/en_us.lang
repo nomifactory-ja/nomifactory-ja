@@ -307,8 +307,8 @@ nomifactory.quest.db.68.title=Experience Obelisk
 nomifactory.quest.db.68.desc=The <33>Experience Obelisk<rr> is a mass storage device for player experience in the form of <99>Liquid XP<rr>.<nl><nl>Via the GUI you can insert or extract levels as needed, as well as configure interactions with neighboring blocks (as is typical of <bb>EnderIO<rr> machines).<nl><nl>Liquid XP can also be pumped in directly from your automation such as <33>Fluid Extractors<rr>.
 
 # db 69
-nomifactory.quest.db.69.title=Aluminium Ingots
-nomifactory.quest.db.69.desc=With your EBF running, start to create a supply of <66>Aluminium Ingots<rr>. These are crucial ingredients for MV machines, including <bb>Applied Energistics<rr>.<nl><nl>If you find your power supply is faltering, you may want to make additional dynamos and turn them into steam boilers and turbines. Upgrading your dynamos is also advisable.<nl><nl>However, you're also about to reach MV. You're bound to discover a better power source than steam before long.
+nomifactory.quest.db.69.title=アルミニウムインゴット
+nomifactory.quest.db.69.desc=EBFを起動できれば、<66>Aluminium Ingot<rr>の供給を開始できます。これらは<bb>Applied Energistics<rr>をはじめとするMVマシンの重要な構成要素です。<nl><nl>また、Dynamoのアップグレードもお勧めです。<nl><nl>しかし、そろそろMVにも手を出そうとしていますね。そのうちSteamより優れた動力源を発見するはずです。
 
 # db 70
 nomifactory.quest.db.70.title=MV Power Storage
@@ -1764,8 +1764,8 @@ nomifactory.quest.db.544.title=ハードタイプのサッチェル
 nomifactory.quest.db.544.desc=さらに多くの荷物を運びます。
 
 # db 545
-nomifactory.quest.db.545.title=Reinforced Satchel
-nomifactory.quest.db.545.desc=Carry <oo>even more<rr> stuff.
+nomifactory.quest.db.545.title=強化サッチェル
+nomifactory.quest.db.545.desc=<oo>さらに<rr>多くの荷物を運びます。
 
 # db 546
 nomifactory.quest.db.546.title=I Don't Need No Stinkin' Tower
