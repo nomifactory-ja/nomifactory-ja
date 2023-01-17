@@ -1699,8 +1699,8 @@ nomifactory.quest.db.527.title=Lumium
 nomifactory.quest.db.527.desc=Glowing!<nl><nl>This one takes a significant amount of time to cook, so make sure to have it going constantly.<nl><nl>Wires made from <66>Lumium<rr> transmit IV power losslessly, and it forms the basis for <66>LuV Machine Hulls<rr>.
 
 # db 528
-nomifactory.quest.db.528.title=Hardened Upgrade Kit
-nomifactory.quest.db.528.desc=What?!<nl><66>STEAM DYNAMO<rr> is evolving!<nl><nl>Upgrade kits can be applied to Thermal Expansion Dynamos, machines, and even Portable Tanks. Machines and dynamos get additional augment slots.<nl><nl>When applied to a dynamo, it increases the <aa>power generation and fuel burn rate to 150%%<rr>.<nl><nl>Increases the base capacity of Portable Tanks to <aa>200 buckets<rr>.<nl><nl>Allows machines operate at <aa>150%% of base power per tick<rr>. The more power a machine can use, the faster it works.<nl>
+nomifactory.quest.db.528.title=ハードタイプのアップグレードキット
+nomifactory.quest.db.528.desc=……おや！？<nl><66>STEAM DYNAMO<rr>のようすが……！<nl><nl>Upgrade kitは、Thermal Expansion Dymano、マシン、Portable Tankにも適用可能です。マシンとDynamoの場合はオーグメントスロットが追加されます。<nl><nl>Dynamoに適用すると、<aa>発電量と燃料の燃焼率が150%<rr>に向上します。<nl><nl>Portable Tankの場合は基本容量が<a>200バケツ分<rr>に増加します。<nl><nl>1tickあたり<aa>150%の出力で動作させることができるようになります。マシンは大きな力を使えば使うほど、速く動きます。<nl>
 
 # db 529
 nomifactory.quest.db.529.title=IV Assembling Machine
