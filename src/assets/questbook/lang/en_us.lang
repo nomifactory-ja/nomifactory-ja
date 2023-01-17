@@ -343,8 +343,8 @@ nomifactory.quest.db.77.title=Exquisite Gems
 nomifactory.quest.db.77.desc=<66>Exquisite Gems<rr> are mostly needed for crafting special materials.<nl><nl>If you don't need them for that though, they can be cut through two cycles in a <33>Cutting Machine<rr> into eight of the basic version of that gem.
 
 # db 78
-nomifactory.quest.db.78.title=Gallium
-nomifactory.quest.db.78.desc=Throwing <66>Impure Piles of Sphalerite<rr> into Cauldrons is the first way of obtaining <66>Sphalerite<rr>, which can be electrolyzed as a good source of <66>Gallium<rr>. The <66>Zinc<rr> and <66>Sulfur<rr> you get from doing this will be quite useful as well. Sphalerite Ore<rr> spawns in <66>Zinc<rr> veins. <nl><nl>A <33>Centrifuge<rr> instead of a Cauldron is slower and requires power, but it gets you more Gallium while separating the impure dust into Sphalerite.<nl><nl>If you're having trouble getting the quest to complete, check to see if you are holding <66>small piles<rr> instead of <66>tiny piles<rr>. If so, combine four small piles into a regular dust, then split that into tiny piles. A <33>Crafting Station<rr> can help you quickly convert between pile types.
+nomifactory.quest.db.78.title=ガリウム
+nomifactory.quest.db.78.desc=Cauldronに<66>Impure Piles of Sphalerite<rr>を投げ入れると、<66>Sphalerite<rr>を入手することができます。このSphaleriteは電気分解すると<66>Gallium<rr>の良い材料となります。これによって得られる<66>Zinc<rr>と<66>Sulfur<rr>もかなり有用です。Sphalerite Ore<rr>は<66>Zinc<rr>鉱脈に一生に生成されます。<nl><nl>Cauldronの代わりに<33>Centrifuge<rr>を使用すると、速度が遅く、電力も必要ですが、impure dustをSphaleriteに分離しながら、より多くのGalliumを得ることができます。<nl><nl>クエストがなかなかクリアできないときは、<66>tiny pile<rr>ではなく<66>small pile<rr>を持っているかもしれません。その場合、4つのsmall pileを普通のdustにまとめ、それをtiny pileに分割すると良いでしょう。<33>Crafting Station<rr>は、pileの種類を素早く変換するのに役立ちます。
 
 # db 79
 nomifactory.quest.db.79.title=MV Cutting Machine
