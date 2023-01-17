@@ -75,7 +75,7 @@ nomifactory.quest.db.7.title=ケーブル
 nomifactory.quest.db.7.desc=<66>Red Alloy Cable<ff>を始めとする最も基本的なケーブルは、<66>Rubber<ff>を消費し手でクラフトできます。<nl><nl>より高度なタイプのケーブルは<33>Assembling Machine<ff> と液体の<99>Rubber<ff>が必要ですが、今は簡単な方法で作成してみましょう。
 
 # db 8
-nomifactory.quest.db.8.title=Tier 3: 3つの回路
+nomifactory.quest.db.8.title=3つ目のTier 3の回路
 nomifactory.quest.db.8.desc=3つの<66>Microcircuit<rr>といくつかの標準的な部品があれば、Tier 3の最後の回路となる<66>Microprocessor<rr>にアップグレードすることができます。
 
 # db 9
@@ -335,8 +335,8 @@ nomifactory.quest.db.75.title=Machine Block
 nomifactory.quest.db.75.desc=The <66>Machine Block<rr> is the first step into a mod called <bb>Extra Utilities 2<rr>.
 
 # db 76
-nomifactory.quest.db.76.title=The First Tier Two Circuits
-nomifactory.quest.db.76.desc=Your first <66>Tier Two Circuits<rr> will require four <66>Tier One Circuits<rr> plus a <66>Diode<rr> made with <66>Gallium<rr> to craft.<nl><nl>These are rather expensive... Always be on the lookout for a cheaper way to make your circuits- new sets of recipes become available each time you make a new tier of <33>Assembling Machine<rr>.
+nomifactory.quest.db.76.title=1つ目のTier 2の回路
+nomifactory.quest.db.76.desc=最初の<66>Tier 2 Circuit<rr>を作成するには、4つの<66>Tier 1 Circuit<rr>と<66>Gallium<rr>で作られた<66>Diode<rr>が必要です。<nl><nl>割と高いんですよね...。また、新しいTierの<33>Assembling Machine<rr>を作るたびに、新しいレシピセットが利用できるようになります。
 
 # db 77
 nomifactory.quest.db.77.title=Exquisite Gems
@@ -371,11 +371,11 @@ nomifactory.quest.db.84.title=Circuit Wafers
 nomifactory.quest.db.84.desc=<66>Circuit Wafers<rr> are batches of integrated circuits engraved onto a wafer of electronics-grade silicon.<nl><nl>You need to run these through the <33>Cutting Machine<rr> to dice the wafers into individual integrated circuits (called dies).<nl><nl>These are important components and will be used for making more advanced Circuits.
 
 # db 86
-nomifactory.quest.db.86.title=The Second Tier One Circuits
+nomifactory.quest.db.86.title=2つ目のTier 1の回路
 nomifactory.quest.db.86.desc=Much easier to mass produce than <66>Primitive Circuits<rr>, and they fulfill the same function in nearly all cases.<nl><nl>You should be batch crafting these.
 
 # db 87
-nomifactory.quest.db.87.title=The Second Tier Two Circuits
+nomifactory.quest.db.87.title=2つ目のTier 2の回路
 nomifactory.quest.db.87.desc=Three <66>Electronic Circuits<rr> and various other components will create an <66>Electronic Processor<rr>.
 
 # db 88
@@ -383,7 +383,7 @@ nomifactory.quest.db.88.title=Lenses
 nomifactory.quest.db.88.desc=You'll need a variety of <aa>lenses<rr> for use in <33>Precision Laser Engravers<rr>, all of which are made in the <33>Autoclave<rr>.<nl><nl>Initially you'll need a <aa>Red Lens<rr>, a <aa>Diamond Lens<rr>, and a <aa>Glass Lens<rr>.<nl><nl>Red Lenses can be made from <66>Ruby<rr>, or alternately with Almandine, Red Garnet, Jasper or Rutile.<nl><nl>The other two lenses should be self-evident.<nl><nl>
 
 # db 89
-nomifactory.quest.db.89.title=The First Tier Three Circuits
+nomifactory.quest.db.89.title=1つ目のTier 3の回路
 nomifactory.quest.db.89.desc=Your first tier three circuit, formed from four <66>Electronic Processors<rr> and <66>Transistors<rr>, among other ingredients.<nl><nl>As you'll realize is the pattern, it is expensive and unwieldy to make the first forms of each tier of circuits. Fortunately, you don't have to make many of them.<nl><nl>Prioritize using these circuits to make things needed for unlocking the next theme of circuits, which require more infrastructure but are much cheaper to produce. Eventually each tier through six will have a circuit recipe instead of requiring processors, arrays, or mainframes.<nl><nl>
 
 # db 90
@@ -547,11 +547,11 @@ nomifactory.quest.db.131.title=Polyvinyl Chloride
 nomifactory.quest.db.131.desc=<99>Vinyl Chloride<rr> is an industrial chemical made from chlorinating <99>Ethylene<rr> (adding <99>Chlorine<rr> at high temperature) in a <33>Chemical Reactor<rr>.<nl><nl>It is used to create the plastic <99>Polyvinyl Chloride<rr>, most well known as PVC. While it deviates from reality, in GregTech you chemically react Vinyl Chloride and <99>Oxygen<rr> to polymerize it into PVC.<nl><nl>Later, you can use <99>Titanium Tetrachloride<rr> to catalyze this reaction as well for greater yield.<nl><nl><66>PVC Sheets<rr> are superior to <66>Polyethylene Sheets<rr> for making plastic substrates, producing twice as many <66>Plastic Boards<rr> per craft.<nl><nl>
 
 # db 132
-nomifactory.quest.db.132.title=The First Tier Four Circuits
+nomifactory.quest.db.132.title=1つ目のTier 4の回路
 nomifactory.quest.db.132.desc=This is the first Tier Four circuit, which is used for EV-tier machinery.<nl><nl>This is the first kind of mainframe you'll have made, and as you can see it's extraordinarily expensive. Fortunately, you don't have to make too many of these.<nl><nl>Invest in the <33>HV Assembling Machine<rr> to unlock the next theme of circuits, which use Epoxy substrates and span tiers two through five.
 
 # db 133
-nomifactory.quest.db.133.title=The Third And Final Tier One Circuits
+nomifactory.quest.db.133.title=3つ目、そして最後のTier 1の回路
 nomifactory.quest.db.133.desc=With all the SMD components ready, you can start to churn out <66>Refined Circuits<rr>. These are the best kind of Tier One circuits you can make, and you won't unlock the better recipes for quite a while.<nl><nl>You should absolutely automate the production of these circuits, and <ee>keep a stockpile automatically crafted<rr> so you don't have to wait around for them or bloat your crafting orders making them on-demand through AE.
 
 # db 134
@@ -559,7 +559,7 @@ nomifactory.quest.db.134.title=Plastic Substrate
 nomifactory.quest.db.134.desc=Better substrates. Using <66>Polyvinyl Chloride<rr> (PVC) instead of <66>Polyethylene<rr> (PE) doubles your yield.<nl><nl>The third material option is much more difficult to make and probably not worth considering for now.
 
 # db 135
-nomifactory.quest.db.135.title=The Third Tier Two Circuits
+nomifactory.quest.db.135.title=3つ目のTier 2の回路
 nomifactory.quest.db.135.desc=Using SMD components (or leftover non-SMD versions), you can combine <66>Refined Circuits<rr> into the third type of Tier Two circuit: the <66>Refined Processor<rr>.
 
 # db 136
