@@ -2229,7 +2229,7 @@ nomifactory.quest.db.682.desc=<bb>Deep Mob Learning<rr> (<bb>DML<rr>) の <33>Si
 
 # db 683
 nomifactory.quest.db.683.title=オーバーワールディアンマター
-nomifactory.quest.db.683.desc=<33>Simulation Chamber<br>にRF powerと<66>Pulsating Polymer Clay<br>を搬入します。次に、好きな<66>Data Model<rr>を挿入します。Simulation ChamberはPolymer Clayとそれなりの電力を消費することで、Mobの殺害をシミュレートし始めます。これにより<66>Overworldian Matter<rr>が生成され、さらに時折<66>Pristine Matter<rr>も生成されることがあります。<nl><nl><66>Overworldian Matter<rr>は、食べて経験値を得たり、他の素材と組み合わせてOverworldのMobのドロップを入手することができます。このドロップを使えば、他のMobタイプのData Modelも作ることができます。
+nomifactory.quest.db.683.desc=<33>Simulation Chamber<rr>にRF powerと<66>Pulsating Polymer Clay<rr>を搬入します。次に、好きな<66>Data Model<rr>を挿入します。Simulation ChamberはPolymer Clayとそれなりの電力を消費することで、Mobの殺害をシミュレートし始めます。これにより<66>Overworldian Matter<rr>が生成され、さらに時折<66>Pristine Matter<rr>も生成されることがあります。<nl><nl><66>Overworldian Matter<rr>は、食べて経験値を得たり、他の素材と組み合わせてOverworldのMobのドロップを入手することができます。このドロップを使えば、他のMobタイプのData Modelも作ることができます。
 
 # db 684
 nomifactory.quest.db.684.title=Pulsating Mesh
