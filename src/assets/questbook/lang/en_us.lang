@@ -1095,8 +1095,8 @@ nomifactory.quest.db.276.title=Phosphoric Acid
 nomifactory.quest.db.276.desc=<99>Phosphoric Acid<rr> is a key component of <66>Luminessence<rr>, which will be used extensively for such things as <66>Nether Stars<rr>, <66>Lumium Blend<rr>, and <bb>Extended Crafting<rr> components.<nl><nl>It can be made using several equally viable recipes:<nl><nl><66>Phosphorus<rr>, <99>Oxygen<rr>, and <99>Water<rr> can be chemically reacted to produce <99>Phosphoric Acid<rr>.<nl><nl>Alternatively, you can combine <66>Phosphorus Pentoxide<rr> and Water for a much faster reaction.<nl><nl>Otherwise, you can react <66>Apatite Dust<rr>, <99>Sulfuric Acid<rr>, and Water to get Phosphoric Acid, <99>Hydrochloric Acid<rr>, and a whole bunch of <66>Gypsum Dust<rr>.
 
 # db 278
-nomifactory.quest.db.278.title=Simulated Mobs
-nomifactory.quest.db.278.desc=You can combine various items with a <66>Blank Data Model<rr> for a completed <66>Data Model<rr> that you can run inside the <33>Simulation Chamber<rr>.
+nomifactory.quest.db.278.title=シミュレーションされたMob
+nomifactory.quest.db.278.desc=様々なアイテムを<66>Blank Data Model<rr>と組み合わせて<66>Data Model<rr>を作ることで、<33>Simulation Chamber<rr>の中でシミュレーションを実行することができます。
 
 # db 279
 nomifactory.quest.db.279.title=Breaking Some Eggs
@@ -2224,32 +2224,32 @@ nomifactory.quest.db.681.title=Implosion Compressor
 nomifactory.quest.db.681.desc=The <aa>Implosion Compressor<ff> is like an autoclave that uses explosions instead of water. It is the only way to turn most gem dusts into gemstones.<nl><nl>It will also be vital for processing <55>Motes of Omnium<ff>.<nl><nl>In addition to the controller and casings, you will need one <ee>LV or better<rr> <66>Item Input Bus<rr>, <66>Item Output Bus<rr>, and <66>Energy Input Hatch<rr>.
 
 # db 682
-nomifactory.quest.db.682.title=Simulating Mobs
-nomifactory.quest.db.682.desc=A <33>Simulation Chamber<rr> from <bb>Deep Mob Learning<rr> (<bb>DML<rr>, for short) allows you to farm mobs in a totally environmentally (and server) friendly way!<nl><nl>Simulated mobs can even be used to provide you with many of the basic resources you'll need (such as <66>iron, gold, tin, copper, diamonds<rr> and many more!), although it requires a fairly substantial amount of power and time invested before you start seeing solid returns.<nl><nl>Setting up DML automation during the early game is <aa>very important<rr> as it gives you access to infinite quantities of many resources!<nl><nl>An important thing to know is that Deep Mob Learning machines are <aa>sided<rr>, thus they only accept <66>Pulsating Polymer Clay<rr> through <aa>the top side<rr> and output products through <aa>all other sides<rr>. It's worth noting that you can also extract models through the top side.<nl><nl>Consider reading the <bb>Deep Mob Learning<rr> book for more info.<nl><nl>Yes, you can also use it for generating power... <oo>with Diamonds.
+nomifactory.quest.db.682.title=Mobのシミュレーション
+nomifactory.quest.db.682.desc=<bb>Deep Mob Learning<rr> (略して<bb>DML<rr>) の <33>Simulation Chamber<rr> を使えば、環境にもサーバーにも優しい方法でMobファームを作ることができます！<nl><nl>Iron、Gold、Tin、Copper、Diamondなど、必要な基本資源の多くをシミュレートされたMobから入手することも可能ですが、確実な利益を得るには相当なパワーと時間が必要です。<nl><nl>ゲーム序盤のDML関連の自動化は、<aa>非常に重要<rr>です。多くの資源を無限に入手できるようになります！<nl><nl>ここで重要なのは、DMLの機械は<aa>向きが決まっており<rr>、<aa>上面<rr>からのみ<66>Pulsating Polymer Clay<rr>を受け入れ、<aa>他のすべての側面<rr>から製品を出力する、ということです。特筆すべきは、上面からModelを取り出すこともできる点です。<nl><nl>詳しくは<bb>Deep Mob Learning<rr> の本を読んでみてください。<nl><nl>そう、<oo>Diamond<rr>ですら発電に使えるようになるんです…
 
 # db 683
-nomifactory.quest.db.683.title=Overworldian Matter
-nomifactory.quest.db.683.desc=Provide your <33>Simulation Chamber<rr> with RF power and <66>Pulsating Polymer Clay<rr>. Then insert a <66>Data Model<rr> of your choice. The Simulation Chamber will consume Polymer Clay and a decent amount of power to begin simulating mob kills. This will generate <66>Overworldian Matter<rr> and may occasionally provide you with <66>Pristine Matter<rr>.<nl><nl><66>Overworldian Matter<rr> can be eaten to gain experience, or can be combined with other materials to obtain drops from Overworld mobs. With these drops, you can then create Data Models for other mob types as well.
+nomifactory.quest.db.683.title=オーバーワールディアンマター
+nomifactory.quest.db.683.desc=<33>Simulation Chamber<rr>にRF powerと<66>Pulsating Polymer Clay<rr>を搬入します。次に、好きな<66>Data Model<rr>を挿入します。Simulation ChamberはPolymer Clayとそれなりの電力を消費することで、Mob討伐のシミュレートが始まります。これにより<66>Overworldian Matter<rr>が生成され、さらに時折<66>Pristine Matter<rr>も生成されることがあります。<nl><nl><66>Overworldian Matter<rr>は、食べて経験値を得たり、他の素材と組み合わせてOverworldのMobのドロップを入手することができます。このドロップを使えば、他のMobタイプのData Modelも作ることができます。
 
 # db 684
 nomifactory.quest.db.684.title=Pulsating Mesh
 nomifactory.quest.db.684.desc=<66><66>String<rr> and <66>Coal Dust<rr> can be baked together into a <66>Carbon Mesh<rr> in an <33>Alloy Furnace<rr>.<nl><nl>Combine that with <66>Pulsating Dust<rr> to get a <66>Pulsating Mesh<rr>.<nl><nl>
 
 # db 685
-nomifactory.quest.db.685.title=Loot Fabricator
-nomifactory.quest.db.685.desc=Simulating mob kills will occasionally result in <66>Pristine Matter<rr> of that mob's type.<nl><nl>Putting Pristine matter into a <33>Loot Fabricator<rr> will allow you to obtain one of various items related to that mob.<nl><nl>Much like <33>Simulation Chambers<rr>, Loot Fabricators are <aa>sided<rr>, accepting input from <aa>the top side<rr> and allowing extraction from <aa>all sides except the top<rr>.
+nomifactory.quest.db.685.title=戦利品ファブリケーター
+nomifactory.quest.db.685.desc=Mob討伐をシミュレートすると、そのMobのタイプの<66>Pristine Matter<rr>が生成されることがあります。<nl><nl><33>Loot Fabricator<rr>にPristine matterを入れると、そのMobに関連した様々なアイテムのうち1つを入手することができます。<nl><nl>Loot Fabricatorは<33>Simulation Chambers<rr>と同じく<aa>向きが決まっており<rr>、<aa>上面<rr>から入力を受け、<aa>上面以外のすべての面<rr>から取り出せるようになっています。
 
 # db 686
-nomifactory.quest.db.686.title=Overworldian Mobs
-nomifactory.quest.db.686.desc=There's no rush to get these all done and leveled up, but they do provide a good source of some of the basic resources in exchange for RF.<nl><nl>Look at what the <66>Pristine Matter<rr> for each mob provides, and set up simulators for all the ones you're interested in. If your power can handle it, it can even be advantageous to run several of the same model.
+nomifactory.quest.db.686.title=オーバーワールド系Mob
+nomifactory.quest.db.686.desc=これらを全て終わらせてレベルアップすることを急ぐ必要はありませんが、RFと引き換えに基本的な資源のいくつかを入手することができます。<nl><nl>各Mobの<66>Pristine Matter<rr>が何を提供するかを見て、興味のあるものすべてについてシミュレータをセットアップしてください。電力に余裕があれば、同じモデルを複数台動かすと有利になることもあります。
 
 # db 687
 nomifactory.quest.db.687.title=無限の水
 nomifactory.quest.db.687.desc=<33>Steam Dynamo<ff>に手動で水を供給するのはかなり馬鹿げています。<nl><nl><66>Infinite Water Source<ff>がゆっくりとではありますが、それを行ってくれるのです。
 
 # db 688
-nomifactory.quest.db.688.title=Hellish Matter
-nomifactory.quest.db.688.desc=<66>Overworldian Matter<rr> and <66>Netherrack<rr> can be crafted into <66>Hellish Matter<rr>.<nl><nl>Netherrack can be obtained by combining a <66>Dust Block<rr> and <cc>Lava<rr> in a <33>Chemical Reactor<rr>.
+nomifactory.quest.db.688.title=ヘリッシュマター
+nomifactory.quest.db.688.desc=<66>Hellish Matter<rr>は<66>Overworldian Matter<rr>と<66>Netherrack<rr>があればクラフトすることができます。<nl><nl>Netherrackは<66>Dust Block<rr>と<cc>Lava<rr>を<33>Chemical Reactor<rr>で合成することで入手できます。
 
 # db 689
 nomifactory.quest.db.689.title=Hellish Mobs
