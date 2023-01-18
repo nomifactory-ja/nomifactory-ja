@@ -1107,8 +1107,8 @@ nomifactory.quest.db.280.title=Mote of Omnium
 nomifactory.quest.db.280.desc=Man, that's a LOT of quests linked to this one.<nl><nl><dd>Omnium<rr>, as the name suggests, is an incredible material composed of all elements and alloys you've encountered so far.<nl><nl>Fun fact: you'll need to make 487 motes. You've got all this automated, right?
 
 # db 282
-nomifactory.quest.db.282.title=Energy Acceptor
-nomifactory.quest.db.282.desc=Fluix is initially made via in-world crafting, by dropping <66>Redstone Dust<rr>, <66>Nether Quartz<rr>, and a <66>Charged Certus Quartz Crystal<rr> in the same block of <99>Water<rr>. You'll see some sparks then the items will merge into a <66>Fluix Crystal<rr>. Be sure to turn off any nearby item magnets/collectors or they might interrupt this crafting process.<nl><nl>The <33>Energy Acceptor<rr> converts RF power into AE power that Applied Energistics uses, in a 2 RF to 1 AE ratio. This power will be transmitted through adjacent full-block ME Network devices, as well as along all connected <66>ME Cables<rr>, <66>ME Conduits<rr>, and <66>Quartz Fiber<rr>. <nl><nl>Quartz Fiber are <ee>microparts<rr> you can put between an ME Cable and any ME Network block or another ME Cable. This will allow transmission of AE power but not data, which is useful for having data-isolated ME Networks all sharing the same power source.
+nomifactory.quest.db.282.title=エナジーアクセプター
+nomifactory.quest.db.282.desc=初期状態では、<66>Redstone Dust<rr>、<66>Nether Quartz<rr>、<66>Charged Certus Quartz Crystal<rr>を同じ<99>Water<rr>のブロックに落とし、インワールドのクラフトで作ることができます。火花が散った後、アイテムが合体して<66>Fluix Crystal<rr>になります。このとき、近くにアイテムマグネットやアイテムコレクターがあると、クラフトの邪魔になるので、必ず電源を切ってください。<nl><nl><33>Energy Acceptor<rr>は、RF powerをApplied Energisticsが使用するAE powerに変換する装置で、RF2:AE1の割合で使用します。このpowerは、隣接するフルブロックのME Network deviceや、接続されているすべての<66>ME Cable<rr>、<66>ME COnduit<rr>、<66>Quartz Fiber<rr>を通じて伝送されます。 <nl><nl>Quartz Fiberは、ME CableとME Network Blockや他のME Cableの間に入れることができる<ee>マイクロパーツ<rr>です。この場合、AE powerの伝送は可能ですが、データの伝送はできません。これは、データ分離されたME Networkがすべて同じpowerを共有する場合に有効です。
 
 # db 283
 nomifactory.quest.db.283.title=LuV Assembling Machine
