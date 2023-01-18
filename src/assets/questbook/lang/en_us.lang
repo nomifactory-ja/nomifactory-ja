@@ -2237,7 +2237,7 @@ nomifactory.quest.db.684.desc=<66><66>String<rr> and <66>Coal Dust<rr> can be ba
 
 # db 685
 nomifactory.quest.db.685.title=戦利品ファブリケーター
-nomifactory.quest.db.685.desc=Mobの殺害をシミュレートすると、そのMobのタイプの<66>Pristine Matter<rr>が生成されることがあります。<nl><nl><33>Loot Fabricator<rr>にPristine matterを入れると、そのMobに関連した様々なアイテムのうち1つを入手することができます。<nl><nl>Loot Fabricatorは<33>Simulation Chambers<rr>と同じく<aa>向きが決まっており<rr>、<aa>上面<rr>から入力を受け、<aa>上面以外のすべての面<rr>から取り出せるようになっています。
+nomifactory.quest.db.685.desc=Mob討伐をシミュレートすると、そのMobのタイプの<66>Pristine Matter<rr>が生成されることがあります。<nl><nl><33>Loot Fabricator<rr>にPristine matterを入れると、そのMobに関連した様々なアイテムのうち1つを入手することができます。<nl><nl>Loot Fabricatorは<33>Simulation Chambers<rr>と同じく<aa>向きが決まっており<rr>、<aa>上面<rr>から入力を受け、<aa>上面以外のすべての面<rr>から取り出せるようになっています。
 
 # db 686
 nomifactory.quest.db.686.title=オーバーワールド系Mob
