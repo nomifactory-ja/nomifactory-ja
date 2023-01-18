@@ -595,8 +595,8 @@ nomifactory.quest.db.146.title=LVポンプ
 nomifactory.quest.db.146.desc=流体を使用する機械には必ずと言っていいほど使用される部品です。また、<bb>GregTech<rr>マシンと隣接するタンクやマシンとの間で液体を移動させるためのカバーとしても使用可能です。<nl><nl>クラフトのための素材として<66>Paper Ring<rr>と<66>Rubber Ring<rr>が使用できますが、どちらのクラフトにも<aa>Knife<rr>が必要となります。StickとFlintで耐久性の低いKnifeが作れます。金属製のKnifeはレシピを確認してください。
 
 # db 147
-nomifactory.quest.db.147.title=Polarizer
-nomifactory.quest.db.147.desc=Note: this quest accepts both LV and MV Polarizer.<nl><nl>Although you could <ee>magnetize<rr> <66>Iron Ingots<rr> by hand using <66>Redstone<rr>, doing that consumes considerable amounts of dust and that's not an option for more advanced materials. This machine will let you magnetize <66>Steel Rods<rr>, as well as even more advanced materials later.<nl><nl>There are no recipes for the <33>Polarizer<rr> that require more than 32 volts, which means you can get away with using an LV Polarizer for the entire pack. However, higher voltages will work faster, in exchange for consuming more power.<nl><nl>
+nomifactory.quest.db.147.title=ポラライザー
+nomifactory.quest.db.147.desc=注：このクエストでは、LVおよびMV Polarizerの両方を受け入れます。<nl><nl>Iron Ingotは、<66>Redstone Dustを使って手作業で磁化することもできますが、大量のRedstone Dustを消費することになるため、より高度な素材には使えません。この機械は、<66>Steel Rod<rr>を磁化することができますし、後にさらに高度な素材も磁化することができます。<nl><nl><33>Polarizer<rr>には32V以上を必要とするレシピがないため、modpack全体を通してLV Polarizerを使用することで対応可能です。しかし、電圧が高ければ高いほど(より多くの電力を消費する代わりに)より速く動作します。<nl><nl>
 
 # db 148
 nomifactory.quest.db.148.title=Titanium
