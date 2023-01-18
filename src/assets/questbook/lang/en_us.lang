@@ -344,7 +344,7 @@ nomifactory.quest.db.77.desc=<66>Exquisite Gems<rr> are mostly needed for crafti
 
 # db 78
 nomifactory.quest.db.78.title=ガリウム
-nomifactory.quest.db.78.desc=Cauldronに<66>Impure Piles of Sphalerite<rr>を投げ入れると、<66>Sphalerite<rr>を入手することができます。このSphaleriteは電気分解すると<66>Gallium<rr>の良い材料となります。これによって得られる<66>Zinc<rr>と<66>Sulfur<rr>もかなり有用です。Sphalerite Ore<rr>は<66>Zinc<rr>鉱脈に一生に生成されます。<nl><nl>Cauldronの代わりに<33>Centrifuge<rr>を使用すると、速度が遅く、電力も必要ですが、impure dustをSphaleriteに分離しながら、より多くのGalliumを得ることができます。<nl><nl>クエストがなかなかクリアできないときは、<66>tiny pile<rr>ではなく<66>small pile<rr>を持っているかもしれません。その場合、4つのsmall pileを普通のdustにまとめ、それをtiny pileに分割すると良いでしょう。<33>Crafting Station<rr>は、pileの種類を素早く変換するのに役立ちます。
+nomifactory.quest.db.78.desc=Cauldronに<66>Impure Piles of Sphalerite<rr>を投げ入れると、<66>Sphalerite<rr>を入手することができます。このSphaleriteは電気分解すると<66>Gallium<rr>の良い材料となります。これによって得られる<66>Zinc<rr>と<66>Sulfur<rr>もかなり有用です。Sphalerite Ore<rr>は<66>Zinc<rr>鉱脈中に一緒に生成されます。<nl><nl>Cauldronの代わりに<33>Centrifuge<rr>を使用すると、速度が遅く、電力も必要ですが、impure dustをSphaleriteに分離しながら、より多くのGalliumを得ることができます。<nl><nl>クエストがなかなかクリアできないときは、<66>tiny pile<rr>ではなく<66>small pile<rr>を持っているかもしれません。その場合、4つのsmall pileを普通のdustにまとめ、それをtiny pileに分割すると良いでしょう。<33>Crafting Station<rr>は、pileの種類を素早く変換するのに役立ちます。
 
 # db 79
 nomifactory.quest.db.79.title=MV Cutting Machine
