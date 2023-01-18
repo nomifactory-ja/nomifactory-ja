@@ -2225,7 +2225,7 @@ nomifactory.quest.db.681.desc=The <aa>Implosion Compressor<ff> is like an autocl
 
 # db 682
 nomifactory.quest.db.682.title=Mobのシミュレーション
-nomifactory.quest.db.682.desc=<bb>Deep Mob Learning<rr> (<bb>DML<rr>) の <33>Simulation Chamber<rr> を使えば、環境にもサーバーにも優しい方法でMobを養殖することができます！<bb>Deep Mob Learning<rr> は、<bb>Simulation Chamber<rr> を使ってMobをファームを作ることが出来ます。<nl><nl>Iron、Gold、Tin、Copper、Diamondなど、必要な基本資源の多くをシミュレートされたMobから入手することも可能ですが、確実な利益を得るには相当なパワーと時間が必要です。<nl><nl>ゲーム序盤のDML関連の自動化は、<aa>非常に重要<rr>です。多くの資源を無限に入手できるようになります！<nl><nl>ここで重要なのは、DMLの機械Furnaceのように<aa>向きが決まっており<rr>、<aa>上面<rr>からのみ<66>Pulsating Polymer Clay<rr>を受け入れ、<aa>他のすべての側面<rr>から製品を出力する、ということです。特筆すべきは、上面からモデルを取り出すこともできる点です。<nl><nl>詳しくは<bb>Deep Mob Learning<rr> の本を読むことを検討してください。<nl><nl>そう、<oo>Diamond<rr>ですら発電に使えるようになるんです...。
+nomifactory.quest.db.682.desc=<bb>Deep Mob Learning<rr> (略して<bb>DML<rr>) の <33>Simulation Chamber<rr> を使えば、環境にもサーバーにも優しい方法でMobファームを作ることができます！<nl><nl>Iron、Gold、Tin、Copper、Diamondなど、必要な基本資源の多くをシミュレートされたMobから入手することも可能ですが、確実な利益を得るには相当なパワーと時間が必要です。<nl><nl>ゲーム序盤のDML関連の自動化は、<aa>非常に重要<rr>です。多くの資源を無限に入手できるようになります！<nl><nl>ここで重要なのは、DMLの機械Furnaceのように<aa>向きが決まっており<rr>、<aa>上面<rr>からのみ<66>Pulsating Polymer Clay<rr>を受け入れ、<aa>他のすべての側面<rr>から製品を出力する、ということです。特筆すべきは、上面からModelを取り出すこともできる点です。<nl><nl>詳しくは<bb>Deep Mob Learning<rr> の本を読んでみてください。<nl><nl>そう、<oo>Diamond<rr>ですら発電に使えるようになるんです…
 
 # db 683
 nomifactory.quest.db.683.title=オーバーワールディアンマター
