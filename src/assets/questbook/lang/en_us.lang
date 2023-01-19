@@ -1660,7 +1660,7 @@ nomifactory.quest.db.516.desc=<66>Conveyor<rr>はあまり一般的なパーツ�
 
 # db 517
 nomifactory.quest.db.517.title=LV ロボットアーム
-nomifactory.quest.db.517.desc=<66>Robot Arm<br>は複数の強力なマシンを構成する素材であり、アイテムを正確に移動させるマシンカバーとしても有効です。<nl><nl>Motor、Piston、Circuitが必要な、最も高価な素材の一つです。
+nomifactory.quest.db.517.desc=<66>Robot Arm<rr>は複数の強力なマシンを構成する素材であり、アイテムを正確に移動させるマシンカバーとしても有効です。<nl><nl>Motor、Piston、Circuitが必要な、最も高価な素材の一つです。
 
 # db 519
 nomifactory.quest.db.519.title=Naquadah Reactor Mk1
