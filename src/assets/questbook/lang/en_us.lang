@@ -320,7 +320,7 @@ nomifactory.quest.db.71.desc=An <33>MV Electrolyzer<rr> allows you to process re
 
 # db 72
 nomifactory.quest.db.72.title=LV アセンブリングマシン
-nomifactory.quest.db.72.desc=<33>Assembling Machine<br>は工場の要であり、<66>Circuit<br>を通過するためのゲートとなるものです。<nl><nl>Assembling Machineを新しいボルテージにアップグレードするたびに、より高度なテーマのCircuitを作ることができるようになります。これらは、より複雑な材料を使用し、新たなインフラを整備する必要がありますが、前テーマの同Tierの回路よりも全体的に効率的に作成することができます。<nl><nl>Circuitの進行度の流れはquest bookの<dd>Progressionタブ<rr>をご確認ください。<nl><nl>また、Assembling Machineを使うことで、工具を必要としない同等以上の効率的なレシピが数多く生まれます。また、ハンドツールのレシピは<bb>Applied Energistics<rr>と相性が良くありません。<nl><nl>Assembling Machineを活用しましょう: <cc>今後、オートメーションでは、手工具を使ったクラフトは一切行わないようにします。<rr>重要な機械がすべて揃えば、クラフトに手道具が必要になることはないでしょう。
+nomifactory.quest.db.72.desc=<33>Assembling Machine<rr>は工場の要であり、<66>Circuit<rr>を通過するためのゲートとなるものです。<nl><nl>Assembling Machineを新しいボルテージにアップグレードするたびに、より高度な<ee>テーマ<rr>のCircuitを作ることができるようになります。これらは、より複雑な材料を使用し、新たなインフラを整備する必要がありますが、前テーマの同Tierの回路よりも全体的に効率的に作成することができます。<nl><nl>Circuitの進行度の流れはquest bookの<dd>Progressionタブ<rr>をご確認ください。<nl><nl>また、Assembling Machineを使うことで、<ee>工具を必要としない同等以上の効率的なレシピ<rr>が数多く生まれます。また、ハンドツールのレシピは<bb>Applied Energistics<rr>と相性が良くありません。<nl><nl>Assembling Machineを活用しましょう: <cc>今後、オートメーションでは、手工具を使ったクラフトは一切行わないようにします。<rr>重要な機械がすべて揃えば、クラフトに手道具が必要になることはないでしょう。
 
 # db 73
 nomifactory.quest.db.73.title=ME Conduit
