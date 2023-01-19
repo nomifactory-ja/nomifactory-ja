@@ -50,7 +50,7 @@ danger.git.modified_files.forEach((file) => {
 				if (change.type === "add") {
 					if (change.content.includes(".desc=")) {
 						message(render(change.content), file, change.ln);
-						const maybeFormats = [change.content.matchAll(/<([^ ]+?)>/g)];
+						const maybeFormats = [...change.content.matchAll(/<([^ ]+?)>/g)];
 						maybeFormats.forEach((section) => {
 							const formatType = section[1];
 							// https://minecraft.fandom.com/ja/wiki/%E8%A3%85%E9%A3%BE%E3%82%B3%E3%83%BC%E3%83%89
