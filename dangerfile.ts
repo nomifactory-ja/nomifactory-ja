@@ -55,7 +55,7 @@ danger.git.modified_files.forEach((file) => {
 							const formatType = section[1];
 							// https://minecraft.fandom.com/ja/wiki/%E8%A3%85%E9%A3%BE%E3%82%B3%E3%83%BC%E3%83%89
 							if (!validFormatTypes.includes(formatType))
-								fail(`不正なタイプのフォーマットが使われています: <${formatType}>`, file, change.ln);
+								fail(`不正なタイプのフォーマットが使われています: \`<${formatType}>\``, file, change.ln);
 						});
 					}
 				}
