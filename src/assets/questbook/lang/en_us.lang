@@ -35,12 +35,12 @@ nomifactory.quest.line.8.title=Fun With Fusion
 nomifactory.quest.line.8.desc=Create new elements and power your base with doughnuts!
 
 # line 9
-nomifactory.quest.line.9.title=Simulating Resources
-nomifactory.quest.line.9.desc=Generate resources with <bb>Deep Mob Learning<rr>!<nl><nl>Close the production loop in MV for 100%% renewable resources!
+nomifactory.quest.line.9.title=リソースのシミュレーション
+nomifactory.quest.line.9.desc=<bb>Deep Mob Learning<rr>でリソースを生成しよう！<nl><nl>MVで生産のループを閉じ、100％再生可能な資源に！
 
 # line 10
-nomifactory.quest.line.10.title=Matter-Energy
-nomifactory.quest.line.10.desc=Convert between matter and energy with <bb>Applied Energistics<rr><rr>.<nl><nl>Automate ALL the things! o/
+nomifactory.quest.line.10.title=物質-エネルギー
+nomifactory.quest.line.10.desc=<bb>Applied Energistics<rr>で物質とエネルギーを変換します。<nl><nl>ぜんぶ自動化しよう！ o/
 
 # db 0
 nomifactory.quest.db.0.title=チャージングクォーツ
