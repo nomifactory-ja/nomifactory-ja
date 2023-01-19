@@ -319,8 +319,8 @@ nomifactory.quest.db.71.title=MV Electrolyzer
 nomifactory.quest.db.71.desc=An <33>MV Electrolyzer<rr> allows you to process recipes that require up to 128 EU/t, and can optionally overclock recipes costing at most 32 EU/t.<nl><nl>This means you can split more kinds of things for useful products.<nl>
 
 # db 72
-nomifactory.quest.db.72.title=LV Assembling Machine
-nomifactory.quest.db.72.desc=<33>Assembling Machines<rr> are the linchpin of your factory, gating progression through the <66>Circuits<rr>. <nl><nl>Each time you upgrade to a new voltage of Assembling Machine, you will be able to craft more advanced <ee>themes<rr> of circuits. These use more complex ingredients and require new infrastructure to be in place, but are more efficient to craft overall than the same tier of circuit from the prior theme.<nl><nl>Check out the <dd>Progression quest book tab<rr> to see the flow of circuit progression.<nl><nl>Assembling Machines also open up a plethora of <ee>equal or more efficient recipes that don't require hand tools<rr>. Hand tool recipes also don't play nice with <bb>Applied Energistics<rr>.<nl><nl>Take advantage of Assembling Machines: <cc>phase out all use of hand tools for crafting items in your automation going forward.<rr> Once you have all the important machines, you will never need hand tools for crafting.
+nomifactory.quest.db.72.title=LV アセンブリングマシン
+nomifactory.quest.db.72.desc=<33>Assembling Machine<rr>は工場の要であり、<66>Circuit<rr>を通過するためのゲートとなるものです。<nl><nl>Assembling Machineを新しいボルテージにアップグレードするたびに、より高度な<ee>テーマ<rr>のCircuitを作ることができるようになります。これらは、より複雑な材料を使用し、新たなインフラを整備する必要がありますが、前テーマの同Tierの回路よりも全体的に効率的に作成することができます。<nl><nl>Circuitの進行度の流れはquest bookの<dd>Progressionタブ<rr>をご確認ください。<nl><nl>また、Assembling Machineを使うことで、<ee>工具を必要としない同等以上の効率的なレシピ<rr>が数多く生まれます。また、ハンドツールのレシピは<bb>Applied Energistics<rr>と相性が良くありません。<nl><nl>Assembling Machineを活用しましょう: <cc>今後、オートメーションでは、手工具を使ったクラフトは一切行わないようにします。<rr>重要な機械がすべて揃えば、クラフトに手道具が必要になることはないでしょう。
 
 # db 73
 nomifactory.quest.db.73.title=ME Conduit
@@ -359,8 +359,8 @@ nomifactory.quest.db.81.title=Silicon Wafers
 nomifactory.quest.db.81.desc=<66>Wafers<rr> are thin pieces of silicon cut from a <66>Silicon Boule<rr>.<nl><nl>Their primary purpose is engraving <66>Circuit Wafers<rr>.<nl><nl>You'll be needing huge amounts of these Wafers for circuits. Silicon Boules currently take a very long time to craft, so consider parallelizing the recipe in multiple <33>EBF<rr>s and making a stockpile of them.
 
 # db 82
-nomifactory.quest.db.82.title=Phenol Coated Substrate
-nomifactory.quest.db.82.desc=<99>Phenol<rr> is produced as a byproduct from making <66>Coal Coke<rr> in a <33>Pyrolyse Oven<rr>.<nl><nl>These boards will enable a much cheaper method of circuit production.
+nomifactory.quest.db.82.title=フェノールコート基板
+nomifactory.quest.db.82.desc=<99>Phenol<rr>は<33>Pyrolyse Oven<rr>で<66>Coal Coke<rr>を作る際に副産物として発生します。<nl><nl>この基板があれば、より安価な回路作成が可能になります。
 
 # db 83
 nomifactory.quest.db.83.title=MV Precision Laser Engraver
@@ -1655,12 +1655,12 @@ nomifactory.quest.db.513.title=Red Steel Ingots
 nomifactory.quest.db.513.desc= 
 
 # db 516
-nomifactory.quest.db.516.title=LV Conveyor
-nomifactory.quest.db.516.desc=Not as common a component, but used in a number of critical machines.<nl><nl>Also useful as a machine cover for continuously moving items.
+nomifactory.quest.db.516.title=LV コンベア
+nomifactory.quest.db.516.desc=<66>Conveyor<rr>はあまり一般的なパーツでありませんが、多くの重要なマシンで使用されています。<nl><nl>また、連続的に動くアイテムのマシンカバーとしても有用です。
 
 # db 517
-nomifactory.quest.db.516.title=LV コンベア
-nomifactory.quest.db.516.desc=<66>Robot Arms<rr>はあまり一般的なパーツでありませんが、多くの重要なマシンで使用されています。<nl><nl>また、連続的に動くアイテムのマシンカバーとしても有用です。
+nomifactory.quest.db.517.title=LV ロボットアーム
+nomifactory.quest.db.517.desc=<66>Robot Arm<rr>は複数の強力なマシンを構成する素材であり、アイテムを正確に移動させるマシンカバーとしても有効です。<nl><nl>Motor、Piston、Circuitが必要な、最も高価な素材の一つです。
 
 # db 519
 nomifactory.quest.db.519.title=Naquadah Reactor Mk1
