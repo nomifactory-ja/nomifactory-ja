@@ -2349,8 +2349,8 @@ nomifactory.quest.db.751.title=Infinitest Water
 nomifactory.quest.db.751.desc=<33>Aqueous Accumulators<rr> in <55>Nomifactory<rr> are infinite water sources; they <ll><nn>do not<rr> require any water blocks nearby.<nl><nl>This machine can produce <99>Water<rr> as fast as you can extract it (the only downside being that it makes some annoying noises).<nl><nl>Friendship with <aa>Endervoirs<rr> ended.
 
 # db 752
-nomifactory.quest.db.752.title=Boilers and Turbines
-nomifactory.quest.db.752.desc=Using plain <33>Steam Dynamos<ff> is pretty inefficient.<nl><nl>It's strongly recommended to make <aa>augments<rr>. With these, you can turn one Steam Dynamo into a <33>steam boiler<ff>, and two other Steam Dynamos into <33>steam turbines<ff>. The ratio is always <aa>1:2<rr> if all Dynamos are equally upgraded.<nl><nl>This greatly increases the overall efficiency and the amount of power produced, from <aa>40 RF/t<rr> per basic steam dynamo to <aa>320 RF/t<rr> per set of three augmented dynamos.
+nomifactory.quest.db.752.title=ボイラーとタービン
+nomifactory.quest.db.752.desc=素の<33>Steam Dynamo<ff>を使うのはかなり非効率です。<nl><nl>augment<rr>を作ることを強く推奨します。これを使うと、1台のSteam Dynamoを<33>Steam Boiler<ff>に、他の2台のSteam Dynamoを<33>Steam Turbine<ff>にすることができます。すべてのダイナモを同じようにアップグレードした場合、その比率は常に<aa>1:2<rr>となります。<nl><nl>これにより、基本的なsteam dynamo1基あたり<aa>40RF/t<rr>から、adugmented dynamo3基セットあたり<a>320RF/t<r>と、全体的に効率と発電量が大幅に向上します。
 
 # db 753
 nomifactory.quest.db.753.title=Resonant Satchel
@@ -2457,8 +2457,8 @@ nomifactory.quest.db.778.title=Power Storage on a Massive Level
 nomifactory.quest.db.778.desc=Now that you have <66>Awakened Cores<rr>, you can make the <ee>Energy Storage Core<rr> from <bb>Draconic Evolution<rr>. It's a great way to store all the energy required to craft power-hungry late game items.<nl><nl>The <ee>Energy Storage Core<rr> is a multiblock structure that can be upgraded to store increasingly immense amounts of RF energy. See the <bb>Draconic Evolution<rr> manual for more information on the material requirements for each tier.<nl><nl><66>Energy Pylons<rr> are required to input and output energy from the core. Each pylon allows movement in a single direction, so you need at least two.<nl><nl>Once you have the materials together for your desired tier, <  >the structure can build itself: simply access the GUI of the <66>Energy Core<rr>, set the tier, and click Assemble. Items will be automatically used from your inventory. Once the structure is built, you can access the core's GUI again through <66>Energy Core Stabilizers<rr> to activate it.<nl><nl>It is recommended to postpone Tier 8 until after you reach the <dd>Creative Portable Tank<rr>, as it requires large amounts of <66>Awakened Draconium<rr>.<nl><nl>
 
 # db 779
-nomifactory.quest.db.779.title=Infinite Cobblestone
-nomifactory.quest.db.779.desc=Now that you have acquired <66>Steel<66><rr>, your path to infinite cobblestone awaits! The <66>Cobblestone Generator<rr> continuously outputs cobblestone into adjacent inventories, and can be upgraded to produce it even faster.<nl><nl>Cobblestone can be processed into many useful materials:<nl><nl><66>Gravel<rr> is useful for making conduits and <99>Concrete<rr>.<nl><nl><66>Sand<rr> is useful for <66>Glass<rr>, which can be turned into <66>Nether Quartz<rr>.<nl><nl>Finally, <66>Dust<rr> can be turned into <66>Clay<rr> which is both a reliable source of <66>Aluminium<rr> and very important for automating <bb>Deep Mob Learning<rr>.<nl><nl>Set up a <ee>cobbleworks<rr> soon, so you can stockpile all these useful materials.<nl>
+nomifactory.quest.db.779.title=無限の丸石
+nomifactory.quest.db.779.desc=<66>Steel<rr> を手に入れたら、次はInfinite Cobblestoneを手に入れる番だ！<66>Cobblestone Generator<rr>は隣接するインベントリに絶えず石を出力し、アップグレードすることでさらに速く生産できます。<nl><nl>丸石は多くの有用な材料に加工できます。<nl><nl><66>Gravel<rr>は導管や <99>Concrete<rr>を作るのに便利です。<nl><nl><66>砂<rr>は<66>Glass<rr>に、そして<66>Nether Quartz<rr>に加工するのに便利です。<nl><nl>最後に、<66>Dust<rr>は<66>Clay<rr>に変換できます。これは<66>Aluminium<rr>の信頼できるソースであり、<bb>Deep Mob Learning<rr>の自動化に非常に重要です。<nl><nl>すぐに <ee>Cobbleworks<rr>をセットして、これらの有用な材料を備蓄することができるようにしましょう。
 
 # db 780
 nomifactory.quest.db.780.title=To the Nether
