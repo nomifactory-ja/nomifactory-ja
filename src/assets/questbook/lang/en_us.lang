@@ -899,8 +899,8 @@ nomifactory.quest.db.226.title=Hypochlorous Acid
 nomifactory.quest.db.226.desc=<99>Water<rr> and <99>Chlorine<rr> can be combined to make <99>Hypochlorous Acid<rr>. If you add <99>Mercury<rr> to catalyze the reaction, the yield is much better.<nl><nl><ee>Please note that Hypochlorous Acid and Hydrochloric Acid are different things.<rr><nl><nl>You're already familiar with Chlorine production from your forays into Plastics, but a great source of Mercury is electrolyzing <66>Redstone<rr>.
 
 # db 227
-nomifactory.quest.db.227.title=MV Chemical Reactor
-nomifactory.quest.db.227.desc=Here comes the chemistry.<nl><nl>It might seem crazy right now, but you'll want a dedicated <33>Chemical Reactor<rr> for pretty much every chemical you want to process. You probably want to hold off on doing that until you've got a solid base of autocrafting though... it stings a lot less when you can just request crafts of Chemical Reactors from your AE2 system.<nl>
+nomifactory.quest.db.227.title=MV 化学反応器
+nomifactory.quest.db.227.desc=ここで化学の登場です。<nl><nl>考えたくもない話かもしれませんが、処理したい化学物質のほとんどに専用の<33>Chemical Reactor<rr>が必要になってきます。しかし自動クラフトの基盤が強固なものになるまでは、一旦置いておいたほうがいいでしょう…　AE2システムからChemical Reactorのクラフトをリクエストできるようになると、必要な労力が大幅に軽減されます。<nl>
 
 # db 228
 nomifactory.quest.db.228.title=Snad
@@ -1023,8 +1023,8 @@ nomifactory.quest.db.258.title=Awakened Draconium
 nomifactory.quest.db.258.desc=<66>Awakened Draconium<rr> is a powerful material used for crafting high-grade components, items, and machines from <bb>Draconic Evolution<rr>.<nl><nl>Five <66><66>Draconium Blocks<rr> can be processed in a Wyvern Tier fusion crafting setup to create an equal output of five <66>Awakened Draconium Blocks<rr>. At <ee>24 Billion RF per craft<rr>, you better have a handle on your power infrastructure.
 
 # db 259
-nomifactory.quest.db.259.title=MV Machine Hulls
-nomifactory.quest.db.259.desc=Your first MV hull is as good of a place as any to consider yourself graduated from LV.<nl><nl>You might notice that these hulls can be made more cheaply in an <33>Assembling Machine<rr>, but you don't have that weird fluid. Don't worry, you'll be able to make that soon.
+nomifactory.quest.db.259.title=MV マシン筐体
+nomifactory.quest.db.259.desc=はじめてのMV Hullは、LV卒業の証と言ってもよいでしょう。<nl><nl>もしかすると<33>Assembling Machine<rr>を用いた安価なレシピの存在に気づくかもしれませんが、その材料となる奇妙な液体をまだ持っていません。心配せずとも、すぐに作れるようになりますよ。
 
 # db 260
 nomifactory.quest.db.260.title=LV Electrolyzer
