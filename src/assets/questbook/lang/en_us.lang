@@ -915,8 +915,9 @@ nomifactory.quest.db.230.title=Oops... A Blackout!
 nomifactory.quest.db.230.desc=If you've tried to insert or remove a lot of items quickly, you might notice your ME network<nl><ee>flickers offline<rr> briefly. This is because digitizing and re-materializing items requires energy!<nl><nl>Your network doesn't naturally store very much energy and the <66>Energy Acceptor<rr> only intermittently refills the network's power. To keep things stable, you will need to add some energy storage in your network using <66>Energy Cells<rr>.<nl><nl>Just place one anywhere in your network and it will fill up with AE energy received from the Energy Acceptor. Now, you should have enough energy in your network to prevent these power losses. Feel free to add more energy cells, or upgrade to <66>Dense Energy Cells<rr>, if you continue to experience problems.<nl><nl>If you've opted to enable channels in your AE2 configs, you will innately have some energy storage from the <33>ME Controller<rr>, but we assume you know what you're doing at that point. <ee>AE2 Channels mechanics are outside the scope of the quest book, and this is the only time it will be mentioned.
 
 # db 231
-nomifactory.quest.db.231.title=Infiniter Water
-nomifactory.quest.db.231.desc=Endervoirs are blocks that generate water much faster than basic NuclearCraft infinite water sources.<nl><nl>Endervoirs are multiblocks formed by at least three Endervoir blocks. You can right-click a block with a wrench to make it output into adjacent machines.<nl><nl>The maximum transfer rate of an Endervoir is one bucket per second.
+nomifactory.quest.db.231.title=無限水
+nomifactory.quest.db.231.desc=Endervoirは基本的なNuclearCraftの無限水源よりもずっと速く水を生成するブロックです。<nl><nl>Endervoirは少なくとも三つのEndervoirブロックで形成されるマルチブロックです。レンチのあるブロックを右クリックすると、隣接するマシンに出力することができます。<nl><nl>Endervoirの最大転送速度は1秒に1バケツです。
+
 
 # db 232
 nomifactory.quest.db.232.title=Fly To The Moon
