@@ -1593,7 +1593,7 @@ nomifactory.quest.db.496.desc=<bb>Storage Drawer<ff>は、1種類のアイテム
 
 # db 497
 nomifactory.quest.db.497.title=コンパクトな引出し
-nomifactory.quest.db.497.desc=Compacting Drawersはナゲット、インゴット、ブロックなどの金属を自動変換したり、大量に収納するのに適しています。また、<dd>Nomicoins<rr>でも使用可能です。<nl><nl>引き出しを<aa>Framed Compacting Drawer<rr>に加工し、<aa>Framing Table<rr>に入れることで、外観をカスタマイズすることが可能です。
+nomifactory.quest.db.497.desc=Compacting Drawerはナゲット、インゴット、ブロックなどの金属を自動変換したり、大量に収納するのに適しています。また、<dd>Nomicoins<rr>でも使用可能です。<nl><nl>引き出しを<aa>Framed Compacting Drawer<rr>に加工し、<aa>Framing Table<rr>に入れることで、外観をカスタマイズすることが可能です。
 
 # db 498
 nomifactory.quest.db.498.title=Soldering Alloy

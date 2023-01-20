@@ -42,6 +42,21 @@ Wrought Iron is obtained simply by smelting Iron a second time. It has more dura
 Wrought Ironは、Ironを2回精錬することで得られます。Ironよりも耐久性が高いので、道具を作るのに向いていますが...
 ```
 
+## 単語が複数形になっていた場合、単数形に変更する
+
+翻訳前の単語が `Wrought iron ingots` のように複数形になっている場合、この部分は単数形に修正してから使用します。
+これは、日本語の場合は複数形による単語の語尾変化が行われることはないためです。
+
+### 例
+
+```
+Storage Drawers provide a huge amount of storage for a single item type.
+```
+
+```
+Storage Drawerは、1種類のアイテムを大量に収納できます。
+```
+
 ## `questbook party` はそのまま使用する
 
 `questbook party` は翻訳後の文章でも同じ単語を使用します。`questbook party` は小文字始まりの単語ですが、固有名詞でない線が捨てきれず、クエストブック側でのみ翻訳されていた場合に混乱を生む可能性があるためです。
