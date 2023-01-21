@@ -35,12 +35,12 @@ nomifactory.quest.line.8.title=Fun With Fusion
 nomifactory.quest.line.8.desc=Create new elements and power your base with doughnuts!
 
 # line 9
-nomifactory.quest.line.9.title=Simulating Resources
-nomifactory.quest.line.9.desc=Generate resources with <bb>Deep Mob Learning<rr>!<nl><nl>Close the production loop in MV for 100%% renewable resources!
+nomifactory.quest.line.9.title=リソースのシミュレーション
+nomifactory.quest.line.9.desc=<bb>Deep Mob Learning<rr>でリソースを生成しよう！<nl><nl>MVで生産のループを作り、100％再生可能な資源に！
 
 # line 10
-nomifactory.quest.line.10.title=Matter-Energy
-nomifactory.quest.line.10.desc=Convert between matter and energy with <bb>Applied Energistics<rr><rr>.<nl><nl>Automate ALL the things! o/
+nomifactory.quest.line.10.title=物質-エネルギー
+nomifactory.quest.line.10.desc=<bb>Applied Energistics<rr>で物質とエネルギーを変換します。<nl><nl>ぜんぶ自動化しよう！ o/
 
 # db 0
 nomifactory.quest.db.0.title=チャージングクォーツ
@@ -755,8 +755,8 @@ nomifactory.quest.db.186.title=Carbon Fibers
 nomifactory.quest.db.186.desc=<66>Carbon Fibers<rr> are useful for a variety of things.<nl><nl>To make them, you should use an <33>HV Autoclave<rr> or better to ensure a 100%% chance of producing them, as they are a chanced output with a base success rate of 85%% at MV.
 
 # db 187
-nomifactory.quest.db.187.title=MV Energy Input And MV CEF
-nomifactory.quest.db.187.desc=With <66>Aluminium<rr>, you can replace the two <aa>LV Energy Input Hatches<rr> on your Electric Blast Furnace with a single MV one, if you want. When you're ready to move on to HV recipes in the EBF, you'll want to move up to HV Energy Input Hatches, and so on.<nl><nl>However, remember to keep the MV area separate from your LV area. <ee>Hooking up an LV machine to MV current will result in the machine being destroyed! Also LV cables will burn up if you put MV current through them<rr>. That's why it's probably best to keep the areas separate until you're comfortable and confident with voltages. Eventually you can use transformers to switch voltages within a single setup, but don't feel forced to try that until you've got a grasp on the basics.<nl><nl>All RF power is the same (it has no voltages), so you can use RF conduits to route power from wherever you're generating and storing it to <33>CEFs<rr> for each voltage. You don't have to use this setup, but it's the most foolproof one for a beginner. And if you're an expert, well... you don't need my advice.<nl><nl>For your MV cables, you can use <66>Copper<rr> to start with. <66>Energetic Alloy cables<rr> are lossless though, so consider them if you're able to mass produce those ingots.
+nomifactory.quest.db.187.title=MVエネルギー入力とMV CEF
+nomifactory.quest.db.187.desc=<66>Aluminium<rr>を使用すると、Electric Blast Furnaceの2つの<aa>LV Energy Input Hatch<rr>を、必要に応じて1つのMV Energy Input Hatchに置き換えることができます。EBFのHVレシピに移行できるようになったら、HV Energy Input Hatchに置き換える、といった具合です。<nl><nl>ただし、MVの領域とLVの領域は分けて考えるべき、ということを忘れないでください。<ee>LVのマシンにMVの電流を流すと、マシンが壊れます！また、LV cableはMVの電流を流すと燃えてしまいます<rr>。なので、電圧の扱いに慣れるまでは、このあたりを分けて考えたほうがいいかもしれません。最終的には、Transformerを使用して1つの系統内で電圧を切り替えることもできますが、基礎を理解するまでは無理に挑戦する必要はありません。<nl><nl>RF powerは電圧の概念を持たないので、RF conduitを使って、任意の場所でpowerを生成して電圧ごとに<33>CEF<rr>に蓄積できるようにルーティングする、といったことができます。このセットアップを使う必要はありませんが、初心者にとっては最も確実な方法です。そして、もしあなたがエキスパートなら、まあ...私の助言は必要ないでしょう。<nl><nl>MV cableには、まず<66>Copper<rr>を使用することができます。<66>Energetic Alloy cable<rr>はロスレスなので、そのインゴットを大量に生産できるのであれば作成を検討してみてください。
 
 # db 188
 nomifactory.quest.db.188.title=Epoxy Substrate
@@ -2486,7 +2486,7 @@ nomifactory.quest.db.785.desc=<99>Rubber<rr> has been sufficient for making cabl
 
 # db 786
 nomifactory.quest.db.786.title=Effortless Building(エフォートレス・ビルディング)
-nomifactory.quest.db.786.desc=<bb>Effortless Building<rr> は、建築をより簡単にするMODです。大きなプラットフォームやさまざまな図形を数クリックで作成でき、同時に複数の同じ構造物を作ることもできます！<nl><nl>Effortless Building<rr>を使用するには、<66>Alt<rr>キーを押しながら始めます。すると、<ee>特殊建築モード<rr>と呼ばれるホイール型のメニューが表示されます。このメニューを開いた状態で、カーソルを目的の建築モードに合わせ、<66>Alt<rr>キーを離すだけで、その建築モードが選択されます。これでそのモードが選択され、建築を開始することができます。<nl><nl> 任意の建築ブロックを保持しながら、ブロックスペース上で<66>右クリック<rr>することで、形状の開始位置を選択することができます。次に、カーソルを別のブロックスペースに移動して、最終的な構造物のプレビューを確認します。終了したいブロックの上でもう一度<66>右クリック<rr>すると、インベントリ内のブロックから実際に形状を構築します。<nl><nl>ほとんどの形状は平面で、開始位置と終了位置を使用して定義されますが、3D形状には、形状を完成するための 3箇所目があります。<nl><nl>いくつかの特別なモードには<ee>オプション<rr>もあり、例えば<ee>filled cube<rr>の代わりに<ee>hollow cube<rr>を作ります。<nl><nl>間違えた場合は、メニューの<a>Undo<rr>ボタンを使って、置いたばかりのブロックを壊し、それを集めてもう一度やり直すことができます。<nm><nm>建築モードを変えるためには、以前と同様に<66>Alt<rr>でメニューを開いて別のものを選べばよいでしょう。特殊建築モードを終了するには、<ee>Normal<rr>モードを選択します。<nl><nl><cc>特殊建築モードは通常のゲームプレイを妨げるので、建築が終わったら必ずNormalモードに戻してください。<rr><nl><nl>特殊建築モードで作れる形のサイズは、<ee>Reach<rr>（自分からクリックして建築を開始できる距離、または前の場所からクリックして図形を完成できる距離）で制限されています。いくつかの Tier の <a>reach upgrades<rr> を連続してクラフトして食べることで、非常に高い数値に到達度を上げることができます。<nl><nl>全体として、<bb>Effortless Building<rr>は建設に非常に便利な強力なmodです。実験してみれば、どれだけ時間を節約できるかがわかるでしょう！
+nomifactory.quest.db.786.desc=<bb>Effortless Building<rr> は、建築をより簡単にするMODです。大きなプラットフォームやさまざまな図形を数クリックで作成でき、同時に複数の同じ構造物を作ることもできます！<nl><nl>Effortless Building<rr>を使用するには、<66>Alt<rr>キーを押しながら始めます。すると、<ee>特殊建築モード<rr>と呼ばれるホイール型のメニューが表示されます。このメニューを開いた状態で、カーソルを目的の建築モードに合わせ、<66>Alt<rr>キーを離すだけで、その建築モードが選択されます。これでそのモードが選択され、建築を開始することができます。<nl><nl> 任意の建築ブロックを保持しながら、ブロックスペース上で<66>右クリック<rr>することで、形状の開始位置を選択することができます。次に、カーソルを別のブロックスペースに移動して、最終的な構造物のプレビューを確認します。終了したいブロックの上でもう一度<66>右クリック<rr>すると、インベントリ内のブロックから実際に形状を構築します。<nl><nl>ほとんどの形状は平面で、開始位置と終了位置を使用して定義されますが、3D形状には、形状を完成するための 3箇所目があります。<nl><nl>いくつかの特別なモードには<ee>オプション<rr>もあり、例えば<ee>filled cube<rr>の代わりに<ee>hollow cube<rr>を作ります。<nl><nl>間違えた場合は、メニューの<aa>Undo<rr>ボタンを使って、置いたばかりのブロックを壊し、それを集めてもう一度やり直すことができます。<nl><nl>建築モードを変えるためには、以前と同様に<66>Alt<rr>でメニューを開いて別のものを選べばよいでしょう。特殊建築モードを終了するには、<ee>Normal<rr>モードを選択します。<nl><nl><cc>特殊建築モードは通常のゲームプレイを妨げるので、建築が終わったら必ずNormalモードに戻してください。<rr><nl><nl>特殊建築モードで作れる形のサイズは、<ee>Reach<rr>（自分からクリックして建築を開始できる距離、または前の場所からクリックして図形を完成できる距離）で制限されています。いくつかの Tier の <aa>Reach Upgrade<rr> を連続してクラフトして食べることで、非常に高い数値に到達度を上げることができます。<nl><nl>全体として、<bb>Effortless Building<rr>は建設に非常に便利な強力なmodです。実験してみれば、どれだけ時間を節約できるかがわかるでしょう！
 
 # db 787
 nomifactory.quest.db.787.title=Farming Station
