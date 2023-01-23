@@ -1,11 +1,22 @@
 import buildConfig from "../buildConfig";
 import { appendFileSync } from "fs";
 
+function getDatetimeStr(datetime: Date): string {
+	const year = datetime.getFullYear();
+	const month = (datetime.getMonth() + 1).toString().padStart(2, "0");
+	const day = datetime.getDate().toString().padStart(2, "0");
+	const hour = datetime.getHours().toString().padStart(2, "0");
+	const minute = datetime.getMinutes().toString().padStart(2, "0");
+	const second = datetime.getSeconds().toString().padStart(2, "0");
+
+	const datetimeStr = `${year}${month}${day}${hour}${minute}${second}`;
+
+	return datetimeStr;
+}
+
 export default async function makeArtifactNames(): Promise<void> {
 	const datetime = new Date();
-	const datetimeStr = `${datetime.getFullYear()}${
-		datetime.getMonth() + 1
-	}${datetime.getDate()}${datetime.getHours()}${datetime.getMinutes()}${datetime.getSeconds()}`;
+	const datetimeStr = getDatetimeStr(datetime);
 	const body = makeArtifactNameBody(`${buildConfig.name}-${datetimeStr}-for-${buildConfig.currentTarget}`);
 
 	if (process.env.GITHUB_OUTPUT) {
