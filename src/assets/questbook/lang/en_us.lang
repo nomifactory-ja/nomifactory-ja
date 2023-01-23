@@ -936,8 +936,8 @@ nomifactory.quest.db.235.title=Primal Mana
 nomifactory.quest.db.235.desc=Melting <66>Mana Dust<rr> in a <33>Fluid Extractor<rr> produces <99>Primal Mana<rr>, which is needed for smelting various alloys from <bb>Thermal Expansion<rr>.
 
 # db 236
-nomifactory.quest.db.236.title=Transistor
-nomifactory.quest.db.236.desc=<66>Transistors<rr> are semiconductors that can amplify or switch electrical signals and power. They're probably one of the most important inventions of the 20th century.<nl><nl>You're going to use them as a component for better circuits. This one is a bit pricey, requiring <66>Aluminium Foil<rr> and <66>Fine Silver Wire<rr>.
+nomifactory.quest.db.236.title=トランジスタ
+nomifactory.quest.db.236.desc=<66>Transistor<rr>は、電気信号や電力を増幅したり、スイッチングしたりすることができる半導体です。20世紀で最も重要な発明の一つでしょう。<nl><nl>より良い回路を作るための部品として使うのです。こちらは<66>Aluminium Foil<br>と<66>Fine Silver Wire<br>が必要で、ちょっとだけお値段が高いです。
 
 # db 237
 nomifactory.quest.db.237.title=Meteorite Hunter
@@ -1612,8 +1612,8 @@ nomifactory.quest.db.501.title=Exotic Materials Catalyst
 nomifactory.quest.db.501.desc=A small appetizer, before the <dd>Omnium<rr> main course.<nl><nl>As the name suggests, this catalyst is formed from exotic non-elemental materials and alloys.
 
 # db 502
-nomifactory.quest.db.502.title=Capacitors
-nomifactory.quest.db.502.desc=<66>Capacitors<rr> are devices that store electrical energy, which is useful for circuits.<nl><nl>Not to be confused with <bb>EnderIO<rr>'s capacitors<rr>, which store redstone flux.
+nomifactory.quest.db.502.title=コンデンサー
+nomifactory.quest.db.502.desc=<66>Capacitor<br>は、電気エネルギーを蓄積するデバイスで、回路によく使います。<nl><nl><bb>EnderIO<rr>の(レッドストーンのフラックスを保存する方の)Capacitor<rr>と混同しないでください。
 
 # db 503
 nomifactory.quest.db.503.title=Dark Soularium Ingots
