@@ -1637,7 +1637,7 @@ nomifactory.quest.db.508.desc=
 
 # db 509
 nomifactory.quest.db.509.title=MVロスレスケーブル
-nomifactory.quest.db.509.desc=<bb>EnderIO<rr>と<bb>Thermal<rr>の合金は通常のワイヤーより少し高価ですが、<ee>ロスレス<rr>であるという大きな利点があります。<66>Tin<rr>や<66>Copper<rr>のようなロスのあるケーブルは、エネルギーがケーブルを移動するごとに少しずつ弱くなっていきます、ロスレスのものはそのようなことがありません。<nl><nl>各階層向けのロスレスケーブルは以下の通りです:<nl><nl>LV - Conductive Iron Cable<nl>MV - Energetic Alloy Cable<nl>HV - Vibrant Alloy Cable<nl>EV - End Steel Cable<nl>IV - Lumium Cable<nl>LuV   - Signalum Cable<nl>ZPMV - Enderium Cable<nl>UV     - Draconium Cable<nl>MaxV - Omnium Cable<nl><nl>MV以上のケーブルは<33>Assembling Machine<rr>で作成します。これらは液体の<99>Ruber<rr>と<66>ワイヤー<rr>で作成でき、さらにワイヤーの太さを指示する<66>Programmed Circuit<rr>も再利用可能です。<nl><nl>もちろんケーブルの代わりにワイヤーを使用することもでき、Rubberによってカバーをした場合と同じように導通させることができます。でも、<cc>通電している時に触ると殺されるから<rr>...まあ...。自己責任で。
+nomifactory.quest.db.509.desc=<bb>EnderIO<rr>と<bb>Thermal<rr>の合金は通常のワイヤーより少し高価ですが、<ee>ロスレス<rr>であるという大きな利点があります。<66>Tin<rr>や<66>Copper<rr>のようなロスのあるケーブルは、エネルギーがケーブルを移動するごとに少しずつ弱くなっていきます、ロスレスのものはそのようなことがありません。<nl><nl>各階層向けのロスレスケーブルは以下の通りです:<nl><nl>LV - Conductive Iron Cable<nl>MV - Energetic Alloy Cable<nl>HV - Vibrant Alloy Cable<nl>EV - End Steel Cable<nl>IV - Lumium Cable<nl>LuV   - Signalum Cable<nl>ZPMV - Enderium Cable<nl>UV     - Draconium Cable<nl>MaxV - Omnium Cable<nl><nl>MV以上のケーブルは<33>Assembling Machine<rr>で作成します。これらは液体の<99>Rubber<rr>と<66>ワイヤー<rr>で作成でき、さらにワイヤーの太さを指示する<66>Programmed Circuit<rr>も再利用可能です。<nl><nl>もちろんケーブルの代わりにワイヤーを使用することもでき、Rubberによってカバーをした場合と同じように導通させることができます。でも、<cc>通電している時に触れてしまったら命の保証はないので<rr>...まあ...。自己責任で。
 
 # db 510
 nomifactory.quest.db.510.title=Dew Of The Void
