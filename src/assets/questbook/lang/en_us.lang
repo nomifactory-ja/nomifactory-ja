@@ -1597,7 +1597,7 @@ nomifactory.quest.db.497.desc=Compacting Drawerはナゲット、インゴット
 
 # db 498
 nomifactory.quest.db.498.title=はんだ合金
-nomifactory.quest.db.498.desc=回路を作るときは、<33>Assembling Machine<rr>に溶けた<99>Tin<rr>か、溶けた<99>Soldering Alloy<rr>が必要です。Soldering Alloyは<66>Tin Ingot<rr>と<66>Antimony Dust<rr>を<33>Alloy Smelter<rr>で9:1の割合で混合することで作成できます。その後、<33>Fluid Extractor<rr>で処理すると、インゴット1つあたり通常144mBの液体を得ることができます。<nl><nl>Assembling Machineが消費するSolder Alloyの量は、1回の作成で溶けたTinの消費量の半分(72mB vs 144mB)なので、非常に効率的に使用することができるのです。<nl><nl><66>Antimony<rr>は<66>Tetrahedrite Ore<rr>や<66>Stibnite Ore<rr>を<33>Centrifuge<br>で処理することで得られます。<nl>
+nomifactory.quest.db.498.desc=回路を作るときは、<33>Assembling Machine<rr>に溶けた<99>Tin<rr>か、溶けた<99>Soldering Alloy<rr>が必要です。Soldering Alloyは<66>Tin Ingot<rr>と<66>Antimony Dust<rr>を<33>Alloy Smelter<rr>で9:1の割合で混合することで作成できます。その後、<33>Fluid Extractor<rr>で処理すると、インゴット1つあたり通常144mBの液体を得ることができます。<nl><nl>Assembling Machineが消費するSolder Alloyの量は、1回の作成で溶けたTinの消費量の半分(72mB vs 144mB)なので、非常に効率的に使用することができるのです。<nl><nl><66>Antimony<rr>は<66>Tetrahedrite Ore<rr>や<66>Stibnite Ore<rr>を<33>Centrifuge<rr>で処理することで得られます。<nl>
 
 # db 499
 nomifactory.quest.db.499.title=Fine Copper Wire
