@@ -1745,8 +1745,8 @@ nomifactory.quest.db.539.title=Phosphorus
 nomifactory.quest.db.539.desc=<66>Phosphorus<rr> can be obtained by processing <66>Tricalcium Phosphate Ore<rr> into dust and electrolyzing several times. This ore is found in <66>Apatite<rr> veins.
 
 # db 540
-nomifactory.quest.db.540.title=MV Extruder
-nomifactory.quest.db.540.desc=The <33>Extruder<rr> is an alternative way to form shapes from metal. <aa>Extruder Shapes<rr> are used for telling an Extruder which shape to make.<nl><nl>Extruders are the only way to make certain things, like <66>Large Pipes<rr>. Extruders use ingots, but are as efficient for making <66>Gears<rr> as melting and solidifying.<nl><nl>You can also use Extruders to make things from other machines like plates and wires, but they are less efficient than using the dedicated machines for these purposes.
+nomifactory.quest.db.540.title=MV 押出機
+nomifactory.quest.db.540.desc=<33>Extruder<rr> は、金属から形状を形成するための代替手段です。<aa>Extruder Shape<rr>は、Extruderにどのような形状を作るかを指示するために使用します。<nl><nl><66>Large Pipe<rr>のように、Extruderが特定のものを作るための唯一の方法となる場合もあります。これまで<66>Gear<rr>を作る際、最も素材を節約できる手段としてIngotをFluid Extractorで液体にしてからFluid Solidifierで凝固させていたかもしれませんが、Extruderではそれと同等のコストを維持したままIngotから直接製造することができます。<nl><nl>Extruderは、plateやwireなど他のマシンから作るようなパーツを作ることもできますが、専用機よりは効率が悪いです。
 
 # db 541
 nomifactory.quest.db.541.title=More Blast Furnaces
