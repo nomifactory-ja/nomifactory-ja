@@ -372,11 +372,11 @@ nomifactory.quest.db.84.desc=<66>Circuit Wafers<rr> are batches of integrated ci
 
 # db 86
 nomifactory.quest.db.86.title=2つ目のTier 1の回路
-nomifactory.quest.db.86.desc=Much easier to mass produce than <66>Primitive Circuits<rr>, and they fulfill the same function in nearly all cases.<nl><nl>You should be batch crafting these.
+nomifactory.quest.db.86.desc=<66>Primitive Circuit<rr>よりはるかに量産しやすく、ほぼすべてのケースで同じ機能を果たします。<nl><nl>これをたくさん作ってください。
 
 # db 87
 nomifactory.quest.db.87.title=2つ目のTier 2の回路
-nomifactory.quest.db.87.desc=Three <66>Electronic Circuits<rr> and various other components will create an <66>Electronic Processor<rr>.
+nomifactory.quest.db.87.desc=3つの<66>Electronic Circuit<rr>とさまざまなパーツによって<66>Electronic Processor<rr>ができあがります。
 
 # db 88
 nomifactory.quest.db.88.title=Lenses
@@ -1596,8 +1596,8 @@ nomifactory.quest.db.497.title=コンパクトな引出し
 nomifactory.quest.db.497.desc=Compacting Drawerはナゲット、インゴット、ブロックなどの金属を自動変換したり、大量に収納するのに適しています。また、<dd>Nomicoins<rr>でも使用可能です。<nl><nl>引き出しを<aa>Framed Compacting Drawer<rr>に加工し、<aa>Framing Table<rr>に入れることで、外観をカスタマイズすることが可能です。
 
 # db 498
-nomifactory.quest.db.498.title=Soldering Alloy
-nomifactory.quest.db.498.desc=When making circuits, you'll need either molten <99>Tin<rr>, or molten <99>Soldering Alloy<rr><rr><rr> in the <33>Assembling Machine<rr>. Soldering Alloy is made in the <33>Alloy Smelter<rr> with a 9:1 ratio of <66>Tin Ingots<rr> to <66>Antimony Dust<rr>. You then process it in a <33>Fluid Extractor <rr>for the usual 144mB of fluid per ingot.<nl><nl>The Assembling Machine will only consume half as much Soldering Alloy as it would have consumed molten Tin per craft (72mB vs 144mB), so it's very efficient to use this stuff.<nl><nl>Put your <33>Centrifuge<rr> to work for the <66>Antimony<rr> you'll need, which comes in tiny piles from processing <66>Tetrahedrite Ore<rr> and <66>Stibnite Ore<rr>.<nl>
+nomifactory.quest.db.498.title=はんだ合金
+nomifactory.quest.db.498.desc=回路を作るときは、<33>Assembling Machine<rr>に溶けた<99>Tin<rr>か、溶けた<99>Soldering Alloy<rr>が必要です。Soldering Alloyは<66>Tin Ingot<rr>と<66>Antimony Dust<rr>を<33>Alloy Smelter<rr>で9:1の割合で混合することで作成できます。その後、<33>Fluid Extractor<rr>で処理すると、インゴット1つあたり通常144mBの液体を得ることができます。<nl><nl>Assembling Machineが消費するSolder Alloyの量は、1回の作成で溶けたTinの消費量の半分(72mB vs 144mB)なので、非常に効率的に使用することができるのです。<nl><nl><66>Antimony<rr>は<66>Tetrahedrite Ore<rr>や<66>Stibnite Ore<rr>を<33>Centrifuge<rr>で処理することで得られます。<nl>
 
 # db 499
 nomifactory.quest.db.499.title=Fine Copper Wire
@@ -1636,8 +1636,8 @@ nomifactory.quest.db.508.title=Knightslime Ingots
 nomifactory.quest.db.508.desc= 
 
 # db 509
-nomifactory.quest.db.509.title=MV Lossless Cables
-nomifactory.quest.db.509.desc=<bb>EnderIO<rr> and <bb>Thermal<rr> alloys are a bit more expensive than the normal wires, but they come with the huge advantage of being <ee>lossless<rr>. Lossy cables like <66>Tin<rr> and <66>Copper<rr> will bleed out energy for every block they travel, but lossless ones do not.<nl><nl>The lossless cables for each tier are:<nl><nl>LV - Conductive Iron Cables<nl>MV - Energetic Alloy Cables<nl>HV - Vibrant Alloy Cables<nl>EV - End Steel Cables<nl>IV - Lumium Cables<nl>LuV   - Signalum Cables<nl>ZPMV - Enderium Cables<nl>UV     - Draconium Cables<nl>MaxV - Omnium Cables<nl><nl>MV and higher cables are made in an <33>Assembling Machine<rr>. They're made with liquid <99>Rubber<rr> and <66>Wires<rr>, plus a reusable <66>Programmed Circuit<rr> that tells it what thickness of wire to make.<nl><nl>You can use Wires, and for these materials they'll conduct just as well as if they were covered. But they'll <cc>kill you if you touch them while power is passing through<rr>, so... yeah. Your call.
+nomifactory.quest.db.509.title=MVロスレスケーブル
+nomifactory.quest.db.509.desc=<bb>EnderIO<rr>と<bb>Thermal<rr>の合金は通常のワイヤーより少し高価ですが、<ee>ロスレス<rr>であるという大きな利点があります。<66>Tin<rr>や<66>Copper<rr>のようなロスのあるケーブルは、エネルギーがケーブルを移動するごとに少しずつ弱くなっていきます、ロスレスのものはそのようなことがありません。<nl><nl>各階層向けのロスレスケーブルは以下の通りです:<nl><nl>LV - Conductive Iron Cable<nl>MV - Energetic Alloy Cable<nl>HV - Vibrant Alloy Cable<nl>EV - End Steel Cable<nl>IV - Lumium Cable<nl>LuV   - Signalum Cable<nl>ZPMV - Enderium Cable<nl>UV     - Draconium Cable<nl>MaxV - Omnium Cable<nl><nl>MV以上のケーブルは<33>Assembling Machine<rr>で作成します。これらは液体の<99>Rubber<rr>と<66>ワイヤー<rr>で作成でき、さらにワイヤーの太さを指示する<66>Programmed Circuit<rr>も再利用可能です。<nl><nl>もちろんケーブルの代わりにワイヤーを使用することもでき、Rubberによってカバーをした場合と同じように導通させることができます。でも、<cc>通電している時に触れてしまったら命の保証はないので<rr>...まあ...。自己責任で。
 
 # db 510
 nomifactory.quest.db.510.title=Dew Of The Void
