@@ -348,7 +348,7 @@ nomifactory.quest.db.78.desc=Cauldronに<66>Impure Piles of Sphalerite<rr>を投
 
 # db 79
 nomifactory.quest.db.79.title=MV 裁断機
-nomifactory.quest.db.79.desc=モノを切り刻もう。<nl><nl><33>Cutting Machine<rr>は、waferやrod、woodなど様々なものをカットしてくれるので、多目的なクラフトが可能です。ブロックを9枚に切り分けるのは、<33>Compressor<rr>で1枚ずつ作るよりもはるかに速く、Compressorでまったく作れないプレートもあります。<nl><nl>bladeのクラフトのためには、まず<66>Cobalt Brass<rr>を作る必要があります。<66>Cobalt<rr>は様々な鉱石を処理して得られる副産物(最初はtiny pile)、<66>Zinc<rr>は<66>Sphalerite<rr>を電気分解しているので既にあるはずで、その他の素材は<66>Copper<rr>と<66>Aluminium<rr>だけです。困ったときは、<bb>JEI<rr>のOre Byproduct Listタブから、通常サイズのDustのレシピを調べればたどり着けるので覚えておくとよいでしょう。<nl><nl>Cutting Machineは、すべてのレシピでプレーンな<99>Water<rr>を使用します。また、処理を多少早める<99>Distilled Water<rr>や、大幅に早める上、1回あたりの使用量はごくわずかな<99>Lubricant<rr>を使用することもできます。これらは今すぐ作るには少し難しいかもしれませんが、将来的には非常に価値のあるアップグレードです。<nl><nl>Primitive Processorよりはるかに簡単な回路なので、MVマシンの道を進む前に、<66>Electronic Processor<rr>ができるまで待つことを考慮してもよいかもしれません。
+nomifactory.quest.db.79.desc=モノを切り刻もう。<nl><nl><33>Cutting Machine<rr>は、waferやrod、woodなど様々なものをカットしてくれるので、多目的なクラフトが可能です。ブロックを9枚に切り分けるのは、<33>Compressor<rr>で1枚ずつ作るよりもはるかに速く、Compressorでまったく作れないプレートもあります。<nl><nl>bladeのクラフトのためには、まず<66>Cobalt Brass<rr>を作る必要があります。<66>Cobalt<rr>は様々な鉱石を処理して得られる副産物(最初はtiny pile)、<66>Zinc<rr>は<66>Sphalerite<rr>を電気分解しているので既にあるはずで、その他の素材は<66>Copper<rr>と<66>Aluminium<rr>だけです。困ったときは、<bb>JEI<rr>のOre Byproduct Listタブから、通常サイズのDustのレシピを調べればたどり着けるので覚えておくとよいでしょう。<nl><nl>Cutting Machineは、すべてのレシピでプレーンな<99>Water<rr>を使用します。また、処理を多少早める<99>Distilled Water<rr>や、大幅に早める上、1回あたりの使用量はごくわずかな<99>Lubricant<rr>を使用することもできます。これらは今すぐ作るには少し難しいかもしれませんが、将来的には非常に価値のあるアップグレードです。<nl><nl><66>Primitive Processor<rr>よりはるかに簡単な回路なので、MVマシンの道を進む前に、<66>Electronic Processor<rr>ができるまで待つことを考慮してもよいかもしれません。
 
 # db 80
 nomifactory.quest.db.80.title=Silicon Boules
