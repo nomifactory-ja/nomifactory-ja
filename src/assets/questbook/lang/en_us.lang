@@ -323,8 +323,8 @@ nomifactory.quest.db.72.title=LV アセンブリングマシン
 nomifactory.quest.db.72.desc=<33>Assembling Machine<rr>は工場の要であり、<66>Circuit<rr>を通過するためのゲートとなるものです。<nl><nl>Assembling Machineを新しいボルテージにアップグレードするたびに、より高度な<ee>テーマ<rr>のCircuitを作ることができるようになります。これらは、より複雑な材料を使用し、新たなインフラを整備する必要がありますが、前テーマの同Tierの回路よりも全体的に効率的に作成することができます。<nl><nl>Circuitの進行度の流れはquest bookの<dd>Progressionタブ<rr>をご確認ください。<nl><nl>また、Assembling Machineを使うことで、<ee>工具を必要としない同等以上の効率的なレシピ<rr>が数多く生まれます。また、ハンドツールのレシピは<bb>Applied Energistics<rr>と相性が良くありません。<nl><nl>Assembling Machineを活用しましょう: <cc>今後、オートメーションでは、手工具を使ったクラフトは一切行わないようにします。<rr>重要な機械がすべて揃えば、クラフトに手道具が必要になることはないでしょう。
 
 # db 73
-nomifactory.quest.db.73.title=ME Conduit
-nomifactory.quest.db.73.desc=<66>ME Conduits<rr> have the advantage of being able to share a block space with other conduit types. Oh, and they're relatively cheaper to make.<nl><nl>The only downside is that <ee>they will not connect to <bb>Applied Energistics<rr> <ee>microparts<rr> like slab-form <66>Interfaces<rr> or <66>Level Emitters<rr>, so you have to use AE cables like <66>Fluix Cable<rr> for those.
+nomifactory.quest.db.73.title=MEコンジット
+nomifactory.quest.db.73.desc=<66>ME Conduit<rr>は、他のConduitタイプとブロックスペースを共有できるという利点があります。それと、比較的安価に作ることができます。<nl><nl>ただ、slab-form <66>Interface<rr>や<66>Level Emitter<rr>などの<bb>Applied Energistics<rr> microparts<rr>には接続できないので、それらには<66>Fluix Cable<rr>などのAE用ケーブルを使用しなければならないのが難点です。
 
 # db 74
 nomifactory.quest.db.74.title=アルミニウムケース
@@ -471,8 +471,8 @@ nomifactory.quest.db.110.title=Crafting Units
 nomifactory.quest.db.110.desc=Autocrafting at last.<nl><nl>Well, you need patterns too I guess.
 
 # db 111
-nomifactory.quest.db.111.title=Crafting Terminal
-nomifactory.quest.db.111.desc=Crafting in a digital grid is heaven after using primitive wooden tables for so long.<nl><nl>It's a micropart, so you need to place it on <66>ME Cable<rr> (not a conduit).
+nomifactory.quest.db.111.title=クラフティングターミナル
+nomifactory.quest.db.111.desc=デジタルグリッドでのクラフトは、長い間原始的な木のテーブルを使っていた我々にとってまさに天国といえるでしょう。<nl><nl>これはマイクロパーツですので、<66>ME Cable<rr>（Conduitではありません）に配置する必要があります。
 
 # db 112
 nomifactory.quest.db.112.title=原子の再構成
@@ -2477,8 +2477,8 @@ nomifactory.quest.db.783.title="Arsenic" and "Quantum Eyes"
 nomifactory.quest.db.783.desc=⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⢀⣶⣶⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<nl>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⢀⣿⣿⣿⣿⣿⣿⠿⠿⠟⠟⠛⠛⠻⠻⣿⣿⠆⠆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<nl>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⢸⣿⣿⣿⣿⣿⣿⣆⣆⣀⣀⣀⣀⠀⠀⣿⣿⠂⠂⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<nl>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⢸⠻⠻⣿⣿⣿⣿⣿⣿⠅⠅⠛⠛⠋⠋⠈⠈⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<nl>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⠘⢼⢼⣿⣿⣿⣿⣿⣿⣃⣃⠠⠠⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<nl>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⣿⣿⣿⣟⣟⡿⡿⠃⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<nl>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣛⣛⣛⣛⣫⣫⡄⡄⠀⠀⢸⢸⣦⣦⣀⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<nl>⠀⠀⠀⠀⠀⠀⠀⠀⢀⢀⣠⣠⣴⣴⣾⣾⡆⡆⠸⠸⣿⣿⣿⣿⣿⣿⡷⡷⠂⠂⠨⠨⣿⣿⣿⣿⣿⣿⣿⣿⣶⣶⣦⣦⣤⣤⣀⣀⠀⠀⠀⠀⠀⠀<nl>⠀⠀⠀⠀⣤⣤⣾⣾⣿⣿⣿⣿⣿⣿⣿⣿⡇⡇⢀⢀⣿⣿⡿⡿⠋⠋⠁⠁⢀⢀⡶⡶⠪⠪⣉⣉⢸⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣇⣇⠀⠀⠀⠀<nl>⠀⠀⢀⢀⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡏⡏⢸⢸⣿⣿⣷⣷⣿⣿⣿⣿⣷⣷⣦⣦⡙⡙⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡏⡏⠀⠀⠀⠀<nl>⠀⠀⠈⠈⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣇⣇⢸⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣷⣦⣦⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇⡇⠀⠀⠀⠀<nl>⠀⠀⢠⢠⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇⡇⠀⠀⠀⠀<nl>⠀⠀⢸⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⣄⠀⠀<nl>⠀⠀⠸⠸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀<nl>⠀⠀⣠⣠⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⡿⠀⠀<nl>⠀⠀⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠃⠃⠀⠀<nl>⠀⠀⢹⢹⣿⣿⣵⣵⣾⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣯⣯⡁⡁⠀⠀⠀⠀<nl><nl>We're no strangers to love,<nl>You know the rules, and so do I!
 
 # db 784
-nomifactory.quest.db.784.title=ME Cables
-nomifactory.quest.db.784.desc=These are the basic cables used by <33>Applied Energistics<rr> to transport network connectivity. Due to the fact that channels are disabled, these cables will be your main method of transporting network connectivity, rather than the dense cables.<nl><nl>These cables do not share blockspace with conduits or cables for other mods, so they can be somewhat unweildy to build with, but they do accept <33>Applied Energistics<rr><66><rr> <66>Facades<rr>, so they can be hidden very easily.<nl><nl>Later you can make a variant of the cable that can share blockspace with <33>Ender IO<rr> conduits.
+nomifactory.quest.db.784.title=MEケーブル
+nomifactory.quest.db.784.desc=ME Cableは<33>Applied Energistics<rr>がネットワーク接続のために使用する基本的なケーブルです。このmodpackではチャンネル機能が無効化されているため、密なケーブルではなく、これらのケーブルがネットワーク接続の主な輸送方法となります。<nl><nl>これらのケーブルは他のMODの導管やケーブルとブロックスペースを共有しないため、構築はやや面倒ですが、<33>Applied Energistics<rr> <66>Facade<rr>を受け入れるため、非常に簡単に隠すことができます。<nl><nl>後に、<33>Ender IO<rr>の導管とブロックスペースを共有できるケーブルの亜種を作ることができるようになります。
 
 # db 785
 nomifactory.quest.db.785.title=New Cable Coverings
