@@ -1746,7 +1746,7 @@ nomifactory.quest.db.539.desc=<66>Phosphorus<rr> can be obtained by processing <
 
 # db 540
 nomifactory.quest.db.540.title=MV 押出機
-nomifactory.quest.db.540.desc=<33>Extruder<rr> は、金属から形状を形成するための代替手段です。<aa>Extruder Shape<rr>は、Extruderにどのような形状を作るかを指示するために使用します。<nl><nl><66>Large Pipe<rr>のように、Extruderが特定のものを作るための唯一の方法となる場合もあります。ExtruderはIngotを使いますが、<66>Gear<rr>を作るためには溶融凝固と同じくらい効率が良いです。<nl><nl>Extruderは、plateやwireなど他のマシンから作るようなパーツを作ることもできますが、専用機よりは効率が悪いです。
+nomifactory.quest.db.540.desc=<33>Extruder<rr> は、金属から形状を形成するための代替手段です。<aa>Extruder Shape<rr>は、Extruderにどのような形状を作るかを指示するために使用します。<nl><nl><66>Large Pipe<rr>のように、Extruderが特定のものを作るための唯一の方法となる場合もあります。これまで<66>Gear<rr>を作る際、最も素材を節約できる手段としてIngotをFluid Extractorで液体にしてからFluid Solidifierで凝固させていたかもしれませんが、Extruderではそれと同等のコストを維持したままIngotから直接製造することができます。<nl><nl>Extruderは、plateやwireなど他のマシンから作るようなパーツを作ることもできますが、専用機よりは効率が悪いです。
 
 # db 541
 nomifactory.quest.db.541.title=More Blast Furnaces
