@@ -2462,7 +2462,7 @@ nomifactory.quest.db.779.desc=<66>Steel<rr> を手に入れたら、次はInfini
 
 # db 780
 nomifactory.quest.db.780.title=ネザーへ
-nomifactory.quest.db.780.desc=最初の<rr>Hellish Matter<66>のかけらを手に入れると<ee>Nether<rr>への移動が可能になります。<nl><nl>このmodpackでは必ずしもネザーに行く必要はないですが、<bb>Deep Mob Learning<rr>で<ee>Blaze Model<rr>を作る前に<66>Glowstone<rr>、<66>Soul Sand<rr>、<66>Sulfur<rr>を(少量ですが)簡単に入手できることができます。
+nomifactory.quest.db.780.desc=最初の<66>Hellish Matter<rr>のかけらを手に入れると<ee>Nether<rr>への移動が可能になります。<nl><nl>このmodpackでは必ずしもネザーに行く必要はないですが、<bb>Deep Mob Learning<rr>で<ee>Blaze Model<rr>を作る前に<66>Glowstone<rr>、<66>Soul Sand<rr>、<66>Sulfur<rr>を(少量ですが)簡単に入手できることができます。
 
 # db 781
 nomifactory.quest.db.781.title=Numismatic Power
