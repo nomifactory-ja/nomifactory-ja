@@ -315,8 +315,8 @@ nomifactory.quest.db.70.title=MV Power Storage
 nomifactory.quest.db.70.desc=<aa>MV Batteries<rr> function essentially the same as <aa>LV Batteries<rr>, only stronger. They also need to be put into an <33>MV CEF<rr> or <33>MV Battery Buffer<rr>.
 
 # db 71
-nomifactory.quest.db.71.title=MV Electrolyzer
-nomifactory.quest.db.71.desc=An <33>MV Electrolyzer<rr> allows you to process recipes that require up to 128 EU/t, and can optionally overclock recipes costing at most 32 EU/t.<nl><nl>This means you can split more kinds of things for useful products.<nl>
+nomifactory.quest.db.71.title=MV 電解装置
+nomifactory.quest.db.71.desc=<33>MV Electrolyzer<rr>は最大128EU/tのレシピを処理でき、さらにで最大32EU/tのレシピをオーバークロックして処理することができます。<nl><nl>つまり、より多くの種類素材を分割して、便利な素材にすることができます。
 
 # db 72
 nomifactory.quest.db.72.title=LV アセンブリングマシン
@@ -327,12 +327,12 @@ nomifactory.quest.db.73.title=ME Conduit
 nomifactory.quest.db.73.desc=<66>ME Conduits<rr> have the advantage of being able to share a block space with other conduit types. Oh, and they're relatively cheaper to make.<nl><nl>The only downside is that <ee>they will not connect to <bb>Applied Energistics<rr> <ee>microparts<rr> like slab-form <66>Interfaces<rr> or <66>Level Emitters<rr>, so you have to use AE cables like <66>Fluix Cable<rr> for those.
 
 # db 74
-nomifactory.quest.db.74.title=Aluminium Casing
-nomifactory.quest.db.74.desc=<66>Quartzite Ore<rr> is found in... quartzite veins in the Overworld.<nl><nl><66>Quartzite Dust<rr> can be electrolyzed into <66>Crushed Black Quartz<rr>, which can be crystallized into <66>Black Quartz<rr> in an <33>Autoclave<rr>.<nl><nl>Black Quartz and <66>Aluminium Plates<rr> will make <66>Aluminium Casings<rr>, which are used for making machines from <bb>Actually Additions<rr>.
+nomifactory.quest.db.74.title=アルミニウムケース
+nomifactory.quest.db.74.desc=<66>Quartzite Ore<rr>は、オーバーワールドにあるquartzite鉱脈で見つかります。<nl><nl><66>Quartzite Dust<rr>を電解して<66>Crushed Black Quartz<rr>とし、<33>Autoclave<rr>で<66>Black Quartz<rr>として結晶化させることができます。<nl><nl>Black Quartzと<66>Aluminium Plate<rr>は<66>Aluminium Casing<rr>を作り、<bb>Actually Addition<rr>から機械を作成するために使用します。
 
 # db 75
-nomifactory.quest.db.75.title=Machine Block
-nomifactory.quest.db.75.desc=The <66>Machine Block<rr> is the first step into a mod called <bb>Extra Utilities 2<rr>.
+nomifactory.quest.db.75.title=マシンブロック
+nomifactory.quest.db.75.desc=<66>Machine Block<rr>は<bb>Extra Utilities 2<rr>というMODへの第一歩となります。
 
 # db 76
 nomifactory.quest.db.76.title=1つ目のTier 2の回路
@@ -455,8 +455,8 @@ nomifactory.quest.db.106.title=Pattern Terminal
 nomifactory.quest.db.106.desc=As the name suggests, this terminal lets you encode recipes onto <aa>Blank Patterns<rr>.<nl><nl>It's a micropart, so you need to place it on <66>ME Cable<rr> (not a conduit).
 
 # db 107
-nomifactory.quest.db.107.title=Atomic Reconstructor
-nomifactory.quest.db.107.desc=The <33>Atomic Reconstructor<rr> is the cornerstone of <bb>Actually Additions<rr>, using Crystal Flux (which automatically converts 1:1 with RF) to change items into other items.<nl><nl>This machine fires a laser out of the front that reconstructs standard materials into special variants.<nl><nl>The machine itself will give you further instructions on how to configure it.
+nomifactory.quest.db.107.title=原子再構築装置
+nomifactory.quest.db.107.desc=<33>Atomic Reconstructor<rr>は<bb>Actually Additions<rr>の要であり、Crystal Flux(RFと1:1で自動変換)を使ってアイテムを別のアイテムに変化させます。<nl><nl>前面からレーザーを照射し、標準的な素材を特殊なものに再構成する装置です。<nl><nl>設定方法については、マシン本体から指示が出るのでそちらを確認してください。
 
 # db 108
 nomifactory.quest.db.108.title=Interface Terminal
@@ -475,8 +475,8 @@ nomifactory.quest.db.111.title=Crafting Terminal
 nomifactory.quest.db.111.desc=Crafting in a digital grid is heaven after using primitive wooden tables for so long.<nl><nl>It's a micropart, so you need to place it on <66>ME Cable<rr> (not a conduit).
 
 # db 112
-nomifactory.quest.db.112.title=Reconstruction Of Atoms
-nomifactory.quest.db.112.desc=By placing them in the path of an <33>Atomic Reconstructor<rr>'s laser beam, <66>Coal<rr> can be turned into <66>Void Crystals<rr>, and <66>Iron Ingots<rr> into <66>Enori Crystals<rr>.<nl><nl>Keep in mind you can efficiently do this with blocks, splitting them into nine base items as usual.
+nomifactory.quest.db.112.title=原子の再構成
+nomifactory.quest.db.112.desc=また、<33>Atomic Reconstructor<rr>のレーザービームに当てることで、<66>Coal<rr>を<66>Void Crystal<rr>に、<66>Iron Ingot<rr>を<66>Enori Crystal<rr>に変化させることができます。<nl><nl>ブロックの場合、通常通り9つの基本アイテムに分割することで効率的に行えますので、覚えておいてください。
 
 # db 113
 nomifactory.quest.db.113.title=Resonator
@@ -2329,8 +2329,8 @@ nomifactory.quest.db.746.title=Compactor
 nomifactory.quest.db.746.desc=A very power-efficient, if slow before upgrades, means of creating plates. Also the only way to directly make plates from single gems.<nl><nl>Upgrading the machine tier with <aa>Upgrade Kits<rr> and applying <aa>Augments<rr> to boost its crafting speed is a good idea.<nl><nl>Plates and Platings that are gated specifically by later <bb>GregTech<rr> voltage tiers are not craftable in these (instead requiring a <33>Compressor<rr>), but almost every single-ingredient recipe made in a Compressor is available.
 
 # db 747
-nomifactory.quest.db.747.title=Dark Steel Enchanter
-nomifactory.quest.db.747.desc=Vanilla enchanting mechanics are just so tedious. Don't you wish you could just make a specific enchant instead of grinding levels and rolling the dice?<nl><nl><ee>Oh wait- you can!<rr><nl><nl>The <33>Dark Steel Enchanter<rr> is a device that uses <66>Book and Quill<rr>, experience levels, lapis, and enchant-specific items to create an <66>Enchanted Book<rr> with an enchantment of your choosing. Then you can just use an Anvil to enchant your item like usual.<nl><nl>This is a good time to bring up the <dd>Holding<rr> enchant, which can be applied to most items from <bb>Thermal Foundation<rr> and its related mods. Holding can be crafted up to level IV, which massively boosts the storage capacity of items like <aa>Satchels<rr>, <aa>Flux Capacitors<rr>, and <aa>Portable Tanks<rr>.<nl><nl>You can also make the <dd>Mending<rr> enchant which allows you to infinitely repair the item when damaged using <99>Liquid XP<rr> in an <bb>EnderIO <aa>Fluid Tank<rr> or <aa>Pressurized Fluid Tank<rr>.<nl><nl>
+nomifactory.quest.db.747.title=ダークスチールエンチャンター
+nomifactory.quest.db.747.desc=バニラのエンチャントはとにかく面倒くさいです。運任せに経験値を消費する代わりに、特定のエンチャントを作れればいいと思いませんか？<nl><nl><ee>なんと、できます！<rr><nl><nl><33>Dark Steel Enchanter<rr>は<66>Book and Quill<rr>、経験値、Lapis Lazuli、エンチャント専用アイテムを使って、好きなエンチャントをかけた<66>Enchanted Book<rr>を作る装置です。あとは、通常通り鉄床でエンチャントすればOKです。<nl><nl>これは<dd>Holding<rr>エンチャントを持ち出す良い機会で、<bb>Thermal Foundation<rr>とその関連MODのほとんどのアイテムに適用することが可能です。HoldingはレベルIVまで存在し、<aa>Satchel<rr>、<aa>Flux Capacitor<rr>、<aa>Partable Tank<rr>などの収納力が大幅にアップします。<nl><nl>また、<bb>EnderIO<rr>の<aa>Fluid Tank<rr>や<aa>Pressurized Fluid Tank<rr>に溜めた<99>Liquid XP<rr>を使って破損したアイテムを修理できる<dd>Mending<rr>エンチャントを作ることもできます。<nl><nl>
 
 # db 748
 nomifactory.quest.db.748.title=Gearworking Die
