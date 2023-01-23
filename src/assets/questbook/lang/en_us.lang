@@ -2253,16 +2253,16 @@ nomifactory.quest.db.688.title=ヘリッシュマター
 nomifactory.quest.db.688.desc=<66>Hellish Matter<rr>は<66>Overworldian Matter<rr>と<66>Netherrack<rr>があればクラフトすることができます。<nl><nl>Netherrackは<66>Dust Block<rr>と<cc>Lava<rr>を<33>Chemical Reactor<rr>で合成することで入手できます。
 
 # db 689
-nomifactory.quest.db.689.title=Hellish Mobs
-nomifactory.quest.db.689.desc=Just as with Overworldian mob data, there's no huge rush or need to focus on these. Just run them while you work on other projects.
+nomifactory.quest.db.689.title=ヘリッシュ系Mob
+nomifactory.quest.db.689.desc=オーバーワールドのモブデータと同じで、特に急ぐ必要はないでしょう。他のプロジェクトに取り組んでいる間に実行すればよいです。
 
 # db 690
-nomifactory.quest.db.690.title=Extraterrestrial Matter
-nomifactory.quest.db.690.desc=<66>Hellish Matter<rr> and <66>Ender Pearl<rr> can be crafted into Extraterrestrial Matter.
+nomifactory.quest.db.690.title=地球外マター
+nomifactory.quest.db.690.desc=<66>Hellish Matter<rr>と<66>Ender Pearl<rr>を合わせるとExtraterrestrial Matterとしてクラフトすることができます。
 
 # db 691
-nomifactory.quest.db.691.title=Extraterrestrial Mobs
-nomifactory.quest.db.691.desc=Some of these simulations will start to consume tremendous amounts of power at this point, so if you're finding it a struggle, don't be afraid to hold off on progressing through these data models until a later time.
+nomifactory.quest.db.691.title=地球外系Mob
+nomifactory.quest.db.691.desc=この時点で膨大な電力を消費し始めるシミュレーションもあるので、もし苦労しているようなら、このデータモデルを進めるのを後回しにすることもできます。
 
 # db 692
 nomifactory.quest.db.692.title=たくさんのレンチ
@@ -2289,8 +2289,8 @@ nomifactory.quest.db.727.title=副産物のための鉱石処理
 nomifactory.quest.db.727.desc=modpackを始めた当初、鉱石倍増は待ってくれと言いました。しかし、<ee>副産物<rr>を得るためにも、初歩的な鉱石加工を始める必要があります。<nl><nl>副産物とは、鉱石を特定の機械で処理することでしか得られない付加的な素材のことです。例えば、「Gallium Ore」は存在しません。 他の鉱石を処理する際に副産物として<66>Gallium<rr>を得ることができます。<nl><nl>鉱石にはさまざまな加工方法があり、最終的には機械のパイプラインを使って特定の方法で鉱石を加工し、得られる副産物を最適化することになります。<bb><bb><66>Ore Byproduct Page<66><rr>は、<bb>JEI<rr>の鉱石上でUボタンを押し、Ore Byproduct Listタブに移動することで見ることができ、目的の副産物を得るために必要なルートを確認することができます。副産物のツールチップには、その副産物を得るために必要な処理方法が明記されています。<nl><nl>該当するマシンは以下の通りです。<nl> <nl>- <33>Macerator<rr>: Oreを<66>Crushed Ore<rr>に、Crushed Oreを<66>Impure Dust<rr>に、<66>Purified Crushed Ore<rr>を<66>Pure Dust<rr>に変換することができます。高いTierのMaceratorは副産物スロットを持ち、鉱石と破砕した両方のタイプの鉱石から副産物を得られる可能性があります。<nl><nl>- <33>Washer<rr>: Crushed Oreを<99>Water<rr>で浄化しPurified Crushed Ore<rr>を作り、副産物として3つのtiny pileを得られます。<99>Distilled Water<rr>を使用すると、より高速に動作します。これは、dustをCauldronに投下する方法を改良したものです。<nl><nl>- <33>Chemical Bath<rr>: Washerと似ていますが、Crushed Oreを薬品で浄化するものです。多くの場合、Washerとは異なる副産物が得られます。<nl><nl>- <33><33>Centrifuge<rr>: Pure dustとImpure dustを分離し、副産物として3つのtiny pileを生成します。<nl><nl>- <33>Electrolyzer<rr>: 電力を使って化合物を個々の元素に分解し、その過程で有用な副産物を得ることがあります。<nl><nl><33>Thermal Centrifuge<rr>は通常のCentrifugeとは異なり、鉱石の代替処理に使用できますが、<ee>恐ろしく遅く、多くの電力を消費する<rr>という欠点があります。この機械にLVのものは存在せず、主な用途は<bb>NuclearCraft<rr>の核分裂燃料になります。<nl><nl>あなたが最初に作る副産物のための鉱石加工用マシンは、電解槽と遠心分離機です。<nl>
 
 # db 728
-nomifactory.quest.db.728.title=Resonant Clathrate
-nomifactory.quest.db.728.desc=<66>Uraninite Ore<rr> is the first source of <66>Pulsating Dust<rr> but is not a very good one in the long term. Instead you should make <66>Resonant Clathrates<rr>, which are an infinitely-renewable and effective source of Pulsating Dust.<nl><nl>Resonant Clathrates are made by melting <66>Ender Pearls<rr> with a <33>Fluid Extractor<rr> into <99>Resonant Ender<rr>, then mixing that with <66>Nether Quartz<rr> in an MV or better <33>Chemical Reactor<rr>. Smelting this clathrate gives Pulsating Dust.<nl><nl>With Resonant Clathrates now accessible, everything you need for crafting <66>Pulsating Polymer Clay<rr> can be automated in a net-positive loop.<rr> Doing so is a boon to automation of <bb>Deep Mob Learning<rr>, which is <ee>a primary source of important materials for the rest of the pack<rr>.<nl><nl>The exact implementation is up to you. Make use of the various LV and MV machines you have, and look through <bb>JEI<rr> for the automatable infinite sources of each ingredient (like <aa>Enderman Models<rr> for pearls).<nl><nl>
+nomifactory.quest.db.728.title=共振型クラスレート
+nomifactory.quest.db.728.desc=<66>Uraninite Ore<rr>は<66>Pulsating Dust<rr>の最初の供給源ですが、長期的に見るとあまり良いものではありません。その代わり、<66>Resonant Clathrate<rr>を作れば、無限に再生可能で効果的なPulsating Dustの供給源になります。<nl><nl>Resonant Clathrateは、<33>Fluid Extractor<rr>で<66>Ender Pear<rr>を溶かして<99>Resonant Ender<rr>を作り、MV以上の<33>Chemical Reactor<rr>で<66>Nether Quartz<rr>と混ぜることで作成できます。さらにこのクラスレートを精錬するとPulsating Dustが作成できます。<nl><nl>Resonant Clathrateにアクセスできるようになったことで、<66>Pulsating Polymer Clay<rr>のクラフトに必要なすべてが純増ループで自動化できるようになりました。<rr>そうすることで、<bb>Deep Mob Learning<rr>の自動化に貢献し、<ee>他のさまざまな重要な材料<rr>の主要な供給源となります。<nl><nl>具体的な実装はあなた次第です。手持ちのLVマシンやMVマシンを駆使し、<bb>JEI<rr>で各素材の自動無限供給源を探しましょう(Ender Pearlは<aa>Enderman Model<rr>から入手できる、とか)。<nl><nl>
 
 # db 729
 nomifactory.quest.db.729.title=Fluid Interface
@@ -2461,8 +2461,8 @@ nomifactory.quest.db.779.title=無限の丸石
 nomifactory.quest.db.779.desc=<66>Steel<rr> を手に入れたら、次はInfinite Cobblestoneを手に入れる番だ！<66>Cobblestone Generator<rr>は隣接するインベントリに絶えず石を出力し、アップグレードすることでさらに速く生産できます。<nl><nl>丸石は多くの有用な材料に加工できます。<nl><nl><66>Gravel<rr>は導管や <99>Concrete<rr>を作るのに便利です。<nl><nl><66>砂<rr>は<66>Glass<rr>に、そして<66>Nether Quartz<rr>に加工するのに便利です。<nl><nl>最後に、<66>Dust<rr>は<66>Clay<rr>に変換できます。これは<66>Aluminium<rr>の信頼できるソースであり、<bb>Deep Mob Learning<rr>の自動化に非常に重要です。<nl><nl>すぐに <ee>Cobbleworks<rr>をセットして、これらの有用な材料を備蓄することができるようにしましょう。
 
 # db 780
-nomifactory.quest.db.780.title=To the Nether
-nomifactory.quest.db.780.desc=Once you have obtained your<ee> <rr>fi<rr>rst <rr>piece of <66>Hellish Matter<66><rr>, travel to the <rr><ee>Nether<rr> becomes available.<nl><nl>It is not required to travel to the nether for any reason in this pack, although you may find it an easy source of <66>Glowstone<rr>, <66>Soul Sand<rr>, and your initial pieces of <66>Sulfur<rr> before you make a <ee>Blaze Model<rr> from <cc><bb>Deep Mob Learning<rr>.
+nomifactory.quest.db.780.title=ネザーへ
+nomifactory.quest.db.780.desc=最初の<rr>Hellish Matter<66>のかけらを手に入れると<ee>Nether<rr>への移動が可能になります。<nl><nl>このmodpackでは必ずしもネザーに行く必要はないですが、<bb>Deep Mob Learning<rr>で<ee>Blaze Model<rr>を作る前に<66>Glowstone<rr>、<66>Soul Sand<rr>、<66>Sulfur<rr>を(少量ですが)簡単に入手できることができます。
 
 # db 781
 nomifactory.quest.db.781.title=Numismatic Power
