@@ -940,8 +940,8 @@ nomifactory.quest.db.236.title=Transistor
 nomifactory.quest.db.236.desc=<66>Transistors<rr> are semiconductors that can amplify or switch electrical signals and power. They're probably one of the most important inventions of the 20th century.<nl><nl>You're going to use them as a component for better circuits. This one is a bit pricey, requiring <66>Aluminium Foil<rr> and <66>Fine Silver Wire<rr>.
 
 # db 237
-nomifactory.quest.db.237.title=Meteorite Hunter
-nomifactory.quest.db.237.desc=<bb>Applied Energistics<rr> uses <aa>Presses<rr> found in chests at the heart of meteors as templates for <33>Inscribers<rr> to make <66>inscribed circuits<rr>.<nl><nl>This compass will lead you to the nearest meteor impact. Use your favorite mining tools to smash through the <66>Skystone<rr> shell and get to the juicy center where the <66>Skystone Chest<rr> with the plate is found.<nl><nl>Please note that while they're often in a big crater, the meteors might be buried underground; when the compass is spinning wildly, you're right on top of one.
+nomifactory.quest.db.237.title=メテオライトハンター
+nomifactory.quest.db.237.desc=<bb>Applied Energistics<rr>は、流星の中心部にあるチェストで見つけられる<aa>Press<rr>をテンプレートとして使用し、<33>Inscriber<rr>で<66>Inscribed circuit<rr>を作ることから初めます。<nl><nl>このコンパスは、最も近いメテオインパクトにあなたを導くでしょう。お気に入りの採掘道具で<66>Skystone<rr>の殻を突き破り、各種Plateの入った<66>Skystone Chest<rr>がある中央部にたどり着きましょう。<nl><nl>注意点として、大きなクレーターの中にあることが多いですが、地下に埋もれていることもあります。コンパスが激しく回っているときはまさに流星の上にいるときなので、注視しましょう。
 
 # db 238
 nomifactory.quest.db.238.title=Tier Eight Micro Miner
