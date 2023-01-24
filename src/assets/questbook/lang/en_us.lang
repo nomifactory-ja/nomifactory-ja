@@ -324,7 +324,7 @@ nomifactory.quest.db.72.desc=<33>Assembling Machine<rr>は工場の要であり�
 
 # db 73
 nomifactory.quest.db.73.title=MEコンジット
-nomifactory.quest.db.73.desc=<66>ME Conduit<rr>は、他のConduitタイプとブロックスペースを共有できるという利点があります。それと、比較的安価に作ることができます。<nl><nl>ただ、slab-form <66>Interface<rr>や<66>Level Emitter<rr>などの<bb>Applied Energistics<rr> microparts<rr>には接続できないので、それらには<66>Fluix Cable<rr>などのAE用ケーブルを使用しなければならないのが難点です。
+nomifactory.quest.db.73.desc=<66>ME Conduit<rr>は、他のConduitタイプとブロックスペースを共有できるという利点があります。それと、比較的安価に作ることができます。<nl><nl>ただ、slab-form <66>Interface<rr>や<66>Level Emitter<rr>などの<bb>Applied Energistics<rr> <ee>microparts<rr><ee>には接続できない<rr>ので、それらには<66>Fluix Cable<rr>などのAE用ケーブルを使用しなければならないのが難点です。
 
 # db 74
 nomifactory.quest.db.74.title=アルミニウムケース
@@ -2478,7 +2478,7 @@ nomifactory.quest.db.783.desc=⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀�
 
 # db 784
 nomifactory.quest.db.784.title=MEケーブル
-nomifactory.quest.db.784.desc=ME Cableは<33>Applied Energistics<rr>がネットワーク接続のために使用する基本的なケーブルです。このmodpackではチャンネル機能が無効化されているため、密なケーブルではなく、これらのケーブルがネットワーク接続の主な輸送方法となります。<nl><nl>これらのケーブルは他のMODの導管やケーブルとブロックスペースを共有しないため、構築はやや面倒ですが、<33>Applied Energistics<rr> <66>Facade<rr>を受け入れるため、非常に簡単に隠すことができます。<nl><nl>後に、<33>Ender IO<rr>の導管とブロックスペースを共有できるケーブルの亜種を作ることができるようになります。
+nomifactory.quest.db.784.desc=ME Cableは<33>Applied Energistics<rr>がネットワーク接続のために使用する基本的なケーブルです。このmodpackではチャンネル機能が無効化されているため、Dense Cableではなく、これらのケーブルがネットワーク接続の主な輸送方法となります。<nl><nl>これらのケーブルは他のMODの導管やケーブルとブロックスペースを共有しないため、構築はやや面倒ですが、<33>Applied Energistics<rr> <66>Facade<rr>を受け入れるため、非常に簡単に隠すことができます。<nl><nl>後に、<33>Ender IO<rr>の導管とブロックスペースを共有できるケーブルの亜種を作ることができるようになります。
 
 # db 785
 nomifactory.quest.db.785.title=New Cable Coverings
