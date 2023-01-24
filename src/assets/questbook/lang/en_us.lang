@@ -2350,7 +2350,7 @@ nomifactory.quest.db.751.desc=<33>Aqueous Accumulators<rr> in <55>Nomifactory<rr
 
 # db 752
 nomifactory.quest.db.752.title=ボイラーとタービン
-nomifactory.quest.db.752.desc=素の<33>Steam Dynamo<ff>を使うのはかなり非効率です。<nl><nl>augment<rr>を作ることを強く推奨します。これを使うと、1台のSteam Dynamoを<33>Steam Boiler<ff>に、他の2台のSteam Dynamoを<33>Steam Turbine<ff>にすることができます。すべてのダイナモを同じようにアップグレードした場合、その比率は常に<aa>1:2<rr>となります。<nl><nl>これにより、基本的なsteam dynamo1基あたり<aa>40RF/t<rr>から、adugmented dynamo3基セットあたり<aa>320RF/t<r>と、全体的に効率と発電量が大幅に向上します。
+nomifactory.quest.db.752.desc=素の<33>Steam Dynamo<ff>を使うのはかなり非効率です。<nl><nl>augment<rr>を作ることを強く推奨します。これを使うと、1台のSteam Dynamoを<33>Steam Boiler<ff>に、他の2台のSteam Dynamoを<33>Steam Turbine<ff>にすることができます。すべてのダイナモを同じようにアップグレードした場合、その比率は常に<aa>1:2<rr>となります。<nl><nl>これにより、基本的なsteam dynamo1基あたり<aa>40RF/t<rr>から、adugmented dynamo3基セットあたり<aa>320RF/t<rr>と、全体的に効率と発電量が大幅に向上します。
 
 # db 753
 nomifactory.quest.db.753.title=Resonant Satchel
