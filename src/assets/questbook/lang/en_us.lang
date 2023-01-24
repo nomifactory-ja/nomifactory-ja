@@ -364,7 +364,7 @@ nomifactory.quest.db.82.desc=<99>Phenol<rr>は<33>Pyrolyse Oven<rr>で<66>Coal C
 
 # db 83
 nomifactory.quest.db.83.title=MV 精密レーザー彫刻機
-nomifactory.quest.db.83.desc=<33>Precision Laser Engraver<rr>は、<66>Wafer<rr>に回路を彫刻するために使用されます。<nl><nl>回路の種類は、使用するWaferの種類や、どの<a>Lens<rr>が搭載されているかによって異なります。
+nomifactory.quest.db.83.desc=<33>Precision Laser Engraver<rr>は、<66>Wafer<rr>に回路を彫刻するために使用されます。<nl><nl>回路の種類は、使用するWaferの種類や、どの<aa>Lens<rr>が搭載されているかによって異なります。
 
 # db 84
 nomifactory.quest.db.84.title=回路ウェハー
@@ -380,7 +380,7 @@ nomifactory.quest.db.87.desc=3つの<66>Electronic Circuit<rr>とさまざまな
 
 # db 88
 nomifactory.quest.db.88.title=レンズ
-nomifactory.quest.db.88.desc=<33>Precision Laser Engraver<rr>で使用する<a>Lens<rr>は、すべて<33>Autoclave<rr>で作成されたものが必要になります。<nl><nl>最初は<aa>Red Lens<rr>、<aa>Diamond Lens<rr>、<aa>Glass Lens<rr>が必要です。<nl><nl>Red Lensは<66>Ruby<rr>、またはAlmandine、Red Garnet、Jasper、Rutileから作ることができます。<nl><nl>残りの2つのLensは自明でしょう。<nl><nl>
+nomifactory.quest.db.88.desc=<33>Precision Laser Engraver<rr>で使用する<aa>Lens<rr>は、すべて<33>Autoclave<rr>で作成されたものが必要になります。<nl><nl>最初は<aa>Red Lens<rr>、<aa>Diamond Lens<rr>、<aa>Glass Lens<rr>が必要です。<nl><nl>Red Lensは<66>Ruby<rr>、またはAlmandine、Red Garnet、Jasper、Rutileから作ることができます。<nl><nl>残りの2つのLensは自明でしょう。<nl><nl>
 
 # db 89
 nomifactory.quest.db.89.title=1つ目のTier 3の回路
@@ -2350,7 +2350,7 @@ nomifactory.quest.db.751.desc=<33>Aqueous Accumulators<rr> in <55>Nomifactory<rr
 
 # db 752
 nomifactory.quest.db.752.title=ボイラーとタービン
-nomifactory.quest.db.752.desc=素の<33>Steam Dynamo<ff>を使うのはかなり非効率です。<nl><nl>augment<rr>を作ることを強く推奨します。これを使うと、1台のSteam Dynamoを<33>Steam Boiler<ff>に、他の2台のSteam Dynamoを<33>Steam Turbine<ff>にすることができます。すべてのダイナモを同じようにアップグレードした場合、その比率は常に<aa>1:2<rr>となります。<nl><nl>これにより、基本的なsteam dynamo1基あたり<aa>40RF/t<rr>から、adugmented dynamo3基セットあたり<a>320RF/t<r>と、全体的に効率と発電量が大幅に向上します。
+nomifactory.quest.db.752.desc=素の<33>Steam Dynamo<ff>を使うのはかなり非効率です。<nl><nl>augment<rr>を作ることを強く推奨します。これを使うと、1台のSteam Dynamoを<33>Steam Boiler<ff>に、他の2台のSteam Dynamoを<33>Steam Turbine<ff>にすることができます。すべてのダイナモを同じようにアップグレードした場合、その比率は常に<aa>1:2<rr>となります。<nl><nl>これにより、基本的なsteam dynamo1基あたり<aa>40RF/t<rr>から、adugmented dynamo3基セットあたり<aa>320RF/t<r>と、全体的に効率と発電量が大幅に向上します。
 
 # db 753
 nomifactory.quest.db.753.title=Resonant Satchel
