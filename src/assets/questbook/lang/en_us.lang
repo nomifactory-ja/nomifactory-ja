@@ -1360,8 +1360,8 @@ nomifactory.quest.db.351.title=The Ultimate Material
 nomifactory.quest.db.351.desc=You don't need it just yet, but you can make it now.<nl><nl>This is a critical material for the Endgame.
 
 # db 352
-nomifactory.quest.db.352.title=LV Fluid Solidifier
-nomifactory.quest.db.352.desc=If you don't want to mine Obsidian by hand, consider using a Fluid Solidifier to turn <cc>Lava<rr> into <66>Obsidian Blocks<rr> for you. The process is slow and energy intensive, though.<nl><nl><33>Fluid Solidifiers<rr> are useful for lots of other things too, of course. Look through the various molds to see what you can make with one.
+nomifactory.quest.db.352.title=LV 液体固形化装置
+nomifactory.quest.db.352.desc=Obsidianを手で採掘したくないなら、Fluid Solidifierを使って<cc>溶岩<rr>を<66>Obsidian Block<rr>に変換することを検討してみてください。しかし、このプロセスは時間がかかり、エネルギーを消費します。しかし、このプロセスは時間がかかり、エネルギーを消費します。<nl><nl><33>Fluid Solidifier<rr>はもちろん他にもいろいろなことに使えますよ。いろいろなmoldを見て、どんなものが作れるか見てみてください。
 
 # db 353
 nomifactory.quest.db.353.title=グライダー
@@ -1544,8 +1544,8 @@ nomifactory.quest.db.412.title=Lunar Mining Station
 nomifactory.quest.db.412.desc=The <33>Lunar Mining Station<rr> is a large multiblock structure used for mining gases from the moon. It is an excellent (though not the only) source of <99>Deuterium<rr> or <99>Helium-3<rr>, depending on what kind of <66>Rover<rr> you use. <nl><nl>Rovers only have a 10%% chance to break while mining, so a stack of them will last quite a while.<nl><nl>While both available recipes require <ee>MV power<rr>, you can overclock it with higher tiers of power. The positions of hatches and buses can be swapped with any <66>LuV Machine Casing<rr>.<nl><nl><66>Sneak-right click<rr> the controller to enable the in-world preview.<nl><nl>Because this structure must be placed on the Moon, it is a good idea to use mechanisms like <aa>Ender Tanks<rr> or a <66>Quantum Link Chamber<rr> for teleporting the fluids back to your base.<nl><nl>Make sure to keep it chunk-loaded!<nl>
 
 # db 413
-nomifactory.quest.db.413.title=LV Fluid Extractor
-nomifactory.quest.db.413.desc=<33>Fluid Extractors<rr> are useful for melting things into liquids. For example, you can melt down ingots into molten metals, or <66>Rubber Sheets<rr> into liquid <99>Rubber<rr>.<nl><nl>When you have access to <66>Steel<rr>, you can make molds and use <33>Fluid Solidifiers<rr> to form various components more efficiently from fluids, like <66>Gears<rr>.<nl><nl>This quest will take the LV, MV, or HV version of the <33>Fluid Extractor<rr>.
+nomifactory.quest.db.413.title=LV 液体抽出装置
+nomifactory.quest.db.413.desc=<33>Fluid Extractor<rr>は、物を溶かして液体にするのに便利なツールです。例えば、インゴットを溶かして溶けた金属にしたり、<66>ラバーシート<rr>を液体<99>ラバー<rr>にしたりすることができます。moldを作ったり、<33>Fluid Solidifier<rr>を使って液体から<66>Gear<rr>などの様々な部品をより効率的に形成することができます。<nl><nl>このクエストでは<33>Fluid Extractor<rr>のLVまたはMVまたはHVバージョンいずれかを使用します。
 
 # db 415
 nomifactory.quest.db.415.title=磁性体
@@ -1749,8 +1749,8 @@ nomifactory.quest.db.540.title=MV 押出機
 nomifactory.quest.db.540.desc=<33>Extruder<rr> は、金属から形状を形成するための代替手段です。<aa>Extruder Shape<rr>は、Extruderにどのような形状を作るかを指示するために使用します。<nl><nl><66>Large Pipe<rr>のように、Extruderが特定のものを作るための唯一の方法となる場合もあります。これまで<66>Gear<rr>を作る際、最も素材を節約できる手段としてIngotをFluid Extractorで液体にしてからFluid Solidifierで凝固させていたかもしれませんが、Extruderではそれと同等のコストを維持したままIngotから直接製造することができます。<nl><nl>Extruderは、plateやwireなど他のマシンから作るようなパーツを作ることもできますが、専用機よりは効率が悪いです。
 
 # db 541
-nomifactory.quest.db.541.title=More Blast Furnaces
-nomifactory.quest.db.541.desc=Overclocking aside, as you continue to progress in <55>Nomifactory<ff>, materials made in the <33>Electric Blast Furnace<ff> will take longer to complete. <ee>More advanced coils do not give speed bonuses<ff>, only allowing for the furnace to <ee>get hot enough to process more advanced materials<ff>.<nl><nl>Consequently, you'll need to continually expand your smelting and power generation infrastructure.<nl><nl>You don't have to get all four of these Electric Blast Furnaces completed and running just yet, but be prepared to make many of them over the course of the pack.
+nomifactory.quest.db.541.title=より多くの高炉を
+nomifactory.quest.db.541.desc=オーバークロックはともかく、<55>Nomifactory<ff>を進めていくと、<33>Electric Blast Furnace<ff>で作った素材は完成までに時間がかかるようになります。<ee>高いTierのコイルを使えば速くなるというわけではなく<ff>、より高度な素材を処理するために高炉を<ee>十分に熱くすること<ff>だけを可能にします。<nl><nl>そのため、製錬と発電のインフラを継続的に拡張する必要があります。<nl><nl>Electric Blast Furnaceは、今すぐ4つ完成させて稼働させる必要はありませんが、modpackを進めていく間にたくさん作ることになります。覚悟をしておいてください。
 
 # db 542
 nomifactory.quest.db.542.title=Soul Binder
@@ -1777,8 +1777,8 @@ nomifactory.quest.db.547.title=スキャナーモジュール: ブロック
 nomifactory.quest.db.547.desc=不足している特定の鉱石を見つけるには、モジュールを手に持って探したい鉱石を<66>スニーク+右クリック<ff>し、<aa>Scanner<ff>を<66>スニーク+右クリック<ff>してModuleを中に入れ、スキャンしながら歩き回ります。<nl><nl>すべての鉱石を検出するモジュールを使用した場合よりも範囲がかなり長く、<66>エンダーパール<ff>があれば2つ目の<66>範囲モジュール<ff>を作る余裕さえあります。<nl><nl>これを<dd>Nomicoin<ff>で買った鉱石と組み合わせると、「サンプル」として機能し、Block Moduleで簡単に素晴らしい鉱脈を見つけることができます。
 
 # db 548
-nomifactory.quest.db.548.title=Molds
-nomifactory.quest.db.548.desc=<aa>Molds<rr> are used in a <33>Fluid Solidifier<rr> or <33>Alloy Smelter<rr> to form materials into specific shapes. These are not consumed or damaged during crafting, so you can leave them in a machine to dedicate it to that shape.<nl><nl>The Fluid Solidifier tends to be the more efficient option: for example, you can use <ee>8 ingots<rr> to make one <66>Gear<rr> in an Alloy Smelter, but with a Fluid Extractor and Solidifier you can accomplish the same result with <ee>4 ingots<rr>.<nl><nl>Be careful not to accidentally make <aa>Extruder Shapes<rr>. Those are for a machine you will get access to later. The three molds in this quest are ones you will find useful right away.
+nomifactory.quest.db.548.title=型
+nomifactory.quest.db.548.desc=<aa>Mold<rr>は、<33>Fluid Solidifier<rr>や<33>Alloy Smelter<rr>で素材を特定の形状に形成するために使用されます。これらはクラフト中に消費されたり破損したりしないので、マシンに入れっぱなしにしてその形状専用にすることができます。<nl><nl>Fluid Solidifierはさらに効率的なオプションです。例えば、Alloy Smelterで1つの<66>Gear<rr>を作るのに <ee>8つのインゴット<rr>を使用することになりますが、Fluid ExtractorとSolidifierでは<ee>4つのインゴット<rr>で作成できます。<nl><nl>誤って<aa>Extruder Shape<rr>を作らないように注意する必要があります。これらは、後で入手できるマシンのためのものです。このクエストに登場する3つの型は、すぐにでも使えるものばかりです。
 
 # db 549
 nomifactory.quest.db.549.title=Oil Drilling Rig
