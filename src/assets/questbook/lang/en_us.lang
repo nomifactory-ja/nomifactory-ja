@@ -403,8 +403,8 @@ nomifactory.quest.db.93.title=HV Machine Hulls
 nomifactory.quest.db.93.desc=With <66>HV Machine Hulls<rr> made, you've made your first step towards <ee>High Voltage (HV)<rr> power machinery!<nl><nl>While you can make these in a crafting table with <66>Polyethylene Sheets<rr>, liquid <99>Polyethylene<rr> can be used to craft these directly in an <33>Assembling Machine<rr>.
 
 # db 94
-nomifactory.quest.db.94.title=Sulfuric Acid
-nomifactory.quest.db.94.desc=<99>Sulfuric Acid<rr> is produced from <66>Sulfur<rr> and <99>Water<rr>, albeit very slowly. You'll need huge amounts of this for a whole range of chemical reactions, as it is a very common ingredient.<nl><nl>If you have excess <99>Oxygen<rr>, you could instead look into making <99>Sulfuric Acid<rr> with <99>Sulfur Trioxide<rr>, as it is much quicker.<nl><nl>Sulfur can be electrolyzed from many things, but is also easily available via <bb>Deep Mob Learning<rr>'s <aa>Blaze Model<rr>.
+nomifactory.quest.db.94.title=硫酸
+nomifactory.quest.db.94.desc=<99>Sulfuric Acid<rr>は<66>Sulfur<rr>と<99>Water<rr>から非常にゆっくりと生成されます。これは非常にありふれた成分なので、あらゆる化学反応に大量に必要になります。<nl><nl>もし<99>Oxygen<rr>が余っていれば、代わりに<99>Sulfur Trioxide<rr>でより早く<99>Sulfuric Acid<rr>を作成できます。<nl><nl>Sulforはいろいろなものから電気分解できますが、<bb>Deep Mob Learning<rr>の<aa>Blaze Model<rr>からの入手も簡単でおすすめです。
 
 # db 95
 nomifactory.quest.db.95.title=Ethylene and Polyethylene
@@ -419,8 +419,8 @@ nomifactory.quest.db.97.title=Keeping Stuff In Stock
 nomifactory.quest.db.97.desc=If you didn't know, you can have stacks of items stored inside of an <aa>ME Interface<rr>. Placing a <aa>Storage Bus<rr> onto the ME Interface lets you access and use those items in recipes. Putting a <aa>Crafting Card<rr> inside the Interface will let the Interface automatically place autocraft orders for items it should stock but you don't have.<nl><nl>This approach can be used for autocrafting to some extent, but proceed with caution as crafting cards can produce a great deal of lag on larger ME Networks. AE calculates the full crafting tree of these items every time a request is made, even if you have enough items already in stock.<nl><nl>Thus, it is strongly recommended to limit Crafting Cards to simple recipes (ones without many dependent recipes) and ideally on smaller purpose-built networks. <nl><nl>Prefer passive autocrafting methods on your main network, or if things are gonna get complicated.
 
 # db 98
-nomifactory.quest.db.98.title=Stainless Steel
-nomifactory.quest.db.98.desc=<66>Stainless Steel<rr> will be your primary material for HV, in the same way that <66>Aluminium<rr> was for MV and <66>Wrought Iron<rr> was for LV.<nl><nl><66>Manganese<rr> comes from electrolyzing <66>Tantalite<rr>, <66>Pyrolusite<rr>, or <66>Spessartine Dusts<rr>. You already have <66>Chrome<rr>.<nl><nl>Mix up a bunch of the dust in a <33>Mixer<rr> and begin processing it through the <33>Electric Blast Furnace<rr>. This may be a good time to reevaluate your power generation and storage infrastructure.
+nomifactory.quest.db.98.title=ステンレススチール
+nomifactory.quest.db.98.desc=MVでは<66>Aluminium<rr>、LVでは<66>Wrought Iron<rr>を使ったことと同様に、HVでは<66>Stainless Steel<rr>が主要素材となります。<nl><nl><66>Manganese<rr>は<66>Tantalite<rr>、<66>Pyrolusite<rr>、<66>Spessaritine<rr>いずれかのDustを電気分解して得られるものです。<66>Chrome<rr>はすでに持っていますね。<nl><nl><33>Mixer<rr>でそれらのDustを混ぜ、<33>Electric Blast Furnace<rr>で精錬します。この機会に、発電や蓄電のインフラを見直すのもいいかもしれませんね。
 
 # db 99
 nomifactory.quest.db.99.title=Synthesizing Your First Omnium
@@ -623,8 +623,8 @@ nomifactory.quest.db.153.title=HV Chemical Reactor
 nomifactory.quest.db.153.desc=You'll need an <33>HV Chemical Reactor<rr> for processing <66>Titanium<rr>.
 
 # db 154
-nomifactory.quest.db.154.title=Distillation Tower
-nomifactory.quest.db.154.desc=With tier three circuits in hand, it's time to make a <33>Distillation Tower<rr>, which is the gatekeeper for more advanced plastics like <66>Epoxy<rr> and doing petrochemistry.<nl><nl>The Distillation Tower is a highly flexible multiblock structure, able to be anywhere from <66>2 blocks high to up to 13 high<rr> (12 fluid outputs). The way that it works is that each level of the tower after the first will output an additional fluid from the recipe. <cc>Any output fluids in excess of available buses are voided<rr>. <nl><nl>What you need the Distillation Tower for initially is to break down <99>Biomass<rr> into <99>Ethanol<rr> and <99>Water<rr>. This recipe only has two outputs, so a <ee>three-block-high Distillation Tower<rr> is just fine (the quest materials are for such a tower; if you want to build it bigger, you will need <ee>an additional 7 casings and 1 fluid output per floor<rr>).<nl><nl>Any recipe with more than two fluids (like <99>Oil<rr>) will need a larger tower. Make sure to increase the height of your tower to accommodate all of the outputs you want to keep. Also check the voltage requirements of the recipes, as many Distillation Tower recipes need higher voltages than MV. <ee>You can swap out your Energy Input for a higher tier one when that time comes<rr>.<nl><nl>The tower we'll be building at first is 3x3x3, with a hollow center. <66>Fluid Input Hatch<rr> <ee>must go in the very center of the bottom 3x3 layer<rr>. The <66>controller<rr> goes in the middle of an outer edge of the bottom layer. The <66>Output Bus<rr> and an <66>Energy Input Hatch<rr> can go wherever you can fit them on the bottom layer. The rest of the 3x3 must be filled with <66>Clean Stainless Steel Casings<rr>. Each level above that is a ring of 7 Clean Stainless Steel Casings, one <66>Fluid Output<rr> and nothing in the center, except for the topmost layer which needs an eighth casing to fill in the center, capping off the top.
+nomifactory.quest.db.154.title=蒸留塔
+nomifactory.quest.db.154.desc=Tier3の回路を手に入れたら、次は<33>Distillation Tower<rr>を作りましょう。これは<66>Epoxy<rr>などのより高度なプラスチックや石油化学を行うためのゲートキーパーとなるものです。<nl><nl>Distillation Towerは、高さ<66>2ブロックから最大<rr>13ブロック（12液出力）まで対応可能な柔軟性の高いマルチブロック構造体です。仕組みとして、1段目以降の塔の各段にレシピで見られる液体が追加で出力されるようになっています。<cc>使用可能な出力先を超える出力液は単に捨てられます<rr>。<nl><nl>Distillation Towerが最初に必要となるのは、<99>Biomass<rr>を<99>Ethanol<rr>と<99>Water<rr>に分解するタイミングです。このレシピの場合、液体の出力は2つしかないので、<ee>3ブロックの高さのDistillation Tower<rr>で十分です（クエストで必要となる素材は今回の出力分を満たす大きさのTowerを作るために必要なものです。）<nl><nl>2つ以上の流体を出力するレシピ（<99>Oil<rr>など）は、より大きなTowerが必要になります。保管したいすべての出力に対応できるよう、タワーの高さを大きくしてください。また、Distillation Towerのレシピの多くはMVよりも高い電圧を必要とするので、レシピの電圧要件を確認してください。<ee>将来のタイミングで、Energy Inputをより高いTierのものに交換することができます<rr>。<nl><nl>最初に作る塔は、3×3×3で、中心が空洞になっています。<66>Fluid Input Hatch<rr>は<ee>最下段の3x3レイヤー<rr>の一番中央に配置する必要があります。<66>Controller<rr>は、最下段の外周の真ん中に配置します。<66>Output Bus<rr>と<66>Energy Input Hatch<rr>は、最下段のどこにでも装着可能です。3×3の残りの部分には、<66>Clean Stainless Steel Casing<rr>で埋める必要があります。その上の各層は、7つのClean Stainless Steel Casingのリングで、1つは<66>Fluid Output<rr>、中央には何もなく、最上段のCasingは中央を埋めるために8つのCasingを必要とし、上部を塞ぐ必要があります。
 
 # db 155
 nomifactory.quest.db.155.title=The Fourth and Final Tier Five Circuits
@@ -1620,12 +1620,12 @@ nomifactory.quest.db.503.title=Dark Soularium Ingots
 nomifactory.quest.db.503.desc= 
 
 # db 504
-nomifactory.quest.db.504.title=Brewery
-nomifactory.quest.db.504.desc=Note: this quest accepts both LV and MV Brewery.<nl><nl>You can turn <66>Plant Balls<rr> and other various <66>sugary crops<rr> into <99>Biomass<rr> with a <33>Brewery<rr>. Biomass is the first step towards making Plastic in the form of <99>Polyethylene<rr>.<nl><nl>The Brewery is a very very slow machine, but it requires almost no power. Building higher tier Breweries, or many LV ones, is necessary to brew enough Biomass for plastics.
+nomifactory.quest.db.504.title=醸造所
+nomifactory.quest.db.504.desc=注：このクエストでは、LVおよびMVいずれかのBreweryを受け付けます。<nl><nl><66>Plant Ball<rr>や様々な<66>砂糖系の農作物<rr>は<33>Brewery<rr>で<99>Biomass<rr>にすることができます。Biomassは、<99>Polyethylene<rr>というプラスチックを作るための最初のステップなのです。<nl><nl>Breweryはとてもとても遅いマシンですが、ほとんど電力を必要としません。プラスチックに必要なBiomassを生産するためには、より高いレベルのBrewery、または多くのLV Breweryを設置する必要があります。
 
 # db 505
-nomifactory.quest.db.505.title=Ethanol
-nomifactory.quest.db.505.desc=<99>Ethanol<rr> is alcohol, which you can first produce from distilling <99>Biomass<rr>.<nl><nl>Boiling <66>Sugar Cane<rr> in a <33>Brewery<rr> is a great way to get Biomass, but you can also get it from other crops and saplings if you want.<nl><nl>Once you have a hefty starting stock of Ethanol, consider making and distilling <99>Fermented Biomass<rr> in a <33>Distillation Tower<rr> for extra chemicals.
+nomifactory.quest.db.505.title=エタノール
+nomifactory.quest.db.505.desc=<99>Ethanol<rr>はアルコールで、<99>Biomass<rr>を蒸留することで作成できます。<nl><nl>Biomassは<66>Sugar cane<rr>を<33>Brewery<rr>で煮ることで得られますが、他の作物や苗木から得ることもできます。<nl><nl>Ethanolを大量に手に入れたら、<33>Distillation Tower<rr>で<99>Fermented Biomass<rr>を作って蒸留し、化学物質を追加することも検討しましょう。
 
 # db 507
 nomifactory.quest.db.507.title=塩素
