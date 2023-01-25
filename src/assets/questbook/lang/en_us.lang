@@ -380,7 +380,7 @@ nomifactory.quest.db.87.desc=3つの<66>Electronic Circuit<rr>とさまざまな
 
 # db 88
 nomifactory.quest.db.88.title=レンズ
-nomifactory.quest.db.88.desc=<33>Precision Laser Engraver<rr>で使用する<aa>Lens<rr>は、すべて<33>Autoclave<rr>で作成されたものが必要になります。<nl><nl>最初は<aa>Red Lens<rr>、<aa>Diamond Lens<rr>、<aa>Glass Lens<rr>が必要です。<nl><nl>Red Lensは<66>Ruby<rr>、またはAlmandine、Red Garnet、Jasper、Rutileから作ることができます。<nl><nl>残りの2つのLensは自明でしょう。<nl><nl>
+nomifactory.quest.db.88.desc=<33>Precision Laser Engraver<rr>で使用する様々な<aa>Lens<rr>は、いずれも<33>Autoclave<rr>で作成します。<nl><nl>最初は<aa>Red Lens<rr>、<aa>Diamond Lens<rr>、<aa>Glass Lens<rr>が必要です。<nl><nl>Red Lensは<66>Ruby<rr>、またはAlmandine、Red Garnet、Jasper、Rutileから作ることができます。<nl><nl>残りの2つのLensは自明でしょう。<nl><nl>
 
 # db 89
 nomifactory.quest.db.89.title=1つ目のTier 3の回路
