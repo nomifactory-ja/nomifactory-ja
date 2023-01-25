@@ -351,24 +351,24 @@ nomifactory.quest.db.79.title=MV 裁断機
 nomifactory.quest.db.79.desc=モノを切り刻もう。<nl><nl><33>Cutting Machine<rr>は、waferやrod、woodなど様々なものをカットしてくれるので、多目的なクラフトが可能です。ブロックを9枚に切り分けるのは、<33>Compressor<rr>で1枚ずつ作るよりもはるかに速く、Compressorでまったく作れないプレートもあります。<nl><nl>bladeのクラフトのためには、まず<66>Cobalt Brass<rr>を作る必要があります。<66>Cobalt<rr>は様々な鉱石を処理して得られる副産物(最初はtiny pile)、<66>Zinc<rr>は<66>Sphalerite<rr>を電気分解しているので既にあるはずで、その他の素材は<66>Copper<rr>と<66>Aluminium<rr>だけです。困ったときは、<bb>JEI<rr>のOre Byproduct Listタブから、通常サイズのDustのレシピを調べればたどり着けるので覚えておくとよいでしょう。<nl><nl>Cutting Machineは、すべてのレシピでプレーンな<99>Water<rr>を使用します。また、処理を多少早める<99>Distilled Water<rr>や、大幅に早める上、1回あたりの使用量はごくわずかな<99>Lubricant<rr>を使用することもできます。これらは今すぐ作るには少し難しいかもしれませんが、将来的には非常に価値のあるアップグレードです。<nl><nl><66>Primitive Processor<rr>よりはるかに簡単な回路なので、MVマシンの道を進む前に、<66>Electronic Processor<rr>ができるまで待つことを考慮してもよいかもしれません。
 
 # db 80
-nomifactory.quest.db.80.title=Silicon Boules
-nomifactory.quest.db.80.desc=A hefty amount of <66>Silicon Dust<rr> and a pinch of <66>Gallium<rr> cooked in an <33>EBF<rr> will net you a <66>Silicon Boule<rr>, the starting point for <66>Circuit Wafers<rr>.<nl><nl>Make sure your power system is up to the task. These take a long time to process so you'll need a significant amount of energy to safely complete the job.
+nomifactory.quest.db.80.title=シリコンブール
+nomifactory.quest.db.80.desc=大量の<66>Silicon Dust<rr>と<66>Gallium<rr>を<33>EBF<rr>で加熱すると、<66>Circuit Wafer<rr>の原型となる<66>Silicon Boule<rr>を作成することができます。<nl><nl>これらの処理には時間がかかるので、安全に作業を完了させるためにはかなりのエネルギーが必要です。電源システムを確認してください。
 
 # db 81
-nomifactory.quest.db.81.title=Silicon Wafers
-nomifactory.quest.db.81.desc=<66>Wafers<rr> are thin pieces of silicon cut from a <66>Silicon Boule<rr>.<nl><nl>Their primary purpose is engraving <66>Circuit Wafers<rr>.<nl><nl>You'll be needing huge amounts of these Wafers for circuits. Silicon Boules currently take a very long time to craft, so consider parallelizing the recipe in multiple <33>EBF<rr>s and making a stockpile of them.
+nomifactory.quest.db.81.title=シリコンウェハー
+nomifactory.quest.db.81.desc=<66>Wafer<rr>とは、<66>Silicon Boule<rr>から切り出したSiliconの薄片のことです。<nl><nl>主な用途は、<66>Circuit Wafers<rr>の刻印です。<nl><nl>このウェハーは回路の作成のために大量に必要になります。現時点ではSilicon Boulesの作成には非常に時間がかかるため、複数の<33>EBF<rr>を用意してレシピを並列化し、備蓄しておくことを検討してください。
 
 # db 82
 nomifactory.quest.db.82.title=フェノールコート基板
 nomifactory.quest.db.82.desc=<99>Phenol<rr>は<33>Pyrolyse Oven<rr>で<66>Coal Coke<rr>を作る際に副産物として発生します。<nl><nl>この基板があれば、より安価な回路作成が可能になります。
 
 # db 83
-nomifactory.quest.db.83.title=MV Precision Laser Engraver
-nomifactory.quest.db.83.desc=A <33>Precision Laser Engraver<rr> is used to engrave circuits onto <66>Wafers<rr>.<nl><nl>The type of circuit will depend on the kind of wafer used and which <aa>Lens<rr> is in the machine.
+nomifactory.quest.db.83.title=MV 精密レーザー彫刻機
+nomifactory.quest.db.83.desc=<33>Precision Laser Engraver<rr>は、<66>Wafer<rr>に回路を彫刻するために使用されます。<nl><nl>回路の種類は、使用するWaferの種類や、どの<aa>Lens<rr>が搭載されているかによって異なります。
 
 # db 84
-nomifactory.quest.db.84.title=Circuit Wafers
-nomifactory.quest.db.84.desc=<66>Circuit Wafers<rr> are batches of integrated circuits engraved onto a wafer of electronics-grade silicon.<nl><nl>You need to run these through the <33>Cutting Machine<rr> to dice the wafers into individual integrated circuits (called dies).<nl><nl>These are important components and will be used for making more advanced Circuits.
+nomifactory.quest.db.84.title=回路ウェハー
+nomifactory.quest.db.84.desc=<66>Circuit Wafer<rr>とは、エレクトロニクス用シリコンのWafer上に回路を一括して刻印したものです。<nl><nl>これを<33>Cutting Machine<rr>に通して、Waferを個々の集積回路（dieと呼ぶ）に切り分ける必要があります。<nl><nl>これらは重要な部品であり、より高度な回路を作るために使用されます。
 
 # db 86
 nomifactory.quest.db.86.title=2つ目のTier 1の回路
@@ -379,16 +379,16 @@ nomifactory.quest.db.87.title=2つ目のTier 2の回路
 nomifactory.quest.db.87.desc=3つの<66>Electronic Circuit<rr>とさまざまなパーツによって<66>Electronic Processor<rr>ができあがります。
 
 # db 88
-nomifactory.quest.db.88.title=Lenses
-nomifactory.quest.db.88.desc=You'll need a variety of <aa>lenses<rr> for use in <33>Precision Laser Engravers<rr>, all of which are made in the <33>Autoclave<rr>.<nl><nl>Initially you'll need a <aa>Red Lens<rr>, a <aa>Diamond Lens<rr>, and a <aa>Glass Lens<rr>.<nl><nl>Red Lenses can be made from <66>Ruby<rr>, or alternately with Almandine, Red Garnet, Jasper or Rutile.<nl><nl>The other two lenses should be self-evident.<nl><nl>
+nomifactory.quest.db.88.title=レンズ
+nomifactory.quest.db.88.desc=<33>Precision Laser Engraver<rr>で使用する様々な<aa>Lens<rr>は、いずれも<33>Autoclave<rr>で作成します。<nl><nl>最初は<aa>Red Lens<rr>、<aa>Diamond Lens<rr>、<aa>Glass Lens<rr>が必要です。<nl><nl>Red Lensは<66>Ruby<rr>、またはAlmandine、Red Garnet、Jasper、Rutileから作ることができます。<nl><nl>残りの2つのLensは自明でしょう。<nl><nl>
 
 # db 89
 nomifactory.quest.db.89.title=1つ目のTier 3の回路
 nomifactory.quest.db.89.desc=Your first tier three circuit, formed from four <66>Electronic Processors<rr> and <66>Transistors<rr>, among other ingredients.<nl><nl>As you'll realize is the pattern, it is expensive and unwieldy to make the first forms of each tier of circuits. Fortunately, you don't have to make many of them.<nl><nl>Prioritize using these circuits to make things needed for unlocking the next theme of circuits, which require more infrastructure but are much cheaper to produce. Eventually each tier through six will have a circuit recipe instead of requiring processors, arrays, or mainframes.<nl><nl>
 
 # db 90
-nomifactory.quest.db.90.title=MV Assembling Machine
-nomifactory.quest.db.90.desc=The <33>Advanced Assembling Machine<rr>, or MV Assembler for short, allows you to craft recipes that require up to 128 EU/t instead of 32. Plus, any recipe that was at most 32 EU/t can <ee>overclock<rr>, crafting up to 2.8 times faster for 4 times the original energy per tick.<nl><nl>A host of new recipes are now achievable, including a new theme of Circuits!
+nomifactory.quest.db.90.title=MV アセンブリングマシン
+nomifactory.quest.db.90.desc=<33>Advanced Assembling Machine<rr>、略してMV Assemblerは、最大128 EU/tを必要とするレシピを作ることができるようになります(これまでは最大でも32EU/tまででした)。さらに、最大で32 EU/tだったレシピは<ee>オーバークロック<rr>が可能で、1 tickあたり4倍のエネルギーで最大2.8倍の速度でクラフトすることができるようになります。<nl><nl>新しいテーマの回路をはじめ、多数の新レシピをクラフトしましょう！
 
 # db 91
 nomifactory.quest.db.91.title=Chrome
@@ -1076,8 +1076,8 @@ nomifactory.quest.db.271.title=Reactor Stabilizer
 nomifactory.quest.db.271.desc=The <66>Reactor Stabilizer<rr> is a component needed for the Tier Nine and Tier Ten Micro Miners, as well as a component in a few Endgame recipes.<nl><nl>They are made in a Chaotic Tier fusion crafting setup, requiring a whopping <ee>56 Billion total RF each<rr>. You're gonna need some serious power generation and crafting infrastructure to make everything for these.
 
 # db 272
-nomifactory.quest.db.272.title=Basic Capacitors
-nomifactory.quest.db.272.desc=The first tier of <66>capacitors<rr>. These (or stronger versions) are required to make <bb>EnderIO<rr> machines run. They're also used as components in a variety of recipes.<nl><nl>Higher tier capacitors will significantly increase the speed at which these machines operate, among other machine-specific properties.
+nomifactory.quest.db.272.title=基本的なコンデンサ
+nomifactory.quest.db.272.desc=Tier 1の<66>capacitor<rr>です。これら（またはより強力なバージョン）は、<bb>EnderIO<rr>のマシンを動作させるために必要です。また、様々なレシピの構成要素として使用されています。<nl><nl>上位のcapacitorを使用すると、マシンの動作速度が大幅に向上するなど、マシン固有の特性が向上します。
 
 # db 273
 nomifactory.quest.db.273.title=LV Mixer
@@ -1628,8 +1628,8 @@ nomifactory.quest.db.505.title=Ethanol
 nomifactory.quest.db.505.desc=<99>Ethanol<rr> is alcohol, which you can first produce from distilling <99>Biomass<rr>.<nl><nl>Boiling <66>Sugar Cane<rr> in a <33>Brewery<rr> is a great way to get Biomass, but you can also get it from other crops and saplings if you want.<nl><nl>Once you have a hefty starting stock of Ethanol, consider making and distilling <99>Fermented Biomass<rr> in a <33>Distillation Tower<rr> for extra chemicals.
 
 # db 507
-nomifactory.quest.db.507.title=Chlorine
-nomifactory.quest.db.507.desc=You'll need <99>Chlorine<rr> at this point. It is an important ingredient in many chemical processes, and you primarily get it from electrolyzing either <66>Salt<rr> or <66>Rock Salt<rr>.
+nomifactory.quest.db.507.title=塩素
+nomifactory.quest.db.507.desc=このあたりで<99>Chlorine<rr>が必要になります。多くの化学プロセス(Chemical Reactorを使用するもの)で重要な成分です。主に<66>Salt<rr>または<66>Rock Salt<rr>をElectrolyzerにかけることで取得できます。
 
 # db 508
 nomifactory.quest.db.508.title=Knightslime Ingots
@@ -2350,7 +2350,7 @@ nomifactory.quest.db.751.desc=<33>Aqueous Accumulators<rr> in <55>Nomifactory<rr
 
 # db 752
 nomifactory.quest.db.752.title=ボイラーとタービン
-nomifactory.quest.db.752.desc=素の<33>Steam Dynamo<ff>を使うのはかなり非効率です。<nl><nl>augment<rr>を作ることを強く推奨します。これを使うと、1台のSteam Dynamoを<33>Steam Boiler<ff>に、他の2台のSteam Dynamoを<33>Steam Turbine<ff>にすることができます。すべてのダイナモを同じようにアップグレードした場合、その比率は常に<aa>1:2<rr>となります。<nl><nl>これにより、基本的なsteam dynamo1基あたり<aa>40RF/t<rr>から、adugmented dynamo3基セットあたり<a>320RF/t<r>と、全体的に効率と発電量が大幅に向上します。
+nomifactory.quest.db.752.desc=素の<33>Steam Dynamo<ff>を使うのはかなり非効率です。<nl><nl>augment<rr>を作ることを強く推奨します。これを使うと、1台のSteam Dynamoを<33>Steam Boiler<ff>に、他の2台のSteam Dynamoを<33>Steam Turbine<ff>にすることができます。すべてのダイナモを同じようにアップグレードした場合、その比率は常に<aa>1:2<rr>となります。<nl><nl>これにより、基本的なsteam dynamo1基あたり<aa>40RF/t<rr>から、adugmented dynamo3基セットあたり<aa>320RF/t<rr>と、全体的に効率と発電量が大幅に向上します。
 
 # db 753
 nomifactory.quest.db.753.title=Resonant Satchel
