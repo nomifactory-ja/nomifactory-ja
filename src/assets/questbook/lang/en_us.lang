@@ -407,8 +407,8 @@ nomifactory.quest.db.94.title=硫酸
 nomifactory.quest.db.94.desc=<99>Sulfuric Acid<rr>は<66>Sulfur<rr>と<99>Water<rr>から非常にゆっくりと生成されます。これは非常にありふれた成分なので、あらゆる化学反応に大量に必要になります。<nl><nl>もし<99>Oxygen<rr>が余っていれば、代わりに<99>Sulfur Trioxide<rr>でより早く<99>Sulfuric Acid<rr>を作成できます。<nl><nl>Sulforはいろいろなものから電気分解できますが、<bb>Deep Mob Learning<rr>の<aa>Blaze Model<rr>からの入手も簡単でおすすめです。
 
 # db 95
-nomifactory.quest.db.95.title=Ethylene and Polyethylene
-nomifactory.quest.db.95.desc=<99>Ethylene<rr> is a hydrocarbon made from dehydrating <99>Ethanol<rr> with <99>Sulfuric Acid<rr> in a <33>Chemical Reactor<rr>. It is an extremely important chemical in the production of plastics.<nl><nl><99>Polyethylene<rr> is the most common category of plastic, made from polymers of <99>Ethylene<rr>. Adding <99>Oxygen<rr> in a <33>Chemical Reactor<rr> recreates (with some artistic license) early accidental synthesis of Polyethylene.<nl><nl>When you have large amounts of <66>Rutile<rr> and <66>Bauxite<rr> (probably after you visit the Moon) you can consider using <99>Titanium Tetrachloride<rr> as a catalyst to improve your Polyethylene yields. For now it's not a great idea, as in addition to its Overworld rarity, you need it for <66>Titanium<rr>.
+nomifactory.quest.db.95.title=エチレンとポリエチレン
+nomifactory.quest.db.95.desc=<99>Ethylene<rr>は、<33>Chemical Reactor<rr>の中で<99>Ethanol<rr>を<99>Sulfuric Acid<rr>により脱水した炭化水素です。プラスチックの製造において、非常に重要な化学物質です。<nl><nl><99>Polyethylene<rr>は、<99>Ethylene<rr>のポリマーから作られる最も一般的なプラスチックです。<33>Chemical Reactor<rr>で<99>Oxygen<rr>と反応させることで、Polyethyleneの発見に至った当時の偶発的な合成が再現されます（多少フィクション的な差異はありますが）。<nl><nl><66>Rutile<rr>と<66>Bauxite<rr>が大量に手に入ったら（おそらく月に行った後）、<99>Titanium Tetrachloride<rr>を触媒として使い、Polyethyleneの収率を上げることができるようになります。ただ、その2つが希少な今のところ、それらのOverworldでのレアリティに加え、<66>Titanium<rr>のためにも必要なので、あまりいいアイデアとは言えません。
 
 # db 96
 nomifactory.quest.db.96.title=Plastic Sheets
