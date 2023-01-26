@@ -539,8 +539,8 @@ nomifactory.quest.db.129.title=SMD Diodes
 nomifactory.quest.db.129.desc=Next up are <66>SMD Diodes<rr>, which are fairly simple.<nl><nl>A <66>Small Pile of Gallium Dust<rr> and four <66>Fine Platinum Wire<rr> net you half a stack.
 
 # db 130
-nomifactory.quest.db.130.title=Annealed Copper
-nomifactory.quest.db.130.desc=<66>Annealed Copper<rr> is made in the <33>EBF<rr> by treating <66>Copper<rr> with <99>Oxygen<rr>. It has less power loss than regular Copper when used as a cable, and is also required for more advanced electronic components.
+nomifactory.quest.db.130.title=アニール銅
+nomifactory.quest.db.130.desc=<66>Annealed Copper<rr>は<33>EBF<rr>を使用し、<66>Copper<rr>を<99>Oxygen<rr>で処理することにより作られるものです。ケーブルとして使用した場合、通常のCopperよりも電力損失が少なく、また、より高度な電子部品の素材としても使用されます。
 
 # db 131
 nomifactory.quest.db.131.title=ポリ塩化ビニル
