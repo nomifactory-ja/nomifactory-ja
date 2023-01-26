@@ -411,8 +411,8 @@ nomifactory.quest.db.95.title=エチレンとポリエチレン
 nomifactory.quest.db.95.desc=<99>Ethylene<rr>は、<33>Chemical Reactor<rr>の中で<99>Ethanol<rr>を<99>Sulfuric Acid<rr>により脱水した炭化水素です。プラスチックの製造において、非常に重要な化学物質です。<nl><nl><99>Polyethylene<rr>は、<99>Ethylene<rr>のポリマーから作られる最も一般的なプラスチックです。<33>Chemical Reactor<rr>で<99>Oxygen<rr>と反応させることで、Polyethyleneの発見に至った当時の偶発的な合成が再現されます（多少フィクション的な差異はありますが）。<nl><nl><66>Rutile<rr>と<66>Bauxite<rr>が大量に手に入ったら（おそらく月に行った後）、<99>Titanium Tetrachloride<rr>を触媒として使い、Polyethyleneの収率を上げることができるようになります。ただ、その2つが希少な今のところ、それらのOverworldでのレアリティに加え、<66>Titanium<rr>のためにも必要なので、あまりいいアイデアとは言えません。
 
 # db 96
-nomifactory.quest.db.96.title=Plastic Sheets
-nomifactory.quest.db.96.desc=Form <66>Polyethylene Sheets<rr> using a <33>Fluid Solidifier<rr> and a <aa>Plate Mold<rr> for use in crafting electronics components.
+nomifactory.quest.db.96.title=プラスチックシート
+nomifactory.quest.db.96.desc=<33>Fluid Solidifier<rr>と<aa>Plate Mold<rr>を用いて<66>Polyethylene Sheet<rr>を形成し、電子部品の作成に使用しましょう。
 
 # db 97
 nomifactory.quest.db.97.title=Keeping Stuff In Stock
@@ -543,8 +543,8 @@ nomifactory.quest.db.130.title=Annealed Copper
 nomifactory.quest.db.130.desc=<66>Annealed Copper<rr> is made in the <33>EBF<rr> by treating <66>Copper<rr> with <99>Oxygen<rr>. It has less power loss than regular Copper when used as a cable, and is also required for more advanced electronic components.
 
 # db 131
-nomifactory.quest.db.131.title=Polyvinyl Chloride
-nomifactory.quest.db.131.desc=<99>Vinyl Chloride<rr> is an industrial chemical made from chlorinating <99>Ethylene<rr> (adding <99>Chlorine<rr> at high temperature) in a <33>Chemical Reactor<rr>.<nl><nl>It is used to create the plastic <99>Polyvinyl Chloride<rr>, most well known as PVC. While it deviates from reality, in GregTech you chemically react Vinyl Chloride and <99>Oxygen<rr> to polymerize it into PVC.<nl><nl>Later, you can use <99>Titanium Tetrachloride<rr> to catalyze this reaction as well for greater yield.<nl><nl><66>PVC Sheets<rr> are superior to <66>Polyethylene Sheets<rr> for making plastic substrates, producing twice as many <66>Plastic Boards<rr> per craft.<nl><nl>
+nomifactory.quest.db.131.title=ポリ塩化ビニル
+nomifactory.quest.db.131.desc=<99>Vinyl Chloride<rr>は、<33>Chemical Reactor<rr>で<99>Ethylene<rr>を塩素化（高温で<99>塩素<rr>を添加）した工業薬品です。<nl><nl>これはプラスチックで有名な<99>Polyvinyl Chloride<rr>（通称：PVC）の原料として使用されます。現実離れしていますが、GregTechではVinyl Chlorodeと<99>Oxygen<rr>を化学反応させて重合させ、Polyvinyl Chlorideを作ります。<nl><nl>後に、<99>Titanium Tetrachloride<rr>をこの反応の触媒にすると、収量が多くなります。<nl><nl><66>PVC Sheet<rr>は<66>Polyethylene Sheet<rr>に比べ、プラスチック基材として優れており、<66>Plastic Board<rr>を1クラフトあたり2倍生産することができます。<nl><nl>
 
 # db 132
 nomifactory.quest.db.132.title=1つ目のTier 4の回路
