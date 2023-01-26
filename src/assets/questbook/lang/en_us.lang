@@ -407,8 +407,8 @@ nomifactory.quest.db.94.title=Sulfuric Acid
 nomifactory.quest.db.94.desc=<99>Sulfuric Acid<rr> is produced from <66>Sulfur<rr> and <99>Water<rr>, albeit very slowly. You'll need huge amounts of this for a whole range of chemical reactions, as it is a very common ingredient.<nl><nl>If you have excess <99>Oxygen<rr>, you could instead look into making <99>Sulfuric Acid<rr> with <99>Sulfur Trioxide<rr>, as it is much quicker.<nl><nl>Sulfur can be electrolyzed from many things, but is also easily available via <bb>Deep Mob Learning<rr>'s <aa>Blaze Model<rr>.
 
 # db 95
-nomifactory.quest.db.95.title=Ethylene and Polyethylene
-nomifactory.quest.db.95.desc=<99>Ethylene<rr> is a hydrocarbon made from dehydrating <99>Ethanol<rr> with <99>Sulfuric Acid<rr> in a <33>Chemical Reactor<rr>. It is an extremely important chemical in the production of plastics.<nl><nl><99>Polyethylene<rr> is the most common category of plastic, made from polymers of <99>Ethylene<rr>. Adding <99>Oxygen<rr> in a <33>Chemical Reactor<rr> recreates (with some artistic license) early accidental synthesis of Polyethylene.<nl><nl>When you have large amounts of <66>Rutile<rr> and <66>Bauxite<rr> (probably after you visit the Moon) you can consider using <99>Titanium Tetrachloride<rr> as a catalyst to improve your Polyethylene yields. For now it's not a great idea, as in addition to its Overworld rarity, you need it for <66>Titanium<rr>.
+nomifactory.quest.db.95.title=エチレンとポリエチレン
+nomifactory.quest.db.95.desc=<99>Ethylene<rr>は、<33>Chemical Reactor<rr>の中で<99>Ethanol<rr>を<99>Sulfuric Acid<rr>により脱水した炭化水素です。プラスチックの製造において、非常に重要な化学物質です。<nl><nl><99>Polyethylene<rr>は、<99>Ethylene<rr>の重合体から作られる最も一般的なプラスチックです。<33>Chemical Reactor<rr>に<99>Oxygen<rr>を加えると、初期の偶然のPolyethylene合成が再現されます（多少の芸術性はありますが）。<nl><nl><66>Rutile<rr>と<66>Bauxite<rr>が大量に手に入ったら（おそらく月に行った後）、<99>Titanium Tetrachloride<rr>を触媒として使い、Polyethyleneの収率を上げることができるようになります。ただ、その2つが希少な今のところ、それらのOverworldでのレアリティに加え、<66>Titanium<rr>のためにも必要なので、あまりいいアイデアとは言えません。
 
 # db 96
 nomifactory.quest.db.96.title=Plastic Sheets
