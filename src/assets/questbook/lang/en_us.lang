@@ -420,7 +420,7 @@ nomifactory.quest.db.97.desc=If you didn't know, you can have stacks of items st
 
 # db 98
 nomifactory.quest.db.98.title=ステンレススチール
-nomifactory.quest.db.98.desc=MVでは<66>Aluminium<rr>、LVでは<66>Wrought Iron<rr>を使ったことと同様に、HVでは<66>Stainless Steel<rr>が主要素材となります。<nl><nl><66>Manganese<rr>は<66>Tantalite<rr>、<66>Pyrolusite<rr>、<66>Spessaritine<rr>いずれかのDustを電気分解して得られるものです。<66>Chrome<rr>はすでに持っていますね。<nl><nl><33>Mixer<rr>でそれらのDustを混ぜ、<33>Electric Blast Furnace<rr>で精錬します。この機会に、発電や蓄電のインフラを見直すのもいいかもしれませんね。
+nomifactory.quest.db.98.desc=MVでは<66>Aluminium<rr>、LVでは<66>Wrought Iron<rr>を使ったことと同様に、HVでは<66>Stainless Steel<rr>が主要素材となります。<nl><nl><66>Manganese<rr>は<66>Tantalite<rr>、<66>Pyrolusite<rr>、<66>Spessaritine Dust<rr>のいずれかを電気分解して得られるものです。<66>Chrome<rr>はすでに持っていますね。<nl><nl><33>Mixer<rr>でそれらのDustを混ぜ、<33>Electric Blast Furnace<rr>で精錬します。この機会に、発電や蓄電のインフラを見直すのもいいかもしれませんね。
 
 # db 99
 nomifactory.quest.db.99.title=Synthesizing Your First Omnium
