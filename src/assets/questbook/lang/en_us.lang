@@ -2294,11 +2294,11 @@ nomifactory.quest.db.728.desc=<66>Uraninite Ore<rr>は<66>Pulsating Dust<rr>の�
 
 # db 729
 nomifactory.quest.db.729.title=液体インターフェイス
-nomifactory.quest.db.729.desc=標準的な<aa>ME Interface<rr>と対をなす、液体用のインターフェイスです。<nl><nl>ここに液体を入れると自動的にネットワークで扱えるようになります。さらに、Fluid Interface自体が内部ストレージを備えているので、ネットワークの容量が足りなくなったらこれをバックアップとして利用できます。<nl><nl>最大6種類の液体をストックできるようにインターフェースを設定することができます（後になれば、より高速に処理するために同じ液体を複数のタンクでストックするようなことも可能です）。<aa>Pump Cover<rr>を<bb>GregTech<rr>のマシンに使用することで、インターフェイスから液体を引き出したり、インターフェイスへ液体を抽出したりすることができます。出力側をすでにアイテムや別の液体に使っている場合、液体をルーティングするのに便利です。<nl><nl>また、<a>Fluid Import/Export Buses<rr>よりもはるかにパフォーマンスが高く、ラグなくスケーリングできます。
+nomifactory.quest.db.729.desc=標準的な<aa>ME Interface<rr>と対をなす、液体用のインターフェイスです。<nl><nl>ここに液体を入れると自動的にネットワークで扱えるようになります。さらに、Fluid Interface自体が内部ストレージを備えているので、ネットワークの容量が足りなくなったらこれをバックアップとして利用できます。<nl><nl>最大6種類の液体をストックできるようにインターフェースを設定することができます（後になれば、より高速に処理するために同じ液体を複数のタンクでストックするようなことも可能です）。<aa>Pump Cover<rr>を<bb>GregTech<rr>のマシンに使用することで、インターフェイスから液体を引き出したり、インターフェイスへ液体を抽出したりすることができます。出力側をすでにアイテムや別の液体に使っている場合、液体をルーティングするのに便利です。<nl><nl>また、<aa>Fluid Import/Export Buses<rr>よりもはるかにパフォーマンスが高く、ラグなくスケーリングできます。
 
 # db 730
 nomifactory.quest.db.730.title=液体と自動クラフト
-nomifactory.quest.db.730.desc=液体を扱うのはちょっと難しいです。AE2の<aa>Pattern<rr>では液体を扱えないため、<ee>特定の液体の組み合わせ<rr>ごとに別のマシンを割り当て、在庫を確保する必要があります。<nl><nl>AE2には<aa>Fluid Import Bus<rr>と<aa>Fluid Export Bus<rr>があり、AE2に慣れたプレイヤーはこれを利用するのが普通です。<aa>Capacity Card<rr>を使えば、1つのBusで特定の5種類の液体を輸出入することができ、例えば<33>Chemical Reactor<rr>で使用する場合には充分な種類数となります。ただし、<cc>AE2 Busをたくさん使用すると、ラグが発生しはじめます<rr>。<nl><nl><bb>GregTech<rr>の場合、<aa>Fluid Interface<rr>と<aa>Pump<rr>または<aa>Fluid Regulator<rr>を使用するのがよりよい方法です。これはRobot Armのpassive autocraftingとほぼ同じ働きをします。<a>Fluid Filter<rr>は、特定の液体を隣接するマシンにルーティングすることができます。この方法は、バスのようにラグを発生させるがことなく、より高いパフォーマンスを発揮し、スケーリングが可能です。他のMODのマシンの場合、Fluid InterfaceからConduitを使用することで流体を送ることができます。<nl><nl>
+nomifactory.quest.db.730.desc=液体を扱うのはちょっと難しいです。AE2の<aa>Pattern<rr>では液体を扱えないため、<ee>特定の液体の組み合わせ<rr>ごとに別のマシンを割り当て、在庫を確保する必要があります。<nl><nl>AE2には<aa>Fluid Import Bus<rr>と<aa>Fluid Export Bus<rr>があり、AE2に慣れたプレイヤーはこれを利用するのが普通です。<aa>Capacity Card<rr>を使えば、1つのBusで特定の5種類の液体を輸出入することができ、例えば<33>Chemical Reactor<rr>で使用する場合には充分な種類数となります。ただし、<cc>AE2 Busをたくさん使用すると、ラグが発生しはじめます<rr>。<nl><nl><bb>GregTech<rr>の場合、<aa>Fluid Interface<rr>と<aa>Pump<rr>または<aa>Fluid Regulator<rr>を使用するのがよりよい方法です。これはRobot Armのpassive autocraftingとほぼ同じ働きをします。<aa>Fluid Filter<rr>は、特定の液体を隣接するマシンにルーティングすることができます。この方法は、バスのようにラグを発生させるがことなく、より高いパフォーマンスを発揮し、スケーリングが可能です。他のMODのマシンの場合、Fluid InterfaceからConduitを使用することで流体を送ることができます。<nl><nl>
 
 # db 731
 nomifactory.quest.db.731.title=Fluid Logistics
