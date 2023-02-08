@@ -607,8 +607,8 @@ nomifactory.quest.db.149.title=Hot Titanium
 nomifactory.quest.db.149.desc=Combining <99>Titanium Tetrachloride<rr> with <66>Magnesium<rr> in an <33>Electric Blast Furnace<rr> (approximating the Kroll process) will net you your first Titanium.<nl><nl>Unfortunately, it is super hot. You'll need to cool it in a <33>Vacuum Freezer<rr> for it to be usable.<nl><nl>If you are autocrafting on-demand, it's better to not have your ME network know about this intermediate state. Outputting the <66>Hot Titanium Ingot<rr> directly into a Vacuum Freezer avoids extra computations and item types.<nl><nl>If you absolutely insist on putting hot ingots in your network, you'll have to manually encode the <aa>Pattern<rr> with an ingot that <cc>damages you while you hold it<rr>. Your call.<nl><nl>
 
 # db 150
-nomifactory.quest.db.150.title=Vacuum Freezer
-nomifactory.quest.db.150.desc=<33>Vacuum Freezers<rr> are primarily used to cool down hot ingots.<nl><nl>They're also capable of freezing air into a liquid, and making superconductors.<nl><nl>At minimum you will need an energy input hatch, an input bus, an output bus, and 22 <66>Frost Proof Machine Casings<rr> for forming the multiblock for processing Hot Ingots.<nl><nl>If you want to deal with fluids as well, subtract two casings and use a fluid input and fluid output in their place.<nl><nl>Besides the controller placement, as usual the hatches/buses can go anywhere. Use the building guide in <bb>JEI<rr> which can be pulled up from the controller block.
+nomifactory.quest.db.150.title=真空冷凍庫
+nomifactory.quest.db.150.desc=<33>Vacuum Freezer<rr>は、主に高温のインゴットを冷却するために使用されます。<nl><nl>空気を凍らせて液体にしたり、超伝導体を作ったりすることもできます。<nl><nl>最低でも、Energy Input Hatch、Input Bus、Output Bus、およびホットインゴットを処理するためのマルチブロック形成用の<66>Frost Proof Machine Casing<rr>22個が必要です。<nl><nl>流体も扱いたい場合は、2つのケーシングを引き、その代わりにFluid InputとFluid Outputを使用します。<nl><nl>コントローラーの配置以外にも、例によってHatchとBusはどこにでも配置できるようになっています。コントローラブロックから引き出せる<bb>JEI<rr>のビルディングガイドを使用してください。
 
 # db 151
 nomifactory.quest.db.151.title=Early Rutile
