@@ -443,8 +443,8 @@ nomifactory.quest.db.103.title=Inscription Plates
 nomifactory.quest.db.103.desc=<aa>Presses<rr> are needed for <33>Inscribers<rr>.<nl><nl>If you like exploring you can find them in meteors with a <aa>Meteor Compass<rr>.<nl><nl>If you don't want to do that, or are having trouble finding one you need, feel free to etch them yourself with a <33>Precision Laser Engraver<rr>.
 
 # db 104
-nomifactory.quest.db.104.title=Autocrafting Patterns
-nomifactory.quest.db.104.desc=<aa>Patterns<rr> are used to encode a single crafting table or processing recipe for on-demand automation with <bb>Applied Energistics<rr>.<nl><nl>Encode them in a <aa>Pattern Terminal<rr>.<nl><nl>Note that recipes encoded with Substitutions on will use existing equivalent items, but <ee>will only automatically craft the exact item specified in the recipe.<rr><nl><nl>It is also a <cc>very bad idea<rr> to encode recipes that require GregTech hand tools (even worse with Substitutions on). They are not handled gracefully, causing your crafting computations to explode in complexity and memory requirement.<nl><nl>Use recipes that use machines instead!<nl><nl>
+nomifactory.quest.db.104.title=オートクラフティングパターン
+nomifactory.quest.db.104.desc=<aa>Pattern<rr>は、<bb>Applied Energistics<rr>によるオンデマンドな自動化のために、単一のクラフトテーブル、または処理のレシピを符号化するために使用されます。<nl><nl><aa>Pattern Terminal<rr>でエンコードしてください。<nl><nl>Substitutionsをオンにしたレシピは、既存の同等のアイテムを使用しますが、<ee>レシピで指定された正確なアイテムのみを自動的に作成することに注意してください。<rr><nl><nl>また、GregTechのハンドツールを必要とするレシピをエンコードするのは<cc>非常に悪い考えです<rr>(Substitutionsをオンにするとさらに悪くなります)。それらを実現しようとすると工作の計算が複雑化し、必要なメモリ容量が爆発的に増加してしまいます。<nl><nl>マシンを使ったレシピを代わりに使いましょう。<nl><nl>
 
 # db 105
 nomifactory.quest.db.105.title=Calculation Processor
@@ -467,8 +467,8 @@ nomifactory.quest.db.109.title=ME Interfaces
 nomifactory.quest.db.109.desc=<aa>ME Interfaces<rr> are extremely important for automation. You'll be making a lot of these, if you're playing the pack right.<nl><nl>These can be filled with encoded <aa>Patterns<rr> to perform on-demand autocrafting, and can be configured to stock up to 9 stacks of items for passive autocrafting, Any item pushed into an ME Interface is digitized and placed in your ME Network storage.<nl><nl>When adjacent to one or more <aa>Molecular Assemblers<rr>, crafting table patterns can be crafted. It will use as many adjacent Molecular Assemblers as possible, restricted by availability and number of <aa>Co-processors<rr> in your crafting CPU multiblock.<nl><nl>When adjacent to any other block, you can use processing patterns with a machine to insert items into the machine. Processing patterns require that the finished item is inserted back into the ME Network by way of an ME Interface (though it doesn't need to be the same ME Interface the Pattern is in).<nl><nl>ME Interfaces can be wrenched to ensure they only communicate with a particular adjacent block, or can be crafted into a micropart form to fit multiple in the same block space (each micropart only interacting with the adjacent block face).<nl><nl>
 
 # db 110
-nomifactory.quest.db.110.title=Crafting Units
-nomifactory.quest.db.110.desc=Autocrafting at last.<nl><nl>Well, you need patterns too I guess.
+nomifactory.quest.db.110.title=クラフティングユニット
+nomifactory.quest.db.110.desc=ついにオートクラフトが実現します。<nl><nl>まあ、パターンもたくさん作らないといけないんですけどね。
 
 # db 111
 nomifactory.quest.db.111.title=クラフティングターミナル
@@ -891,8 +891,8 @@ nomifactory.quest.db.224.title=Ammonia
 nomifactory.quest.db.224.desc=<99>Hydrogen<rr> and <99>Nitrogen<rr> combine together to make <99>Ammonia<rr>.<nl><nl>An easy way to get Nitrogen is to centrifuge <99>Air<rr>, which will require you to build an <33>Air Collector<rr>. You could also electrolyze <66>Saltpeter<rr>, distill <99>Fermented Biomass<rr> in a <33>Distillation Tower<rr>, or get huge amounts from a <33>Cryogenic Air Distillation<rr> Tower<rr>.
 
 # db 225
-nomifactory.quest.db.225.title=Methanol
-nomifactory.quest.db.225.desc=<99>Oxygen<rr>, <99>Hydrogen<rr>, and <66>Carbon<rr> combine together in a <33>Chemical Reactor<rr> to make <99>Methanol<rr>.<nl><nl>You can also use a <33>Distillation Tower<rr> to get Methanol from <99>Wood Vinegar<rr> and <99>Fermented Biomass<rr>.
+nomifactory.quest.db.225.title=メタノール
+nomifactory.quest.db.225.desc=<99>Oxygen<rr>、<99>Hydrogen<rr>、<66>Carbon<rr>を<33>Chemical Reacotr<rr>で結合させると<99>Methanol<rr>が作成できます。<nl><nl>また、<33>Distillation Tower<rr>を使うと、<99>Wood Vinegar<rr>や<99>Fermented Biomass<rr>からもMethanolを得ることができます。
 
 # db 226
 nomifactory.quest.db.226.title=Hypochlorous Acid
@@ -1508,12 +1508,12 @@ nomifactory.quest.db.402.title=Machine Covers
 nomifactory.quest.db.402.desc=<bb>GregTech<rr> adds a very versatile way of augmenting machines with <aa>Machine Covers<rr>. Covers are "upgrades" that you can put on any GregTech machine, chest, or drum to expand its functionality. To work with covers, you'll need to make yourself a <aa>Screwdriver<rr> to configure covers, and a <aa>Crowbar<rr> to remove covers without having to break the machine.<nl><nl>Here's a list of some covers there are in the game, and what they do:<nl><nl>- <aa><ll>Conveyor<rr>: transfers items continuously to or from an adjacent inventory.<nl><nl>- <aa><ll>Pump<rr>: is much like a <aa>Conveyor<ff>, but for fluids.<nl><nl>- <aa><ll>Robotic Arm<rr>: is much like <aa>Conveyor<rr>, but has two additional modes:<nl>    * <ee>Keep Exact<rr>: moves items to keep a stock of at most the specified number of items<nl>    * <ee>Supply Exact<rr>: transfers precisely the specified number of items per operation.<nl>This cover is very useful for crafting automation.<nl><nl>- <aa><ll>Fluid Regulator<rr>: is like a <aa>Robotic Arm<rr>, but works with fluids instead of items.<nl><nl>- <aa><ll>Shutter<rr>: prevents automation from interacting with a specific side of a machine.<nl><nl>Covers that move items or fluids can have a <aa>Filter<rr> placed inside them. These modify the functionality of covers in ways explained in their own quests.<nl>
 
 # db 403
-nomifactory.quest.db.403.title=Screwdrive Output Sides!
-nomifactory.quest.db.403.desc=All GregTech machines have one dedicated output side, which can be set by right-clicking a side with a <aa>GregTech Wrench<ff>. This is used for ejecting items into an adjacent inventory.<nl><nl>To enable auto-output, open the machine GUI and click one of the buttons in the bottom-left corner: <66>orange<rr> is items and <99>blue<rr> is fluids.<nl><nl>If you want to also be able to insert items into the output side, you'll have to right-click the output side with a <aa>GregTech Screwdriver<rr>.<nl><nl>This can be done by directly right clicking on the output side with a screwdriver, or <66>shift right-clicking<rr> with a screwdriver from the machine grid.<nl><nl>These features can be used to chain machines together to make processing pipelines and facilitate crafting automation with <bb>Applied Energistics 2<ff>.
+nomifactory.quest.db.403.title=出力面のスクリュー駆動！
+nomifactory.quest.db.403.desc=GregTechのマシンはすべて1つの専用出力面を持っており、<a>GregTech Wrench<ff>で側面を右クリックすることで設定することができます。隣接するインベントリにアイテムを排出する際に使用します。<nl><nl>自動出力を有効にするには、マシンのGUIを開き、左下にあるボタンのいずれかをクリックします。<66>オレンジ<rr>はアイテム、<99>ブルー<rr>は液体です。<nl><nl>出力面からもアイテムを挿入できるようにするには、<a>GregTech Screwdriver<rr> で出力面を右クリックする必要があります。<nl><nl>これは、Screwdriverで出力面を直接右クリックするか、マシングリッドからScrewdriverで<66>シフト右クリック<rr>することで行えます。<nl><nl>これらの機能を利用して、マシンを連結して加工パイプラインを作り、<bb>Applied Energistics 2<ff>による工作の自動化を促進することができます。
 
 # db 404
-nomifactory.quest.db.404.title=Simple GregTech Automation
-nomifactory.quest.db.404.desc=You can easily automate most <bb>GregTech<rr> machines with <aa>ME Interfaces<rr> and processing <aa>Patterns<rr> early on by using the machines' auto-output feature.<nl><nl>Use a <aa>GregTech Wrench<rr> to relocate the output side of a machine where you want it to be, right-click it with a <aa>GregTech Screwdriver<rr> to permit input on the output face, then put an ME Interface on that side of the machine.<nl><nl>You can also permit input from the output side by shift-right-clicking with a screwdriver on the output side via the machine grid.<nl><nl>Right-click the machine and enable item auto-output (<66>orange box<rr> in the bottom-left corner of the GUI).<nl><nl>Now, stuff the ME Interface with processing patterns. The next time you order an item, the ME Interface will push ingredients into the machine, and the machine will push outputs back into the Interface once they're ready, completing the craft. No need to use conduits or import buses!
+nomifactory.quest.db.404.title=シンプルなGregTechの自動化
+nomifactory.quest.db.404.desc=<aa>ME Interface<rr>と<aa>Pattern<rr>を処理するほとんどの<bb>GregTech<rr>マシンの自動出力機能を利用すれば、早い段階で簡単に自動化することが可能です。<nl><nl><aa>GregTech Wrench<rr>でマシンの出力面を好きな場所に移動し、<a>GregTech Screwdriver<rr>で右クリックして出力面への入力を許可し、マシンのその面にME Interfaceを配置します。<nl><nl>また、マシングリッドを介して出力面をScrewdriverでシフト右クリックすることで、出力面からの入力を許可することができます。<nl><nl>マシンを右クリックし、項目の自動出力を有効にします（GUI左下の<66>オレンジ色のボックス<rr>）。<nl><nl>次に、ME InterfaceにPatternを詰め込みます。次にオーダーをすると、ME Interfaceからマシンに素材が押し込まれ、マシンでの加工が終了すると再びInterfaceに出力を戻し、クラフトが完了します。ConduitやImport Busなども必要ないです！
 
 # db 405
 nomifactory.quest.db.405.title=クラフト計算機
