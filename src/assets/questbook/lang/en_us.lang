@@ -840,7 +840,7 @@ nomifactory.quest.db.210.desc=簡単な構造のロケットでも、その構�
 
 # db 211
 nomifactory.quest.db.211.title=月への飛行計画
-nomifactory.quest.db.211.desc=Planet Id Chipは<aa>Guidance Computerの目的地を月（Luna）に設定するために必要です。<nl><nl>組み立てたロケットでRocket GUIのホットキー（デフォルトは<ee>C<rr>ですが、リバインドが必要な場合もあります）を押します。「Guidance Computer」と書かれた小さな四角をクリックすると、Guidance Computerのインベントリが表示されます。次に、空のチップをGuidance Computerにセットします。このメニューから戻る(<ee>Esc<rr>または<ee>E<rr>)と、RocketのメインGUIに戻ります。<nl><nl><cc>Select Dst<rr>ボタンをクリックし、Lunaを選択し、Selectボタンをクリックすると、目的地がチップに割り当てられます。<nl><nl><ee>注意：ロケットを地球に戻したい場合は、打ち上げ前に再度この方法で目的地を地球に変更する必要があります。<rr>
+nomifactory.quest.db.211.desc=Planet Id Chipは<aa>Guidance Computer<rr>の目的地を月（Luna）に設定するために必要です。<nl><nl>組み立てたロケットでRocket GUIのホットキー（デフォルトは<ee>C<rr>ですが、リバインドが必要な場合もあります）を押します。「Guidance Computer」と書かれた小さな四角をクリックすると、Guidance Computerのインベントリが表示されます。次に、空のチップをGuidance Computerにセットします。このメニューから戻る(<ee>Esc<rr>または<ee>E<rr>)と、RocketのメインGUIに戻ります。<nl><nl><cc>Select Dst<rr>ボタンをクリックし、Lunaを選択し、Selectボタンをクリックすると、目的地がチップに割り当てられます。<nl><nl><ee>注意：ロケットを地球に戻したい場合は、打ち上げ前に再度この方法で目的地を地球に変更する必要があります。<rr>
 
 # db 212
 nomifactory.quest.db.212.title=燃料の充填
