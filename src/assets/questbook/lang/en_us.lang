@@ -3,12 +3,12 @@ nomifactory.quest.line.0.title=はじまり
 nomifactory.quest.line.0.desc=GregTech Low Voltage Tier: 工場建設を開始！<nl><nl><bb>Deep Mob Learning<rr>、初期の<bb>EnderIO<rr>の技術、<bb>Applied Energistics 2<rr> のDigital Storageへのアクセス。<nl><nl>先端材料と合金を精錬する<33>Electric Blast Furnace<rr>を造る。
 
 # line 1
-nomifactory.quest.line.1.title=ゲーム序盤
+nomifactory.quest.line.1.title=序盤
 nomifactory.quest.line.1.desc=GregTech Medium Voltage Tier: 新たな機械と初歩的な鉱石処理。<nl><nl>Organic Chemistryで<66>Plastics<rr>、<33>Distillation Tower<rr>を建設。<nl><nl>Applied Energistics 2<rr>の自動化を実現。<bb>Actually Additions<rr> の探求。
 
 # line 2
-nomifactory.quest.line.2.title=Mid Game
-nomifactory.quest.line.2.desc=GregTech High Voltage, Extreme Voltage, and Insane Voltage tiers:<nl><nl><66><33>Cryogenic Distillation<rr>, and petrochemistry for <66>Epoxy<rr> and <99>Nitro Diesel<rr>.<nl><nl>Craft <66>Nether Stars<rr> and unlock <bb>Thermal Expansion<rr> machines.<nl><nl>Build a<bb> NuclearCraft<rr> fission reactor to obtain new materials.<nl><nl>Build a Space Station and Warp Core.
+nomifactory.quest.line.2.title=中盤
+nomifactory.quest.line.2.desc=GregTech High Voltage, Extreme Voltage, Insane Voltage Tier:<nl><nl><66><33>Cryogenic Distillation<rr>、<66>Epoxy<rr>や<99>Nitro Diesel<rr>の石油化学など。<nl><nl><66>Nether Stars<rr>を作成し、<bb>Thermal Expansion<rr>マシンをアンロックする。<nl><nl>新しい素材を得るために<bb>NuclearCraft<rr>の核分裂炉を建設する。<nl><nl>宇宙ステーションとワープコアを作る。
 
 # line 3
 nomifactory.quest.line.3.title=Progression
