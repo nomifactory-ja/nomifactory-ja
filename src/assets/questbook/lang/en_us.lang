@@ -552,7 +552,7 @@ nomifactory.quest.db.132.desc=This is the first Tier Four circuit, which is used
 
 # db 133
 nomifactory.quest.db.133.title=3つ目、そして最後のTier 1の回路
-nomifactory.quest.db.133.desc=With all the SMD components ready, you can start to churn out <66>Refined Circuits<rr>. These are the best kind of Tier One circuits you can make, and you won't unlock the better recipes for quite a while.<nl><nl>You should absolutely automate the production of these circuits, and <ee>keep a stockpile automatically crafted<rr> so you don't have to wait around for them or bloat your crafting orders making them on-demand through AE.
+nomifactory.quest.db.133.desc=すべてのSMD部品の準備ができたので、<66>Refined Circuit<rr>を作り始めることができます。これは最高のTier 1回路で、これ以上のレシピをアンロックするのはかなり先のことになるでしょう。<nl><nl>これらの回路の生産は絶対に自動化すべきで、<ee>自動的にクラフトされた備蓄品<rr>を保管しておくと、待ち時間や、AE2からオンデマンドで作るクラフトの注文を肥大化させる必要がありません。
 
 # db 134
 nomifactory.quest.db.134.title=Plastic Substrate
@@ -560,7 +560,7 @@ nomifactory.quest.db.134.desc=Better substrates. Using <66>Polyvinyl Chloride<rr
 
 # db 135
 nomifactory.quest.db.135.title=3つ目のTier 2の回路
-nomifactory.quest.db.135.desc=Using SMD components (or leftover non-SMD versions), you can combine <66>Refined Circuits<rr> into the third type of Tier Two circuit: the <66>Refined Processor<rr>.
+nomifactory.quest.db.135.desc=SMD部品（または余った非SMD版）と<66>Refined Circuit<rr>を組み合わせて、Tier 2の3つ目のタイプである<66>Refined Processor<rr> を作ることができます。
 
 # db 136
 nomifactory.quest.db.136.title=Small Coils
@@ -807,8 +807,8 @@ nomifactory.quest.db.202.title=アポロ計画
 nomifactory.quest.db.202.desc=このロケットは、よりシンプルに作ることができるロケットの一つです。ロケットのエンジンが底面にあり、必要なすべてのパーツが追加されていれば、どんな形状でも問題アリません。また、発射台の端の内側で、高さがStructure Tower以下である必要があります。<nl><nl><aa>このクエストを進めるには、このクエストタブ内の近くにある次元間移動クエストの「ディスロケーターを用いた思考法」または「テレパッド」と、「ロケット燃料」クエストを完了する必要があります。<rr>
 
 # db 203
-nomifactory.quest.db.203.title=The Second Tier Three Circuits
-nomifactory.quest.db.203.desc=Marginally cheaper to make than <66>Electronic Processor Arrays<rr>, and also the only way to make <66>Refined Processor Mainframes<rr>, which is the first Tier Four circuit.
+nomifactory.quest.db.203.title=2つ目のTier 3の回路
+nomifactory.quest.db.203.desc=<66>Electronic Processor Array<rr>よりもわずかに安価に作成できます。さらに、最初のTier 4回路になる<66>Refined Processor Mainframe<rr>を作成する唯一の方法でもあります。
 
 # db 204
 nomifactory.quest.db.204.title=宇宙服
@@ -1489,7 +1489,7 @@ nomifactory.quest.db.397.desc=A single-block solution to all your power needs.<n
 
 # db 398
 nomifactory.quest.db.398.title=Multi Smelter
-nomifactory.quest.db.398.desc=The <33>Multi Smelter<rr> is an absolute smelting unit, and is most likely the best furnace added by a mod.<nl><nl>It's a 3x3x3 multiblock machine capable of <ee>smelting huge amounts of items per second<rr>. By upgrading its coils and power tier, it can become capable of smelting up to literal thousands of items per second.<nl><nl>Hover over different coil blocks: the higher the <ee>level<rr>, the more items a Multi Smelter can smelt per operation: <ee>32 items per level<rr>. The most basic Multi Smelter essentially does 32 items in the same time as a furnace does one. With a set of level 4 coil blocks, that jumps to 128 items per operation.<nl><nl>This quest doesn't ask for coils, hatches or buses: feel free to choose whatever combination you want. You'll need <aa>8 coil blocks<rr>, <aa>1 input bus<rr>, <aa>1 output bus<rr> and at least <aa>1 energy hatch<rr> of any tier.<nl><nl>
+nomifactory.quest.db.398.desc=<33>Multi Smelter<rr>は絶対的な製錬ユニットで、MODで追加された炉の中では最も優れているものです。<nl><nl>3×3×3のマルチブロックマシンで、<ee>1秒間に大量のアイテムを精錬することができます<rr>。コイルとパワーをアップグレードすることで、1秒間に文字通り数千個の精錬が可能になります。<nl><nl>各種コイルブロックにカーソルを合わせると表示される<ee>レベル<rr>が高いほど、1回の作業でより多くのアイテムを錬成することができます。1レベルにつき32個のアイテムを錬成することができます。最も基本的なMulti Smelterは、炉が1つのアイテムを処理するのと同じ時間で、基本的に32のアイテムを処理します。レベル4のコイルブロックのセットでは、1回の操作で128個に跳ね上がります。<nl><nl>このクエストでは、コイル、ハッチ、バスそれぞれの種類についてはどれを選ぶかは問われません。必要なものは<aa>コイルブロック8個<rr>、<aa>Input Bus 1個<rr>、<aa>Output Bus 1個<rr>、最低でも<aa>Energy Hatch 1個<rr>（いずれかのTier）です。<nl><nl>
 
 # db 399
 nomifactory.quest.db.399.title=Plasma Turbine
