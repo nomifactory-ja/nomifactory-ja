@@ -828,7 +828,7 @@ nomifactory.quest.db.207.desc=Combine several components into a catalyst.
 
 # db 208
 nomifactory.quest.db.208.title=発射台とロケット組立機
-nomifactory.quest.db.208.desc=いずれは月など宇宙への進出も視野に入れるかもしれません。進捗には必要ないものの、月ではOverworldではめったに見つけられない鉱脈に出会うことができます。そのためには、ロケットも必要だし、いろいろな準備が必要です。<nl><nl>ロケット本体を作る前に、発射台を作る必要があります。<66>Launch Pad<rr>ブロックは、地面に平らに3×3レイアウトで配置し、床を形成します。<nl><nl>Structure Tower<br>は、<66>Structure Tower<br>ブロックの柱で形成されており、ロケットを直立させることができます。Structure Towerのうち一番下のブロックは、Launch Padの好きな側面に、Launch Padブロックと同じ高さで隣接して置く必要があります。<nl><nl>ロケットはStructure Towerよりも低いものしか作ることができません。今回のようにStructure Towerブロックが6個の場合、ロケットは最大5ブロックになります。高いロケットを作るには、より多くのStructure Towerのブロックを使って高いタワーを作る必要があります。<nl><nl><33>Rocket Assembling Machine<rr>はLaunch Padの横に（Launch Padの上ではなく）1ブロック高く設置する必要があり、Rocket Assembling Machineの底が発射台の上と同じ高さになるようにします。また、これを動かすためにはRFパワーの供給が必要です。<nl><nl>
+nomifactory.quest.db.208.desc=いずれは月など宇宙への進出も視野に入れるかもしれません。進捗には必要ないものの、月ではOverworldではめったに見つけられない鉱脈に出会うことができます。そのためには、ロケットも必要だし、いろいろな準備が必要です。<nl><nl>ロケット本体を作る前に、発射台を作る必要があります。<66>Launch Pad<rr>ブロックは、地面に平らに3×3レイアウトで配置し、床を形成します。<nl><nl>Structure Tower<rr>は、<66>Structure Tower<rr>ブロックの柱で形成されており、ロケットを直立させることができます。Structure Towerのうち一番下のブロックは、Launch Padの好きな側面に、Launch Padブロックと同じ高さで隣接して置く必要があります。<nl><nl>ロケットはStructure Towerよりも低いものしか作ることができません。今回のようにStructure Towerブロックが6個の場合、ロケットは最大5ブロックになります。高いロケットを作るには、より多くのStructure Towerのブロックを使って高いタワーを作る必要があります。<nl><nl><33>Rocket Assembling Machine<rr>はLaunch Padの横に（Launch Padの上ではなく）1ブロック高く設置する必要があり、Rocket Assembling Machineの底が発射台の上と同じ高さになるようにします。また、これを動かすためにはRFパワーの供給が必要です。<nl><nl>
 
 # db 209
 nomifactory.quest.db.209.title=Advanced Extended Crafting Table
@@ -836,7 +836,7 @@ nomifactory.quest.db.209.desc=With the Extended Crafting Table, you can now craf
 
 # db 210
 nomifactory.quest.db.210.title=スチール製厚板
-nomifactory.quest.db.210.desc=簡単な構造のロケットでも、その構造上<66>Heavy Plate<rr>が必要です。この場合は<66>Steel<r>で作られていますね。このプレートの作成には、少なくとも<66>MV Compressor<rr>が必要です。
+nomifactory.quest.db.210.desc=簡単な構造のロケットでも、その構造上<66>Heavy Plate<rr>が必要です。この場合は<66>Steel<rr>で作られていますね。このプレートの作成には、少なくとも<66>MV Compressor<rr>が必要です。
 
 # db 211
 nomifactory.quest.db.211.title=月への飛行計画
@@ -921,7 +921,7 @@ nomifactory.quest.db.231.desc=Endervoirは基本的なNuclearCraftの無限水�
 
 # db 232
 nomifactory.quest.db.232.title=月へ飛ぶ
-nomifactory.quest.db.232.desc=ロケットの組み立て、燃料の充填、目的地の設定が終わったら、いよいよ打ち上げ前のチェックリストです。<nl><nl>- <ee>Space Suit(4点セット)を着用し、Oxygenのタンクが満タンであることを確認してください。もし、月にしばらく滞在する予定があるなら、gas charging padとEnder Tank（Oxygenを充填したもの）を持っていくといいかもしれません。<nl><nl>テレポート:<nl><nl>- もし<a>Dislocator<rr>を使うのであれば、Overworldに設定したものと、月に設定したものの2枚を持っていくようにしましょう。また、Overworldのものを月面に置くための台座も一緒に持ってきてください。<nl><nl>- <aa>Telepad<rr>にした場合は、OverworldにTelepadを設置し、そこへつながる座標を持っていることを確認しましょう。座標セレクター、blank Paper、2つ目のTelepad設定用の素材を必ず持参してください。また、エネルギーとしてDew of the VoidとRFパワー（<66>Solar Panel<rr>や<66>Capacitor Bank<rr>など）を持ってきてください。<nl><nl>いずれの場合も、着地したらすぐにテレポートルートの残り半分を用意し、チャンクロードする必要があります。<nl><nl>準備が整ったら、ロケットに座って<ee>Space<rr>を押してください。<nl><nl>発射！
+nomifactory.quest.db.232.desc=ロケットの組み立て、燃料の充填、目的地の設定が終わったら、いよいよ打ち上げ前のチェックリストです。<nl><nl>- <ee>Space Suit(4点セット)を着用し、Oxygenのタンクが満タンであることを確認してください。もし、月にしばらく滞在する予定があるなら、gas charging padとEnder Tank（Oxygenを充填したもの）を持っていくといいかもしれません。<nl><nl>テレポート:<nl><nl>- もし<aa>Dislocator<rr>を使うのであれば、Overworldに設定したものと、月に設定したものの2枚を持っていくようにしましょう。また、Overworldのものを月面に置くための台座も一緒に持ってきてください。<nl><nl>- <aa>Telepad<rr>にした場合は、OverworldにTelepadを設置し、そこへつながる座標を持っていることを確認しましょう。座標セレクター、blank Paper、2つ目のTelepad設定用の素材を必ず持参してください。また、エネルギーとしてDew of the VoidとRFパワー（<66>Solar Panel<rr>や<66>Capacitor Bank<rr>など）を持ってきてください。<nl><nl>いずれの場合も、着地したらすぐにテレポートルートの残り半分を用意し、チャンクロードする必要があります。<nl><nl>準備が整ったら、ロケットに座って<ee>Space<rr>を押してください。<nl><nl>発射！
 
 # db 233
 nomifactory.quest.db.233.title=Explore Actually Additions
@@ -1509,11 +1509,11 @@ nomifactory.quest.db.402.desc=<bb>GregTech<rr> adds a very versatile way of augm
 
 # db 403
 nomifactory.quest.db.403.title=出力面のスクリュー駆動！
-nomifactory.quest.db.403.desc=GregTechのマシンはすべて1つの専用出力面を持っており、<a>GregTech Wrench<ff>で側面を右クリックすることで設定することができます。隣接するインベントリにアイテムを排出する際に使用します。<nl><nl>自動出力を有効にするには、マシンのGUIを開き、左下にあるボタンのいずれかをクリックします。<66>オレンジ<rr>はアイテム、<99>ブルー<rr>は液体です。<nl><nl>出力面からもアイテムを挿入できるようにするには、<a>GregTech Screwdriver<rr> で出力面を右クリックする必要があります。<nl><nl>これは、Screwdriverで出力面を直接右クリックするか、マシングリッドからScrewdriverで<66>シフト右クリック<rr>することで行えます。<nl><nl>これらの機能を利用して、マシンを連結して加工パイプラインを作り、<bb>Applied Energistics 2<ff>による工作の自動化を促進することができます。
+nomifactory.quest.db.403.desc=GregTechのマシンはすべて1つの専用出力面を持っており、<aa>GregTech Wrench<ff>で側面を右クリックすることで設定することができます。隣接するインベントリにアイテムを排出する際に使用します。<nl><nl>自動出力を有効にするには、マシンのGUIを開き、左下にあるボタンのいずれかをクリックします。<66>オレンジ<rr>はアイテム、<99>ブルー<rr>は液体です。<nl><nl>出力面からもアイテムを挿入できるようにするには、<aa>GregTech Screwdriver<rr> で出力面を右クリックする必要があります。<nl><nl>これは、Screwdriverで出力面を直接右クリックするか、マシングリッドからScrewdriverで<66>シフト右クリック<rr>することで行えます。<nl><nl>これらの機能を利用して、マシンを連結して加工パイプラインを作り、<bb>Applied Energistics 2<ff>による工作の自動化を促進することができます。
 
 # db 404
 nomifactory.quest.db.404.title=シンプルなGregTechの自動化
-nomifactory.quest.db.404.desc=<aa>ME Interface<rr>と<aa>Pattern<rr>を処理するほとんどの<bb>GregTech<rr>マシンの自動出力機能を利用すれば、早い段階で簡単に自動化することが可能です。<nl><nl><aa>GregTech Wrench<rr>でマシンの出力面を好きな場所に移動し、<a>GregTech Screwdriver<rr>で右クリックして出力面への入力を許可し、マシンのその面にME Interfaceを配置します。<nl><nl>また、マシングリッドを介して出力面をScrewdriverでシフト右クリックすることで、出力面からの入力を許可することができます。<nl><nl>マシンを右クリックし、項目の自動出力を有効にします（GUI左下の<66>オレンジ色のボックス<rr>）。<nl><nl>次に、ME InterfaceにPatternを詰め込みます。次にオーダーをすると、ME Interfaceからマシンに素材が押し込まれ、マシンでの加工が終了すると再びInterfaceに出力を戻し、クラフトが完了します。ConduitやImport Busなども必要ないです！
+nomifactory.quest.db.404.desc=<aa>ME Interface<rr>と<aa>Pattern<rr>を処理するほとんどの<bb>GregTech<rr>マシンの自動出力機能を利用すれば、早い段階で簡単に自動化することが可能です。<nl><nl><aa>GregTech Wrench<rr>でマシンの出力面を好きな場所に移動し、<aa>GregTech Screwdriver<rr>で右クリックして出力面への入力を許可し、マシンのその面にME Interfaceを配置します。<nl><nl>また、マシングリッドを介して出力面をScrewdriverでシフト右クリックすることで、出力面からの入力を許可することができます。<nl><nl>マシンを右クリックし、項目の自動出力を有効にします（GUI左下の<66>オレンジ色のボックス<rr>）。<nl><nl>次に、ME InterfaceにPatternを詰め込みます。次にオーダーをすると、ME Interfaceからマシンに素材が押し込まれ、マシンでの加工が終了すると再びInterfaceに出力を戻し、クラフトが完了します。ConduitやImport Busなども必要ないです！
 
 # db 405
 nomifactory.quest.db.405.title=クラフト計算機
