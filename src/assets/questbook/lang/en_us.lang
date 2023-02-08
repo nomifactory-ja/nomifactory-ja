@@ -803,20 +803,20 @@ nomifactory.quest.db.201.title=Tungsten
 nomifactory.quest.db.201.desc=<66>Tungsten<rr> is a material that requires an <33>EV Electrolyzer<rr> and an <33>Electric Blast Furnace<rr> with at least <66>Nichrome Coils<rr>.<nl><nl>It is only found from <66>Tungstate<rr>, which is an abundant component of <66>Tungstate Ore<rr> and <66>Scheelite Ore<rr> sent through your ore processing. Tungstate is also obtainable in small quantities from centrifuging <66>Endstone Dust<rr> or extremely small quantities from centrifuging <99>Lava<rr>.<nl><nl>Tungstate needs to be electrolyzed with <99>Hydrogen<rr> to get to the Tungsten, which then needs to be cooked in the EBF for Tungsten ingots.<nl><nl>
 
 # db 202
-nomifactory.quest.db.202.title=Apollo Program
-nomifactory.quest.db.202.desc=This is one of the simpler rockets you can build. The specifics of the shape don't really matter, as long as the rocket engines are on the bottom and all the parts are added. It also needs to be inside the edges of the Launch Pad and not taller than the Structure Tower.<nl><nl><aa>In order to progress this quest chain further, you'll first need to complete the Interdimensional Transport (either Dislocators or Telepad) questline and the Rocket Fuel questline, both of which are nearby on this quest tab.
+nomifactory.quest.db.202.title=アポロ計画
+nomifactory.quest.db.202.desc=このロケットは、よりシンプルに作ることができるロケットの一つです。ロケットのエンジンが底面にあり、必要なすべてのパーツが追加されていれば、どんな形状でも問題アリません。また、発射台の端の内側で、高さがStructure Tower以下である必要があります。<nl><nl><aa>このクエストを進めるには、このクエストタブ内の近くにある次元間移動クエストの「ディスロケーターを用いた思考法」または「テレパッド」と、「ロケット燃料」クエストを完了する必要があります。<rr>
 
 # db 203
 nomifactory.quest.db.203.title=The Second Tier Three Circuits
 nomifactory.quest.db.203.desc=Marginally cheaper to make than <66>Electronic Processor Arrays<rr>, and also the only way to make <66>Refined Processor Mainframes<rr>, which is the first Tier Four circuit.
 
 # db 204
-nomifactory.quest.db.204.title=Space Suit
-nomifactory.quest.db.204.desc=Making yourself a space suit is the most important step towards your space adventures.<nl><nl>This suit lets you breathe in space, which is kind of important.
+nomifactory.quest.db.204.title=宇宙服
+nomifactory.quest.db.204.desc=Space Suitを自分で作ることは、宇宙への冒険のための最も重要なステップです。<nl><nl>このスーツは宇宙で呼吸ができるようにするもので、重要なものです。
 
 # db 205
-nomifactory.quest.db.205.title=Suit Workstation
-nomifactory.quest.db.205.desc=The Suit Workstation is needed to install <66>Low Pressure Tanks<rr> (or a larger tank if you like) onto your Space Suit Chest-Piece.<nl><nl>Once installed, you can stand on a <aa>Gas Charging Pad<rr> to fill up the tanks with <99>Oxygen<rr>. Of course, you'll need to fill the Gas Charging Pad with Oxygen first.
+nomifactory.quest.db.205.title=スーツワークステーション
+nomifactory.quest.db.205.desc=これは、Space Suitの胸部に<66>Low Pressure Tank<rr>（またはそれ以上のタンク）を取り付けるために必要なワークステーションです。<nl><nl>設置後は<aa>Gas Charging Pad<rr>の上に立ち、<99>Oxygen<rr>をタンクに充填することができます。もちろん、最初にGas Charging PadにOxygenを充填しておく必要があります。
 
 # db 206
 nomifactory.quest.db.206.title=Advanced Component
@@ -827,24 +827,24 @@ nomifactory.quest.db.207.title=Advanced Catalyst
 nomifactory.quest.db.207.desc=Combine several components into a catalyst.
 
 # db 208
-nomifactory.quest.db.208.title=Launch Pad and Rocket Assembly Machine
-nomifactory.quest.db.208.desc=At some point you might consider venturing into space, like the Moon. While it's not at all required for the progression, you might find it valuable: to say the least, the Moon contains ore veins which are otherwise very rare to find in the Overworld. And for this, you'll need a rocket and a whole lot of preparations.<nl><nl>Before you can build the rocket itself, you'll need to create a launch pad. The <66>Launch Pad<rr> blocks go in a 3x3 layout flat on the ground to form the platform.<nl><nl>The Structure Tower<rr> is formed from a column of <66>Structure Tower<rr> blocks that holds your rocket upright. The first block goes adjacent to any side of the launch pad platform (on the same Y-level as the launch pad blocks).<nl><nl>With 6 Structure Tower blocks, you can only build a rocket 5 blocks high, since any higher would exceed the height of the tower. To build a taller rocket, you'll need to build a taller tower using more Structure Tower blocks.<nl><nl>The <33>Rocket Assembling Machine<rr> needs to be placed next to the launch pad (not on it) 1 block higher than the platform, so that the bottom of the Rocket Assembler is flush with the top of the launch pad. It also needs to be supplied with RF power to function.<nl><nl>
+nomifactory.quest.db.208.title=発射台とロケット組立機
+nomifactory.quest.db.208.desc=いずれは月など宇宙への進出も視野に入れるかもしれません。進捗には必要ないものの、月ではOverworldではめったに見つけられない鉱脈に出会うことができます。そのためには、ロケットも必要だし、いろいろな準備が必要です。<nl><nl>ロケット本体を作る前に、発射台を作る必要があります。<66>Launch Pad<rr>ブロックは、地面に平らに3×3レイアウトで配置し、床を形成します。<nl><nl>Structure Tower<br>は、<66>Structure Tower<br>ブロックの柱で形成されており、ロケットを直立させることができます。Structure Towerのうち一番下のブロックは、Launch Padの好きな側面に、Launch Padブロックと同じ高さで隣接して置く必要があります。<nl><nl>ロケットはStructure Towerよりも低いものしか作ることができません。今回のようにStructure Towerブロックが6個の場合、ロケットは最大5ブロックになります。高いロケットを作るには、より多くのStructure Towerのブロックを使って高いタワーを作る必要があります。<nl><nl><33>Rocket Assembling Machine<rr>はLaunch Padの横に（Launch Padの上ではなく）1ブロック高く設置する必要があり、Rocket Assembling Machineの底が発射台の上と同じ高さになるようにします。また、これを動かすためにはRFパワーの供給が必要です。<nl><nl>
 
 # db 209
 nomifactory.quest.db.209.title=Advanced Extended Crafting Table
 nomifactory.quest.db.209.desc=With the Extended Crafting Table, you can now craft 5x5 recipes.
 
 # db 210
-nomifactory.quest.db.210.title=Steel Heavy Plates
-nomifactory.quest.db.210.desc=Even simple rockets demand <66>Heavy Plates<rr> for their construction. In this case, made out of <66>Steel<rr>. This plate requires at least an <66>MV Compressor<rr>.
+nomifactory.quest.db.210.title=スチール製厚板
+nomifactory.quest.db.210.desc=簡単な構造のロケットでも、その構造上<66>Heavy Plate<rr>が必要です。この場合は<66>Steel<r>で作られていますね。このプレートの作成には、少なくとも<66>MV Compressor<rr>が必要です。
 
 # db 211
-nomifactory.quest.db.211.title=Flightplan To The Moon
-nomifactory.quest.db.211.desc=You'll need this to set the <aa>Guidance Computer's<rr> destination to the Moon (Luna).<nl><nl>In your assembled Rocket, press the Rocket GUI Hotkey (default is <ee>C<rr> but you may need to rebind it). Click the little square that says "Guidance Computer" to pull up the Guidance Computer inventory. Then, place the blank chip into the Guidance Computer. Back out of this menu (<ee>Esc<rr> or <ee>E<rr>) to get back to the main Rocket GUI.<nl><nl>Click the <cc>Select Dst<rr> button, choose Luna, and click the Select button to assign the destination to the chip.<nl><nl><ee>Note: if you want to return your rocket to Earth, you will need to change the destination in this manner again to Earth before launching.<rr>
+nomifactory.quest.db.211.title=月への飛行計画
+nomifactory.quest.db.211.desc=Planet Id Chipは<aa>Guidance Computerの目的地を月（Luna）に設定するために必要です。<nl><nl>組み立てたロケットでRocket GUIのホットキー（デフォルトは<ee>C<rr>ですが、リバインドが必要な場合もあります）を押します。「Guidance Computer」と書かれた小さな四角をクリックすると、Guidance Computerのインベントリが表示されます。次に、空のチップをGuidance Computerにセットします。このメニューから戻る(<ee>Esc<rr>または<ee>E<rr>)と、RocketのメインGUIに戻ります。<nl><nl><cc>Select Dst<rr>ボタンをクリックし、Lunaを選択し、Selectボタンをクリックすると、目的地がチップに割り当てられます。<nl><nl><ee>注意：ロケットを地球に戻したい場合は、打ち上げ前に再度この方法で目的地を地球に変更する必要があります。<rr>
 
 # db 212
-nomifactory.quest.db.212.title=Fuel Loading
-nomifactory.quest.db.212.desc=The <33>Fueling Station<rr> is how rockets get fuel.<nl><nl>First, put together your Rocket, then <aa>Scan<rr> and <cc>Build<rr> the Rocket in the <33>Rocket Assembling Machine<rr> to assemble it (which turns it into an entity). Next, with the <aa>Linker<rr> in your hand, right-click the Fueling Station then the Rocket Assembling Machine to link the Fueling Station to the constructed Rocket. <nl><nl>You'll get a confirmation message when you do it right, and a little line will appear between the Fueling Station and the rocket.<nl><nl>Now just get <99>Rocket Fuel<rr> into the Fueling Station and it will transfer to the Rocket automatically.<nl>
+nomifactory.quest.db.212.title=燃料の充填
+nomifactory.quest.db.212.desc=<33>Fueling Station<rr>はロケットが燃料を充填するための場所です。<nl><nl>まず、ロケットを組み立て、<33>Rocket Assembling Machine<rr>のGUIにある<aa>Scan<rr>と<cc>Build<rr>ボタンを使用してロケットを組み立てます（実体にします）。次に、<aa>Linker<rr>を手に持って、Fueling Station→Rocket Assembling Machineの順に右クリックし、Fueling Stationと組み立てたロケットをリンクさせます。<nl><nl>うまくいくと確認メッセージが表示され、Fueling Stationとロケットの間に小さな線が表示されます。<nl><nl>あとは、<99>Rocket Fuel<rr>をFueling Stationに入れれば、自動的にロケットに転送されます。<nl>
 
 # db 213
 nomifactory.quest.db.213.title=Staff of Traveling
@@ -920,8 +920,8 @@ nomifactory.quest.db.231.desc=Endervoirは基本的なNuclearCraftの無限水�
 
 
 # db 232
-nomifactory.quest.db.232.title=Fly To The Moon
-nomifactory.quest.db.232.desc=With your Rocket built, fuel loaded, and destination set, it's time for the prelaunch checklist.<nl><nl>- <ee>Make sure you're wearing your Space Suit<rr> (all four pieces) and that it has a full tank of Oxygen. If you plan to stay on the Moon a while, maybe bring a gas charging pad and Ender Tank (being filled with Oxygen) with you.<nl><nl>Teleportation:<nl><nl>- If you decided to go with <aa>Dislocators<rr>, make sure you take two with you: one bound to the Overworld, the other ready to bind to the Moon. Also bring along a Pedestal to put the Overworld one on the Moon surface.<nl><nl>- If you decided to go with <aa>Telepads<rr>, make sure you've constructed a Telepad in the Overworld and that you're carrying coordinates that lead to it. Make sure to bring your Coordinate Selector, blank Paper, and materials for the second Telepad setup. Bring Dew of the Void and RF power (like a <66>Solar Panel<rr> and a <66>Capacitor Bank<rr>).<nl><nl>In either case, as soon as you land you will need to prepare the other half of the teleportation route, and chunkload it.<nl><nl>When you're sure you're prepared, sit in your rocket and press <ee>Space<rr>.<nl><nl>Liftoff!
+nomifactory.quest.db.232.title=月へ飛ぶ
+nomifactory.quest.db.232.desc=ロケットの組み立て、燃料の充填、目的地の設定が終わったら、いよいよ打ち上げ前のチェックリストです。<nl><nl>- <ee>Space Suit(4点セット)を着用し、Oxygenのタンクが満タンであることを確認してください。もし、月にしばらく滞在する予定があるなら、gas charging padとEnder Tank（Oxygenを充填したもの）を持っていくといいかもしれません。<nl><nl>テレポート:<nl><nl>- もし<a>Dislocator<rr>を使うのであれば、Overworldに設定したものと、月に設定したものの2枚を持っていくようにしましょう。また、Overworldのものを月面に置くための台座も一緒に持ってきてください。<nl><nl>- <aa>Telepad<rr>にした場合は、OverworldにTelepadを設置し、そこへつながる座標を持っていることを確認しましょう。座標セレクター、blank Paper、2つ目のTelepad設定用の素材を必ず持参してください。また、エネルギーとしてDew of the VoidとRFパワー（<66>Solar Panel<rr>や<66>Capacitor Bank<rr>など）を持ってきてください。<nl><nl>いずれの場合も、着地したらすぐにテレポートルートの残り半分を用意し、チャンクロードする必要があります。<nl><nl>準備が整ったら、ロケットに座って<ee>Space<rr>を押してください。<nl><nl>発射！
 
 # db 233
 nomifactory.quest.db.233.title=Explore Actually Additions
