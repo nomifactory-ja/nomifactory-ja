@@ -1069,7 +1069,7 @@ nomifactory.quest.db.269.desc=<66>Power IC Wafer<rr> may be new if you skipped s
 
 # db 270
 nomifactory.quest.db.270.title=LV 粉砕機
-nomifactory.quest.db.270.desc=<33>Macerator<rr>は、今まで必要だった<aa>Mortar<rr>に代わる、素材を粉砕するのに便利な機械である。今後いろいろなことに使うことになる重要な機械です。<nl><nl>近い将来のMaceratorの便利な用途としては、<66>Clay<rr>や<66>Terracotta<rr>を<66>Clay Dust<ff>に粉砕することが挙げられます。また、<66>Cobblestone<rr>を<66>Gravel<rr>、<66>Sand<rr>、<66>Dust<rr>に粉砕するパイプラインを作るために複数台構成することもできます。<nl><nl>MaceratorがMortarより優れている点は、耐久性が限られていないことに加えて、粉砕時に追加の材料を入手するチャンスがあることです。これらは<ee>副産物<rr>と呼ばれ、HV以上のMaceratorは1つではなく3つのスロットがあるので副産物が出現します。<nl><nl> <bb>JEI<rr> でMaceratorレシピを読むとき、どの出力が副産物なのかは<ee>出現のチャンスがあるかどうかツールチップで確認できます<rr>：保証出力はチャンスをリストアップしません。Maceratorのレシピに表示される確率は常にMVであり、<ee>MVを超えた階層では確率が倍増<rr>し、最大で100%になります。<nl><nl>例えば、鉱石を砕いて得られる一次産品は次のような規模です：<nl>• LV: <cc>0%%<nl><rr>• MV: <cc>14%%<rr> (<bb>JEI<rr>に記載)<nl><rr>• HV: <aa>28%%<nl><rr>• EV: <aa>56%%<nl><rr>• IV以上: <aa>100%%<rr><nl><nl>最後に、Maceratorは出力が可能なスペースがある場合にのみ処理を開始します。作業を継続できるように、必ず空にするようにしてください。
+nomifactory.quest.db.270.desc=<33>Macerator<rr>は、今まで必要だった<aa>Mortar<rr>に代わる、素材を粉砕するのに便利な機械である。今後いろいろなことに使うことになる重要な機械です。<nl><nl>近い将来のMaceratorの便利な用途としては、<66>Clay<rr>や<66>Terracotta<rr>を<66>Clay Dust<ff>に粉砕することが挙げられます。また、<66>Cobblestone<rr>を<66>Gravel<rr>、<66>Sand<rr>、<66>Dust<rr>に粉砕するパイプラインを作るために複数台構成することもできます。<nl><nl>MaceratorがMortarより優れている点は、耐久性が限られていないことに加えて、粉砕時に追加の材料を入手するチャンスがあることです。これらは<ee>副産物<rr>と呼ばれ、HV以上のMaceratorは1つではなく3つのスロットがあるので副産物が出現します。<nl><nl> <bb>JEI<rr> でMaceratorレシピを読むとき、どの出力が副産物なのかは<ee>出現のチャンスがあるかどうかツールチップで確認できます<rr>：保証出力はチャンスをリストアップしません。Maceratorのレシピに表示される確率は常にMVであり、<ee>MVを超えた階層では確率が倍増<rr>し、最大で100%%になります。<nl><nl>例えば、鉱石を砕いて得られる一次産品は次のような規模です：<nl>• LV: <cc>0%%<nl><rr>• MV: <cc>14%%<rr> (<bb>JEI<rr>に記載)<nl><rr>• HV: <aa>28%%<nl><rr>• EV: <aa>56%%<nl><rr>• IV以上: <aa>100%%<rr><nl><nl>最後に、Maceratorは出力が可能なスペースがある場合にのみ処理を開始します。作業を継続できるように、必ず空にするようにしてください。
 
 # db 271
 nomifactory.quest.db.271.title=Reactor Stabilizer
@@ -1157,7 +1157,7 @@ nomifactory.quest.db.295.desc=<bb>Draconic Evolution<rr> features <ee>Fusion Cra
 
 # db 296
 nomifactory.quest.db.296.title=グレインズ・オブ・インフィニティ
-nomifactory.quest.db.296.desc=<66>Grains of Infinity<rr>を手に入れるには、岩盤まで採掘する必要があります。<nl><nl>Flint and Steelを使用して岩盤に火をつけ、消えるのを待ちます。最後まで燃え、燃え尽きた火に対して、50%の確率で「Grains Of Infinity」が出現します。<nl><nl>でも、この先ずっと岩盤に火をつけていたい人はいないでしょう。そう遠くないうちに、もっといい方法を教えます、心配しないでください。
+nomifactory.quest.db.296.desc=<66>Grains of Infinity<rr>を手に入れるには、岩盤まで採掘する必要があります。<nl><nl>Flint and Steelを使用して岩盤に火をつけ、消えるのを待ちます。最後まで燃え、燃え尽きた火に対して、50%%の確率で「Grains Of Infinity」が出現します。<nl><nl>でも、この先ずっと岩盤に火をつけていたい人はいないでしょう。そう遠くないうちに、もっといい方法を教えます、心配しないでください。
 
 # db 297
 nomifactory.quest.db.297.title=Mana Infused Ingot
@@ -1701,7 +1701,7 @@ nomifactory.quest.db.527.desc=Glowing!<nl><nl>This one takes a significant amoun
 
 # db 528
 nomifactory.quest.db.528.title=ハードタイプのアップグレードキット
-nomifactory.quest.db.528.desc=……おや！？<nl><66>STEAM DYNAMO<rr>のようすが……！<nl><nl>Upgrade kitは、Thermal Expansion Dymano、マシン、Portable Tankにも適用可能です。マシンとDynamoの場合はオーグメントスロットが追加されます。<nl><nl>Dynamoに適用すると、<aa>発電量と燃料の燃焼率が150%<rr>に向上します。<nl><nl>Portable Tankの場合は基本容量が<aa>200バケツ分<rr>に増加します。<nl><nl>1tickあたり<aa>150%の出力で動作させることができるようになります。マシンは大きな力を使えば使うほど、速く動きます。<nl>
+nomifactory.quest.db.528.desc=……おや！？<nl><66>STEAM DYNAMO<rr>のようすが……！<nl><nl>Upgrade kitは、Thermal Expansion Dymano、マシン、Portable Tankにも適用可能です。マシンとDynamoの場合はオーグメントスロットが追加されます。<nl><nl>Dynamoに適用すると、<aa>発電量と燃料の燃焼率が150%%<rr>に向上します。<nl><nl>Portable Tankの場合は基本容量が<aa>200バケツ分<rr>に増加します。<nl><nl>1tickあたり<aa>150%%の出力で動作させることができるようになります。マシンは大きな力を使えば使うほど、速く動きます。<nl>
 
 # db 529
 nomifactory.quest.db.529.title=IV Assembling Machine
@@ -1814,7 +1814,7 @@ nomifactory.quest.db.556.desc=Now that you have a <33>Wiremill<ff> and a <33>Com
 
 # db 558
 nomifactory.quest.db.558.title=フューエルカタライザー
-nomifactory.quest.db.558.desc=すべての<33>dynamo<ff>で使用できるオーグメントです。dynamo内部で使用される燃料の効率を上げ、発電量を増加させます。ただし、燃料の寿命が延びるだけで、発電量は変わりません。したがって、<66>Fuel Catalyzer<ff>は<66>Coal<ff>の採掘に必要な量を減らしますが、1秒あたりのRFの生産量は増加しません。<nl><nl>各Fuel Catalyzerは燃料効率を<aa>15%<ff>、相乗的に向上させます。（したがって、2つで<aa>30%長く<ff>なり、3つで<aa>45%長く<ff>なります）
+nomifactory.quest.db.558.desc=すべての<33>dynamo<ff>で使用できるオーグメントです。dynamo内部で使用される燃料の効率を上げ、発電量を増加させます。ただし、燃料の寿命が延びるだけで、発電量は変わりません。したがって、<66>Fuel Catalyzer<ff>は<66>Coal<ff>の採掘に必要な量を減らしますが、1秒あたりのRFの生産量は増加しません。<nl><nl>各Fuel Catalyzerは燃料効率を<aa>15%%<ff>、相乗的に向上させます。（したがって、2つで<aa>30%%長く<ff>なり、3つで<aa>45%%長く<ff>なります）
 
 # db 559
 nomifactory.quest.db.559.title=Auxiliary Transmission Coils
