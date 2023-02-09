@@ -647,8 +647,8 @@ nomifactory.quest.db.159.title=Nichrome Coil Blocks
 nomifactory.quest.db.159.desc=<66>Nichrome<rr> is the third coil material available, increasing your EBF's operating temperature to 3600K so it can process more advanced materials.
 
 # db 160
-nomifactory.quest.db.160.title=Sulfuric Heavy, Light, Naphtha and Gas
-nomifactory.quest.db.160.desc=First, you need some <99>Oil<rr>. Pick your favorite method: you should engineer a renewable automated source, as you will need large quantities.<nl><nl>Start off by running the Oil through the <33>Distillation Tower<rr>. This will result in <99>Sulfuric Heavy Fuel<rr>, <99>Sulfuric Light Fuel<rr>, <99>Sulfuric Naphtha<rr>, and <99>Sulfuric Gas<rr>.<nl><nl>These will all need to be hydrodesulfurized using <99>Hydrogen<rr> in a <33>Chemical Reactor<rr>, which produces the non-Sulfuric versions.<nl><nl>All of these products are useful, so figure out how you want to store the variety and large quantities of fluids.
+nomifactory.quest.db.160.title=硫黄重油、軽油、ナフサ、ガス
+nomifactory.quest.db.160.desc=まず、<99>Oil<rr>が必要です。次にお好きな方法を選んでください。大量に必要になるので、再生可能な自動化されたソースを設計する必要があります。<nl><nl>まず、<33>Distillation Tower<rr>にOilを通すことから始めます。これにより<99>Sulfuric Heavy Fuel<rr>、<99>Sulfuric Light Fuel<rr>、<99>Sulfuric Naphtha<rr>、<99>Sulfuric Gas<rr>を得られます<nl>。<nl>これらはすべて<33>Chemical Reactor<rr>で<99>Hydrogen<rr>を使って水素化脱硫する必要があり、これにより無硫黄のものが生成できます。<nl><nl>どれも便利な製品なので、多種類な大量の液体をどのように保存するかを考えてみてください。
 
 # db 161
 nomifactory.quest.db.161.title=Refinery Gas
@@ -743,8 +743,8 @@ nomifactory.quest.db.183.title=Fiber Reinforced Epoxy Substrate
 nomifactory.quest.db.183.desc=A <66>Fiber-Reinforced Epoxy Resin Sheet<rr> is made in a <33>Chemical Bath<rr>, not a <33>Chemical Reactor<rr>. The board itself is made in a Chemical Reactor though.<nl><nl>Other than that, it's very similar to the other substrates you've made so far. This board type unlocks <66>Nanocircuits<rr>, which span tiers three through six.
 
 # db 184
-nomifactory.quest.db.184.title=Navigating Petrochem
-nomifactory.quest.db.184.desc=Petrochemistry is the category of organic chemistry pertaining to petroleum, otherwise known as <99>Oil<rr>.<nl><nl><bb>GregTech<rr>'s petrochemistry may seem daunting at first, given the sheer number of chemicals and processing options, but it's actually easier to get into than you think.<nl><nl>Oil is the starting point, and can be found in several variants which you can pump from finite natural wells on the Overworld, as well as coming renewably from <66>Oilsands Ore<rr> and directly in liquid form from an <33>Oil Drilling Rig<rr>. The variant simply called "Oil" is the standard ratio of distillation products and is what you will always get from the latter two sources. <99>Light Oil<rr> and <99>Heavy Oil<rr> are effectively the same as Oil, but with different ratios of distillation products.<nl><nl>The upcoming quests will guide you through the basics of petrochemistry. Once you've mastered that, feel free to explore further.<nl>
+nomifactory.quest.db.184.title=石油化学への手引き
+nomifactory.quest.db.184.desc=石油化学は、石油（別名<99>Oil<rr>）に関連する有機化学のカテゴリーです。<nl><nl><bb>GregTech<rr>の石油化学は、化学物質や処理方法の選択肢が膨大なため、最初は難しく感じるかもしれませんが、実は思ったより簡単に参入できるのです。<nl><nl>石油は出発点であり、オーバーワールドの有限な天然井戸から汲み上げることができ、<66>Oilsands Ore<r>や<33>Oil Drilling Rig<r>から直接液体として再生可能なものなど、様々な種類が見つかります。単に"Oil"と呼ばれるバリエーションは蒸留製品の標準的な比率であり、次に挙げるの2つのソースから常に得られるものです。<99>Light Oil<rr>と<99>Heavy Oil<rr>は、蒸留生成物の比率が異なるだけで、実質的にはOilと同じです。<nl><nl>これからのクエストでは、石油化学の基本を学ぶことができます。これをマスターしたら、さらに自由に探索を楽しんでください。<nl>
 
 # db 185
 nomifactory.quest.db.185.title=Epoxy
@@ -1781,8 +1781,8 @@ nomifactory.quest.db.548.title=型
 nomifactory.quest.db.548.desc=<aa>Mold<rr>は、<33>Fluid Solidifier<rr>や<33>Alloy Smelter<rr>で素材を特定の形状に形成するために使用されます。これらはクラフト中に消費されたり破損したりしないので、マシンに入れっぱなしにしてその形状専用にすることができます。<nl><nl>Fluid Solidifierはさらに効率的なオプションです。例えば、Alloy Smelterで1つの<66>Gear<rr>を作るのに <ee>8つのインゴット<rr>を使用することになりますが、Fluid ExtractorとSolidifierでは<ee>4つのインゴット<rr>で作成できます。<nl><nl>誤って<aa>Extruder Shape<rr>を作らないように注意する必要があります。これらは、後で入手できるマシンのためのものです。このクエストに登場する3つの型は、すぐにでも使えるものばかりです。
 
 # db 549
-nomifactory.quest.db.549.title=Oil Drilling Rig
-nomifactory.quest.db.549.desc=If you don't like the idea of mining out Oilsands veins, you can build an <33>Oil Drilling Rig<rr>.<nl><nl>You'll need to provide it with power, <99>Drilling Fluid<rr>, and a steady supply of <66>Pipes<rr>. The Pipes only have a 1%% chance to break per bucket of <99>Oil<rr> drilled.<nl><nl>You'll need to supply at least <ee>HV power<rr> to your rig, and it will overclock with higher energy tiers. Positions of hatches and buses can be swapped with any <66>Solid Steel Machine Casing<rr>.<nl><nl>If the multiblock preview in <bb>JEI<rr> is confusing, note that you can <ee>hold shift and drag-right-click<rr> to scale the preview to fit the window. Place then <66>sneak-right click<rr> the controller block with an empty hand to enable the in-world preview.<nl><nl>Keep in mind when placing the structure that there are 12 pipes that extend downward from the level of the controller.<nl>
+nomifactory.quest.db.549.title=石油掘削装置
+nomifactory.quest.db.549.desc=Oilsand鉱脈を採掘するのが嫌なら、<33>Oil Drilling Rig<rr>を作りましょう。<nl><nl>電源、<99>Drilling Fluid<rr>、<66>Pipe<rr>を安定的に供給する必要があります。パイプは<99>Oil<rr>を1バケツ分掘るごとに1%%の確率で壊れてしまいます。<nl><nl>少なくとも<ee>HV以上のパワー<rr>をリグに供給する必要があり、より高いエネルギーtierを渡せばオーバークロックすることになります。HatchとBusの位置は、どの<66>Solid Steel Machine Casing<rr>とも入れ替えることができます。<nl><nl><bb>JEI<rr>のマルチブロックプレビューが分かりにくい場合は、<ee>シフトを押しながら右クリックをドラッグ<rr>すると、ウィンドウに合わせてプレビューを拡大縮小することができます。何も持っていない状態でController Blockを<66>シフト+右クリック<rr>で、インワールドプレビューを有効にします。<nl><nl>コントローラーの高さから下に向かって12本のパイプが伸びていることを念頭に置きながら、ブロックを配置してください。<nl>
 
 # db 550
 nomifactory.quest.db.550.title=Vertical Digger
