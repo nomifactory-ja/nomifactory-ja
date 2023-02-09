@@ -651,8 +651,8 @@ nomifactory.quest.db.160.title=硫黄重油、軽油、ナフサ、ガス
 nomifactory.quest.db.160.desc=まず、<99>Oil<rr>が必要です。次にお好きな方法を選んでください。大量に必要になるので、再生可能な自動化されたソースを設計する必要があります。<nl><nl>まず、<33>Distillation Tower<rr>にOilを通すことから始めます。これにより<99>Sulfuric Heavy Fuel<rr>、<99>Sulfuric Light Fuel<rr>、<99>Sulfuric Naphtha<rr>、<99>Sulfuric Gas<rr>を得られます<nl>。<nl>これらはすべて<33>Chemical Reactor<rr>で<99>Hydrogen<rr>を使って水素化脱硫する必要があり、これにより無硫黄のものが生成できます。<nl><nl>どれも便利な製品なので、多種類な大量の液体をどのように保存するかを考えてみてください。
 
 # db 161
-nomifactory.quest.db.161.title=Refinery Gas
-nomifactory.quest.db.161.desc=Like other petroleum products, <99>Sulfuric Gas<rr> is hydrodesulfurized into <99>Refinery Gas<rr> using <99>Hydrogen<rr> in a <33>Chemical Reactor<rr>.<nl><nl>Refinery Gas can be cracked and further distilled for its constituents, but it is also useful as fuel for <33>Gas Turbines<rr>. While it can be burned directly, centrifuging Refinery Gas produces <99>LPG<rr> (Liquefied Petroleum Gas), which is the ideal fuel for Gas Turbines, and <99>Methane<rr> which is a potential suboptimal turbine fuel but is also useful for various chemical reactions.
+nomifactory.quest.db.161.title=精製ガス
+nomifactory.quest.db.161.desc=他の石油製品同様、<99>Sulfuric Gas<rr>は<33>Chemical Reacotr<rr>で<99>Hydrogen<rr>を用いて<99>Refinery Gas<rr>に水素化脱硫されます。<nl><nl>Refinery Gasは分解し、さらに蒸留して他の素材を得ることができますが、<33>Gas turbine<rr>の燃料としても有用です。Refinery Gasはそのまま燃やすこともできますが、遠心分離することでGas Turbineの燃料として最適な<99>LPG<rr>（液化石油ガス）と、タービン燃料としては最適ではないが、さまざまな化学反応に利用できる<99>Methane<rr>を得ることができます。
 
 # db 162
 nomifactory.quest.db.162.title=Canola Press
@@ -663,20 +663,20 @@ nomifactory.quest.db.163.title=Seed Oil, Fish Oil, Canola Oil
 nomifactory.quest.db.163.desc=A whole host of fluids can be used as the feedstock for your <99>Bio Diesel<rr>, including <99>Seed Oil<rr>, <99>Fish Oil<rr>, and the various tiers of <99>Canola Oils<rr>.<nl><nl>Fish Oil and Canola Oil are probably the easiest, but it's up to you to choose.<nl><nl>Fish are easiest to get from <aa>Guardian Models<rr> from <bb>DML<rr>.
 
 # db 164
-nomifactory.quest.db.164.title=Heavy Fuel
-nomifactory.quest.db.164.desc=<99>Heavy Fuel<rr> is mixed with <99>Light Fuel<rr> to create <99>Diesel<rr>.<nl><nl>Since Diesel requires more Light than Heavy fuel, you should consider Steam-cracking and distilling the excess quantity of Heavy Fuel for its useful constituents.
+nomifactory.quest.db.164.title=重油
+nomifactory.quest.db.164.desc=<99>Heavy Fuel<rr>は<99>Light Fuel<rr>と混合して<99>Diesel<rr>を作るためのものです。<nl><nl>DieselはHeavy FuelよりもLight Fuelを多く必要とするので、余ったHeavy FuelをSteam-crackingして、有用な成分を蒸留することを検討すべきです。
 
 # db 165
-nomifactory.quest.db.165.title=Light Fuel
-nomifactory.quest.db.165.desc=Due to the ratios required, <99>Light Fuel<rr> all goes into the production of <99>Diesel<rr>.<nl><nl>It's inadvisable to crack and distill it or burn it directly as fuel.
+nomifactory.quest.db.165.title=軽油
+nomifactory.quest.db.165.desc=比率の関係上、<99>Light Fuel<rr>はすべて<99>Diesel<rr>の製造に回されるでしょう。<nl><nl>分解して蒸留したり、燃料として直接燃やすのは好ましくありません。
 
 # db 166
-nomifactory.quest.db.166.title=Naphtha
-nomifactory.quest.db.166.desc=<99>Naphtha<rr> is used in the simple (but highly inefficient) Naphtha route for making <99>Epoxy<rr>, but is best utilized for Steam-Cracking and distilling for its constituents.<nl><nl>Notably it contains <99>Light Fuel<rr> and <99>Heavy Fuel<rr> for making more <99>Diesel<rr>, as well as many other useful chemicals for a variety of purposes.
+nomifactory.quest.db.166.title=ナフサ
+nomifactory.quest.db.166.desc=<99>Naphtha<rr>は<99>Epoxy<rr>を作るための簡単な（しかし非常に効率の悪い）Naphthaルート上で使われますが、その成分を得るためにSteam-Crackingと蒸留に最もよく利用されるものでもあります。<nl><nl>特に<99>Light Fuel<rr>と<99>Heavy Fuel<rr>は、より多くの<99>Diesel<rr>を作るために使われ、その他にも様々な用途に役立つ化学物質が含まれています。
 
 # db 167
-nomifactory.quest.db.167.title=Hydrogen Sulfide
-nomifactory.quest.db.167.desc=<99>Hydrogen Sulfide<rr> is a byproduct of hydrodesulfurization.<nl><nl>A simple chemical reaction with <99>Oxygen<rr> reprocesses it into the useful <99>Sulfuric Acid<rr>, or it can be electrolyzed for recovering the <99>Hydrogen<rr>.
+nomifactory.quest.db.167.title=硫化水素
+nomifactory.quest.db.167.desc=<99>Hydrogen Sulfide<rr>は水素化脱硫した際に発生する副生成物です。<nl><nl><99>Oxygen<rr>との簡単な化学反応により、有用な<99>Sulfuric Acid<rr>に再処理することができ、また電気分解により<99>Hydrogen<rr>を回収することもできます。
 
 # db 168
 nomifactory.quest.db.168.title=Diesel
