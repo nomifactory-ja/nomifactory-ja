@@ -563,8 +563,8 @@ nomifactory.quest.db.135.title=3つ目のTier 2の回路
 nomifactory.quest.db.135.desc=SMD部品（または余った非SMD版）と<66>Refined Circuit<rr>を組み合わせて、Tier 2の3つ目のタイプである<66>Refined Processor<rr> を作ることができます。
 
 # db 136
-nomifactory.quest.db.136.title=Small Coils
-nomifactory.quest.db.136.desc=Another electronic component.<nl><nl>Making it inside an <33>Assembling Machine<rr> is much, much cheaper than by hand, and using <66>Nickel Zinc Ferrite<rr> bolts gives even better returns.
+nomifactory.quest.db.136.title=小型コイル
+nomifactory.quest.db.136.desc=もうひとつの電子部品です。<nl><nl><33>AssemblingMachine<rr>の中で作れば、手作業よりもずっとずっと安く、<66>Nickel Zinc Ferrite<rr>ボルトを使えば、さらに良い結果が得られるでしょう。
 
 # db 138
 nomifactory.quest.db.138.title=LuV Machine Hulls
@@ -767,8 +767,8 @@ nomifactory.quest.db.190.title=Nano CPUs
 nomifactory.quest.db.190.desc=<66>Nano CPUs<rr> are advanced <66>Circuit Wafers<rr> made from infusing a <66>CPU Wafer<rr> with <66>Carbon Fibers<rr> and <99>Energized Glowstone<rr> in a <33>Chemical Reactor<rr>.<nl><nl>Then, cut the resulting wafer into dies using a <33>Cutting Machine<rr>.
 
 # db 191
-nomifactory.quest.db.191.title=The Fourth And Final Tier Two Circuits
-nomifactory.quest.db.191.desc=Using your new <66>Epoxy Circuit Boards<rr> and some familiar components, you can now make the final form of Tier Two Circuit: the <66>Microcircuit<rr>.<nl><nl>You craft four of these at once, and they're pretty cheap. Consider that you used to have to make <66>Primitive Processors<rr> for this tier, and realize how far you've come.<nl><nl>As with the final form of any tier of circuits, be sure to set up automation to stockpile these. You won't get to the <66>System-on-Chip<rr> variant recipe for a while yet.
+nomifactory.quest.db.191.title=4つ目、そして最後のTier 2の回路
+nomifactory.quest.db.191.desc=新しく手に入れた<66>Epoxy Circuit Board<rr>と使い慣れた部品を使って、Tier2の回路の最終形である<66>Microcircuit<rr>を作ることができるようになります。<nl><nl>これは一度に4つもクラフトできる上に、かなり安いです。昔はこのTierでは<66>Primitive Processor<rr>を作らなければならなかったことを考えると、どれだけ進歩したかがわかるのではないでしょうか？<nl><nl>各Tierの回路の最終形態と同様に、これらを備蓄するために自動化を設定することをお勧めします。また、<66>System-on-Chip<rr>の変形レシピには、まだしばらくはたどり着けないでしょう。
 
 # db 192
 nomifactory.quest.db.192.title=The First Tier Five Circuits
@@ -1244,8 +1244,8 @@ nomifactory.quest.db.317.title=Quantum Fluxed Eternium Heavy Plating
 nomifactory.quest.db.317.desc=A complex plating material used exclusively for the Tier Nine Micro Miner.
 
 # db 318
-nomifactory.quest.db.318.title=Epoxy Production
-nomifactory.quest.db.318.desc=There are two primary approaches to producing <99>Epoxy<rr>: <99>Bisphenol A<rr> (BPA) and <99>Naphtha<rr>. Both approaches require <99>Epichlorohydrin<rr>, which itself has a few possible approaches.<nl><nl>Naphtha is the simplest approach, where it is mixed with <99>Nitrogen Dioxide<rr> and Epichlorohydrin to yield Epoxy. This approach is easier but yields less Epoxy. You also forego making more diesel and getting distillation byproducts from Naphtha. If you have an extremely robust <99>Oil<rr> drilling and petrochemistry infrastructure in place, this might be an acceptable choice.<nl><nl>BPA can be produced using petrochemistry distillation products, or via distilling <99>Charcoal Byproducts<rr> from your <33>Pyrolyse Oven<rr> into useful components. Alternatively, you can get <99>Phenol<rr> from <66>Coal<rr> pyrolysis. <99>Fermented Biomass<rr> is also useful to distill as it provides many useful products. Epoxy made from BPA is more complex to set up initially, but also far more efficient.<nl><nl>The final decision is down to you to make. Check out recipes in <bb>JEI<rr>.
+nomifactory.quest.db.318.title=エポキシ樹脂の生成
+nomifactory.quest.db.318.desc=<99>Epoxy<rr>の生成には、主に2つのアプローチがあります。<99>Bisphenol A<rr>（BPA）と<99>Naphtha<rr>です。いずれのアプローチも<99>Epichlorohydrin<rr>が必要ですが、それ自体もいくつかのアプローチが考えられます。<nl><nl>Naphthaは最もシンプルな方法で、<99>Nitrogen Dioxide<rr>とEpichlorohydrinと混合してEpoxyを生成することができます。この方法は簡単ですが、Epoxyの収量は少なくなります。また、より多くのDieselを生成し、Naphthaからの蒸留の副産物を得ることも見送ります。極めて堅牢な<99>Oil<rr>の掘削や石油化学のインフラが整っているのであれば、これは許容範囲かもしれませんね。<nl><nl>BPAは石油化学の蒸留製品、またはPyrolyse Ovenから出る<99>Charcoal Byproducts<rr>を蒸留して有用な成分にすることで生成することができます。 また、<66>Charcoal<rr>の熱分解で<99>Phenol<rr>を得ることもできます。<99>Fermented Biomass<rr>は、多くの有用な製品を提供するため、蒸留することも有用です。BPAから作られたEpoxyは、パイプラインの設定が複雑ですが、はるかに効率的でもあります。<nl><nl>最終的に決めるのは、あなた自身です。<bb>JEI<rr>でレシピをチェックしましょう。
 
 # db 319
 nomifactory.quest.db.319.title=Farming
